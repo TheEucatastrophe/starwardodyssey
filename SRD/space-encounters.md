@@ -51,7 +51,9 @@ Emergencies
 
 The amount rolled over the number of Hits determines the type of emergency. For example; if a module has 3 Hits and the HD roll is 6, it takes the 3rd emergency result (Burning).
 Emergencies are removed after appropriate action by the crew is made. 
- 
+
+| | |
+|------|------|
 | 1 | Compromised. The next Hit the module takes will Wreck it. |
 | 2 | Breached. All the breathable atmosphere is sucked out of the module. |
 | 3 | Burning. All within the module take 1 Hit each round. The module is Wrecked after 3 rounds. |
