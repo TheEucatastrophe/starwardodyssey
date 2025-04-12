@@ -26,7 +26,23 @@ nav_order: 1
 | Heavy 
 *battle dress, hardsuit, combat frame, etc.* | 6 AP, +2 slots | Expensive |
 
- <table>
+<table>
+  <tr>
+    <th>Armour</th>
+  </tr>
+  <tr>
+    <td>Makeshift</td>
+    <td>1 AP, destroyed when reduced to 0 AP</td>
+    <td>Negligible</td>
+  </tr>
+  <tr>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+  </tr>
+</table> 
+
+<table>
   <tr>
     <th>test</th>
     <th>test</th>
