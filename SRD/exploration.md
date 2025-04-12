@@ -22,14 +22,13 @@ Move carelessly through an area.
 Create a disturbance.
 Some locations may have more specific actions or situations which will trigger event rolls, such as triggering an alarm or using a comms device.
 
----
-1: Encounter. Reset the event pool and roll on the location’s encounter table.
-2: Sign. Roll on the location’s encounter table. The crew finds evidence of that encounter nearby.
-3: Shift. Something about the location changes. Advance a location's shift track.
-4: Exhaustion. Spend a turn resting or each member of the crew gains a Stress.
-5: Drain. Mark a usage on all active power sources.
-6: All Clear. Nothing of note occurs. Remove a die from the event pool.
----
+|------|------|
+| 1  | Encounter. Reset the event pool and roll on the location’s encounter table. |
+| 2  | Sign. Roll on the location’s encounter table. The crew finds evidence of that encounter nearby. |
+| 3  | Shift. Something about the location changes. Advance a location's shift track. |
+| 4  | Exhaustion. Spend a turn resting or each member of the crew gains a Stress. |
+| 5  | Drain. Mark a usage on all active power sources. |
+| 6  | All Clear. Nothing of note occurs. Remove a die from the event pool. |
 
 Shift Track
 Every adventure site will have at least 1 shift track. These show something important within the site progressing over time. Such as a weak structure becoming more damaged, a hostile force getting closer to their goal, a storm growing stronger, etc. 
