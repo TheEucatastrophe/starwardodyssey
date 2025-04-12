@@ -2,7 +2,7 @@
 layout: default
 title: Characters
 parent: SRD
-nav_order: 1
+nav_order: 2
 ---
 
 # Characters
