@@ -11,9 +11,9 @@ The bulk of what the crew will be doing is exploring sites of intrigue, mystery,
 
 ## Exploration Procedure
 
-Information. The Ref describes the crew’s locale, as well as any obvious dangers. The players should ask questions about the location.
-Actions. The players declare what they want their characters to do and the referee resolves each character’s actions simultaneously. 
-Event. If appropriate, the referee should roll on the exploration events table. Once the event is resolved, repeat the procedure.
+1. **Information**. The Ref describes the crew’s locale, as well as any obvious dangers. The players should ask questions about the location.
+2. **Actions**. The players declare what they want their characters to do and the referee resolves each character’s actions simultaneously. 
+3. **Event**. If appropriate, the referee should roll on the exploration events table. Once the event is resolved, repeat the procedure.
 
 ## Exploration Events
 
@@ -27,12 +27,12 @@ Some locations may have more specific actions or situations which will trigger e
 
 | 1d6 | Exploration Events |
 |------|------|
-| 1  | Encounter. Reset the event pool and roll on the location’s encounter table. |
-| 2  | Sign. Roll on the location’s encounter table. The crew finds evidence of that encounter nearby. |
-| 3  | Shift. Something about the location changes. Advance a location's shift track. |
-| 4  | Exhaustion. Spend a turn resting or each member of the crew gains a Stress. |
-| 5  | Drain. Mark a usage on all active power sources. |
-| 6  | All Clear. Nothing of note occurs. Remove a die from the event pool. |
+| 1  | **Encounter**. Reset the event pool and roll on the location’s encounter table. |
+| 2  | **Sign**. Roll on the location’s encounter table. The crew finds evidence of that encounter nearby. |
+| 3  | **Shift**. Something about the location changes. Advance a location's shift track. |
+| 4  | **Exhaustion**. Spend a turn resting or each member of the crew gains a Stress. |
+| 5  | **Drain**. Mark a usage on all active power sources. |
+| 6  | **All Clear**. Nothing of note occurs. Remove a die from the event pool. |
 
 ## Shift Track
 
