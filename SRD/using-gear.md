@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Using Gear
-parent: SRD
+parent: /SRD/
 nav_order: 2
 ---
 
