@@ -5,27 +5,35 @@ parent: SRD
 nav_order: 3
 ---
 
-Using Gear
+# Using Gear
 
-Your gear determines who you are and what you can do. Items are placed in inventory slots. Most items take 1 inventory slot to carry, unless otherwise indicated. Bulky or heavy items may take 2 or more slots and small or light items take up no slots. Characters have two types of inventory slots; 6 ready slots and 6 packed slots.
-Ready Slots
+## Inventory Slots
+Gear and items are placed in your character’s inventory slots. Most items take 1 inventory slot to carry. Bulky or heavy items may take 2 or more slots. Small or light items take up no slots. Characters have 6 ready slots and 6 packed slots.
+
+### Ready Slots
 Items in ready slots are easily accessible and can be quickly accessed or wielded. Anything that must be worn or held to be useful must be placed in these slots.
-Packed Slots
+
+### Packed Slots
 Items in packed slots are stowed away and take time to retrieve, especially when under pressure. 
 
-Usage
+## Usage
+
 Some items can be used multiple times before they are depleted. Mark the item each time it is used, or when indicated. Once all uses are marked, remove the item from your inventory.
 
-Power
+## Power
+
 Electronic gear requires Power to function. As long as a character has a power source in their inventory, their items will be powered. Certain situations, such as travelling or exploring may cause you to mark one or more uses. Some power-hungry items may need their own power source to function. 
 
-Supply
+## Supply
+
 Supply is an abstract item representing the basic gear your PC can bring with them, and takes up 1 slot.
 At any time during the game, you may convert a Supply your character is carrying into any simple, commonly available item. The Ref determines which items can be acquired using Supply and which should be bought or acquired separately.
 A Supply can also be used to repair armour and weapons. 
-Supply Examples
+
+### Supply Examples
 Anything cheap, common, and simple, such as; 3 days of rations, telescopic pole, thermal bedroll, glow markers, prybar, bandages, steel cable, canteen, etc.
-Non-supply Examples
+
+### Non-supply Examples
 Anything expensive, uncommon, or complex, such as; weapons, armour, ammo, electronics, auto-tent, battery pack, vehicles, fancy clothing, etc.
 
 Cargo
