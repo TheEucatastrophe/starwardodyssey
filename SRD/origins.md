@@ -9,58 +9,58 @@ nav_order: 1
 
 <table>
   <tr>
-    <th>d100</th>
+    <th>1d100</th>
     <th colspan="7">Character Origins </th>
   </tr>
   <tr>
     <td>1</td>
-    <td>X</td>
+    <td>Escaped Experiment</td>
     <td>26</td>
-    <td>X</td>
+    <td>Station Enforcer</td>
     <td>51</td>
-    <td>X</td>
+    <td>Academy Dropout</td>
     <td>76</td>
-    <td>X</td>
+    <td>Abyssal Watcher</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>X</td>
+    <td>Boundary Ranger</td>
     <td>27</td>
-    <td>X</td>
+    <td>Station Administrator</td>
     <td>52</td>
-    <td>X</td>
+    <td>Underworld Fixer</td>
     <td>77</td>
-    <td>X</td>
+    <td>Suppressed Psion</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>X</td>
+    <td>Star Racer</td>
     <td>28</td>
-    <td>X</td>
+    <td>Cybernetic Beneficiary</td>
     <td>53</td>
-    <td>X</td>
+    <td>Hivemind</td>
     <td>78</td>
-    <td>X</td>
+    <td>Hologame Designer</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>X</td>
+    <td>Xenofood Critic</td>
     <td>29</td>
-    <td>X</td>
+    <td>Liquidator</td>
     <td>54</td>
-    <td>X</td>
+    <td>Humanist Missionary</td>
     <td>79</td>
-    <td>X</td>
+    <td>Derelict Delver</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>X</td>
+    <td>Intrusion Specialist</td>
     <td>30</td>
-    <td>X</td>
+    <td>Retroneer</td>
     <td>55</td>
-    <td>X</td>
+    <td>Astro Exile</td>
     <td>80</td>
-    <td>X</td>
+    <td>Under Dweller</td>
   </tr>
   <tr>
     <td>6</td>
