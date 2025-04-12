@@ -20,10 +20,10 @@ At the start of an encounter, the side that initiated the encounter from a hidde
 ## Encounter Range 
 
 How characters can interact with each other depends on how close are far away they are. This is represented by 4 range bands.
-Touch Range. Creatures in touch range can be touched, grabbed, hit, tackle, or otherwise be physically interacted with.
-Throw Range. Creatures in throw range can be hit by a thrown object.
-Shout Range. Creatures in shout range can be communicated with by shouting.
-Sight Range. Creatures in sight range can be seen with the naked-eye in the distance.
+1. **Touch Range**. Creatures in touch range can be touched, grabbed, hit, tackle, or otherwise be physically interacted with.
+2. **Throw Range**. Creatures in throw range can be hit by a thrown object.
+3. **Shout Range**. Creatures in shout range can be communicated with by shouting.
+4. **Sight Range**. Creatures in sight range can be seen with the naked-eye in the distance.
 
 # Violent Encounters 
 Violence is the failure to avoid a safer course of action. When an encounter gets violent, death is not far behind. Be cautious, be smart, and work as a team.
