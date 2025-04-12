@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SRD
+title: Violent Encounters
 parent: encounters
 nav_order: 1
 ---
