@@ -41,23 +41,63 @@ nav_order: 1
     <th colspan="7">Character Origins </th>
   </tr>
   <tr>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
+    <td>1</td>
+    <td>X</td>
+    <td>26</td>
+    <td>X</td>
+    <td>51</td>
+    <td>X</td>
+    <td>76</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>X</td>
+    <td>27</td>
+    <td>X</td>
+    <td>52</td>
+    <td>X</td>
+    <td>77</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>X</td>
+    <td>28</td>
+    <td>X</td>
+    <td>53</td>
+    <td>X</td>
+    <td>78</td>
+    <td>X</td>
   </tr>
   <tr>
     <td>test</td>
+    <td>X</td>
     <td>test</td>
+    <td>X</td>
     <td>test</td>
+    <td>X</td>
     <td>test</td>
+    <td>X</td>
+  </tr>
+  <tr>
     <td>test</td>
+    <td>X</td>
     <td>test</td>
+    <td>X</td>
     <td>test</td>
+    <td>X</td>
     <td>test</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>test</td>
+    <td>X</td>
+    <td>test</td>
+    <td>X</td>
+    <td>test</td>
+    <td>X</td>
+    <td>test</td>
+    <td>X</td>
   </tr>
 </table> 
