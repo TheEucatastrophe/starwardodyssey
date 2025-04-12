@@ -13,3 +13,9 @@ nav_order: 1
 | Standard | e-lockpick, commlink, datadisk, datapad, flood light, motion sensor, multi laser tool, nav comp, video book, holocamera,vibrosaw, etc. | Affordable | 
 | State of the Art | bioscanner, comms jammer, glow sphere, hand-held generator, xeno-translator, holographic projector, etc. | Expensive | 
 
+||Armour||
+|------|------|------|
+| Makeshift *simple, improvised protection* | 1 AP, destroyed when reduced to 0 AP | Negligible | 
+| Light *recon suit, security outfit, carbon skin, etc.* | 2 AP | Affordable | 
+| Medium *combat armour, riot suit, flak jack, etc.* | 4 AP, +1 slot | Expensive |
+| Heavy *battle dress, hardsuit, combat frame, etc.* | 6 AP, +2 slots | Expensive |
