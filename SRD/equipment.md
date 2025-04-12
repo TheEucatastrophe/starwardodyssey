@@ -33,22 +33,22 @@ nav_order: 1
     <th colspan="3">Armour</th>
   </tr>
   <tr>
-    <td>Makeshift *simple, improvised protection*</td>
+    <td>Makeshift _simple, improvised protection_</td>
     <td>1 AP, destroyed when reduced to 0 AP</td>
     <td>Negligible</td>
   </tr>
   <tr>
-    <td>Light *recon suit, security outfit, carbon skin, etc.*</td>
+    <td>Light _recon suit, security outfit, carbon skin, etc._</td>
     <td>2 AP</td>
     <td>Affordable</td>
   </tr>
   <tr>
-    <td>Medium *combat armour, riot suit, flak jack, etc.*</td>
+    <td>Medium _combat armour, riot suit, flak jack, etc._</td>
     <td>4 AP, +1 slot</td>
     <td>Expensive</td>
   </tr>
   <tr>
-    <td>Heavy *battle dress, hardsuit, combat frame, etc.*</td>
+    <td>Heavy _battle dress, hardsuit, combat frame, etc._</td>
     <td>6 AP, +2 slots</td>
     <td>Expensive</td>
   </tr>
