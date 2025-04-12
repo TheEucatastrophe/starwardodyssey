@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Creating Characters
-parent: SRD
+parent: /SRD/
 nav_order: 1
 ---
 
