@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Space Encounters
-parent: encounters
+parent: Encounters
 nav_order: 2
 ---
 
