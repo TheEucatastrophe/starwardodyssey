@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Actions
-parent: SRD
+parent: /SRD/
 nav_order: 3
 ---
 
