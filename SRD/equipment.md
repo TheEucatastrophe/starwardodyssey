@@ -28,7 +28,9 @@ nav_order: 1
 
 <table>
   <tr>
+    <th></th>
     <th>Armour</th>
+    <th></th>
   </tr>
   <tr>
     <td>Makeshift</td>
@@ -36,9 +38,19 @@ nav_order: 1
     <td>Negligible</td>
   </tr>
   <tr>
-    <td>test</td>
-    <td>test</td>
-    <td>test</td>
+    <td>Light</td>
+    <td>2 AP</td>
+    <td>Affordable</td>
+  </tr>
+  <tr>
+    <td>Medium</td>
+    <td>4 AP, +1 slot</td>
+    <td>Expensive</td>
+  </tr>
+  <tr>
+    <td>Heavy</td>
+    <td>6 AP, +2 slots</td>
+    <td>Expensive</td>
   </tr>
 </table> 
 
