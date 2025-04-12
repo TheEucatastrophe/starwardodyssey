@@ -25,3 +25,21 @@ nav_order: 1
 *combat armour, riot suit, flak jack, etc.* | 4 AP, +1 slot | Expensive |
 | Heavy 
 *battle dress, hardsuit, combat frame, etc.* | 6 AP, +2 slots | Expensive |
+
+ <table>
+  <tr>
+    <th>test</th>
+    <th>test</th>
+    <th>test</th>
+  </tr>
+  <tr>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+  </tr>
+  <tr>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+  </tr>
+</table> 
