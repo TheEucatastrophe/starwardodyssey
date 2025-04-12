@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Creating Characters
-nav_order: 2
+parent: SRD
+nav_order: 1
 ---
 
 Creating Characters
