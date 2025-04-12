@@ -28,7 +28,7 @@ nav_order: 1
 
 <table>
   <tr>
-    <th collummspan="3">Armour</th>
+    <th colspan="3">Armour</th>
   </tr>
   <tr>
     <td>Makeshift</td>
