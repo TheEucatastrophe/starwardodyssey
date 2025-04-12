@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Violent Encounters
-parent: encounters
+parent: Encounters
 nav_order: 1
 ---
 
