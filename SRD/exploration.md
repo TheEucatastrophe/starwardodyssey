@@ -22,6 +22,7 @@ Move carelessly through an area.
 Create a disturbance.
 Some locations may have more specific actions or situations which will trigger event rolls, such as triggering an alarm or using a comms device.
 
+| | |
 |------|------|
 | 1  | Encounter. Reset the event pool and roll on the location’s encounter table. |
 | 2  | Sign. Roll on the location’s encounter table. The crew finds evidence of that encounter nearby. |
