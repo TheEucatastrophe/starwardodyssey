@@ -5,15 +5,18 @@ parent: SRD
 nav_order: 7
 ---
 
-Exploration
+# Exploration
 
 The bulk of what the crew will be doing is exploring sites of intrigue, mystery, or danger. A site is a distinct space that is broken up into interconnected rooms or areas, which the crew will be moving between. 
-Exploration Procedure
+
+## Exploration Procedure
+
 Information. The Ref describes the crew’s locale, as well as any obvious dangers. The players should ask questions about the location.
 Actions. The players declare what they want their characters to do and the referee resolves each character’s actions simultaneously. 
 Event. If appropriate, the referee should roll on the exploration events table. Once the event is resolved, repeat the procedure.
 
-Exploration Events
+## Exploration Events
+
 Each time the crew does one of the triggers below, add 1d6 to a pool of dice and roll them. Compare the lowest result to the exploration events table.
 The Ref must telegraph any and all danger and risk to the PCs. They must inform the players when they are about to perform an action that will trigger an event roll.
 Event Triggers:
@@ -31,6 +34,7 @@ Some locations may have more specific actions or situations which will trigger e
 | 5  | Drain. Mark a usage on all active power sources. |
 | 6  | All Clear. Nothing of note occurs. Remove a die from the event pool. |
 
-Shift Track
+## Shift Track
+
 Every adventure site will have at least 1 shift track. These show something important within the site progressing over time. Such as a weak structure becoming more damaged, a hostile force getting closer to their goal, a storm growing stronger, etc. 
 At certain intervals along a track, something will happen that will change a room, area, or the entire location. Such as a roof collapsing, a dropship with soldiers arriving, or the power being cut. 
