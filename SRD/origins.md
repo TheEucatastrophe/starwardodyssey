@@ -35,4 +35,35 @@ nav_order: 1
 | 24 |  | 48 |  | 74 |  | 99 |  |
 | 25 |  | 50 |  | 75 |  | 100 |  |
 
-
+<table>
+  <tr>
+    <th>1d100</th>
+    <th colspan="7">Character Origins </th>
+    <th>test</th>
+    <th>test</th>
+    <th>test</th>
+    <th>test</th>
+    <th>test</th>
+    <th>test</th>
+  </tr>
+  <tr>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+  </tr>
+  <tr>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+    <td>test</td>
+  </tr>
+</table> 
