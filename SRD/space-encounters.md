@@ -2,7 +2,7 @@
 layout: default
 title: Space Encounters
 parent: SRD
-nav_order: 5
+nav_order: 6
 ---
 
 Space Encounters
