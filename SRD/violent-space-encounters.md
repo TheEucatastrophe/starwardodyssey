@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Space Encounters
+title: Violent Space Encounters
 parent: Encounters
 nav_order: 2
 ---
 
-Space Encounters
+Violent Space Encounters
