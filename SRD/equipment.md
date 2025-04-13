@@ -32,7 +32,7 @@ nav_order: 1
 
 <table>
   <tr> <th colspan="3">Head Gear</th> </tr>
-  <tr> <td>Crash Helmet</th> <td>+1 AP, breaks after being hit</td> <td>Cheap</td> </tr>
+  <tr> <td>Crash Helmet</td> <td>+1 AP, breaks after being hit</td> <td>Cheap</td> </tr>
   <tr> <td>Combat Helmet</td> <th>+1 AP</td> <td>Affordable</td> </tr>
   <tr> <td>Vacc Helm</td> <td>provides breathable air in the vacuum of space</td> <td>Affordable</td> </tr>
   <tr> <td>Filter Mask</td> <td>filters out toxins and poison in the air </td> <td>Expensive</td> </tr>
