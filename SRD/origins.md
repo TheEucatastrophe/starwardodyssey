@@ -55,6 +55,8 @@ You Get:
 | 5 | **Cloning Project**. There is a 1-in-6 chance that you will find someone that looks exactly like you whenever you enter a populated area. | 
 | 6 | **Reanimation**. If you die you will be revived with 0 HD. If you die with 0 HD you are dead for good. | 
 
+---
+
 ## 2 Boundary Ranger
 
 When you’re out in borderspace all alone with nothing but the stars to keep you company, you start to question your purpose. That is why most rangers are assigned a robot companion to make sure that doesn’t happen.
@@ -74,6 +76,4 @@ You Get:
 | 5 | **Security Bot**. TO BE ADDED. | 
 | 6 | **Animal Replica**. TO BE ADDED. | 
 
-
-
-
+---
