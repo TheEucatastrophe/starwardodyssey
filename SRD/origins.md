@@ -8,7 +8,7 @@ nav_order: 1
 # Origins
 
 <table>
-  <tr> <th>1d100</th> <th colspan="7">Character Origins </th> </tr>
+  <tr> <th colspan="8">1d100 Character Origins </th> </tr>
   <tr> <td>1</td> <td>Escaped Experiment</td> <td>26</td> <td>Station Enforcer</td> <td>51</td> <td>Academy Dropout</td> <td>76</td> <td>Abyssal Watcher</td> </tr>
   <tr> <td>2</td> <td>Boundary Ranger</td> <td>27</td> <td>Station Administrator</td> <td>52</td> <td>Underworld Fixer</td> <td>77</td> <td>Suppressed Psion</td> </tr>
   <tr> <td>3</td> <td>Star Racer</td> <td>28</td> <td>Cybernetic Beneficiary</td> <td>53</td> <td>Hivemind</td> <td>78</td> <td>Hologame Designer</td> </tr>
@@ -25,130 +25,130 @@ nav_order: 1
     <td>13</td>
     <td>Shock Trooper</td>
     <td>38</td>
-    <td>X</td>
+    <td>Shipbreaker</td>
     <td>63</td>
-    <td>X</td>
+    <td>Divergent</td>
     <td>88</td>
-    <td>X</td>
+    <td>Flotilla Shaman</td>
   </tr>
   <tr>
     <td>14</td>
     <td>Shadow Trooper</td>
     <td>39</td>
-    <td>X</td>
+    <td>Freebooter</td>
     <td>64</td>
-    <td>X</td>
+    <td>Galactic Hauler</td>
     <td>89</td>
-    <td>X</td>
+    <td>Clean Slate</td>
   </tr>
   <tr>
     <td>15</td>
     <td>Mech Jockey</td>
     <td>40</td>
-    <td>X</td>
+    <td>Computer Linguist</td>
     <td>65</td>
-    <td>X</td>
+    <td>Techno Monk</td>
     <td>90</td>
-    <td>X</td>
+    <td>Esoterica Collector</td>
   </tr>
   <tr>
     <td>16</td>
     <td>Corporate Representative</td>
     <td>41</td>
-    <td>X</td>
+    <td>Discharged Captain</td>
     <td>66</td>
-    <td>X</td>
+    <td>Symbiotic Creature</td>
     <td>91</td>
-    <td>X</td>
+    <td>Hyper-Dimensional</td>
   </tr>
   <tr>
     <td>17</td>
     <td>Flotilla Merchant </td>
     <td>42</td>
-    <td>X</td>
+    <td>Silicon-based Lifeform</td>
     <td>67</td>
-    <td>X</td>
+    <td>Former Deity</td>
     <td>92</td>
-    <td>X</td>
+    <td>Nu Preacher</td>
   </tr>
   <tr>
     <td>18</td>
     <td>Psionic Order Apostate</td>
     <td>43</td>
-    <td>X</td>
+    <td>Xeno Zoologist</td>
     <td>68</td>
-    <td>X</td>
+    <td>Fool Errant</td>
     <td>93</td>
-    <td>X</td>
+    <td>Teemog Breeder</td>
   </tr>
   <tr>
     <td>19</td>
     <td>Xeno Archaeologist</td>
     <td>44</td>
-    <td>X</td>
+    <td>Abducted Tribesman</td>
     <td>69</td>
-    <td>X</td>
+    <td>Replica Hunter</td>
     <td>94</td>
-    <td>X</td>
+    <td>Zero-G Olympian </td>
   </tr>
   <tr>
     <td>20</td>
     <td>Asteroid Prospector</td>
     <td>45</td>
-    <td>X</td>
+    <td>Galactic Fraud</td>
     <td>70</td>
-    <td>X</td>
+    <td>Synth Architect</td>
     <td>95</td>
-    <td>X</td>
+    <td>Flotilla Marshal</td>
   </tr>
   <tr>
     <td>21</td>
     <td>Hyper Radio Technician</td>
     <td>46</td>
-    <td>X</td>
+    <td>Hitchhiker</td>
     <td>71</td>
-    <td>X</td>
+    <td>Hacktivist</td>
     <td>96</td>
-    <td>X</td>
+    <td>Seismic Cartographer</td>
   </tr>
   <tr>
     <td>22</td>
     <td>Uplifted Species</td>
     <td>47</td>
-    <td>X</td>
+    <td>Xeno Botanist</td>
     <td>72</td>
-    <td>X</td>
+    <td>Static Compiler</td>
     <td>97</td>
-    <td>X</td>
+    <td>Interstellar Courier</td>
   </tr>
   <tr>
     <td>23</td>
     <td>Relic Smuggler</td>
     <td>48</td>
-    <td>X</td>
+    <td>Media Starlet </td>
     <td>73</td>
-    <td>X</td>
+    <td>Trash Catcher</td>
     <td>98</td>
-    <td>X</td>
+    <td>Lordling</td>
   </tr>
   <tr>
     <td>24</td>
     <td>Insurrectionist</td>
     <td>49</td>
-    <td>X</td>
+    <td>Stellar Barbarian</td>
     <td>74</td>
-    <td>X</td>
+    <td>Future Crime Detective</td>
     <td>99</td>
-    <td>X</td>
+    <td>Cosmic Tourist</td>
   </tr>
   <tr>
     <td>25</td>
     <td>Registered Killer</td>
     <td>50</td>
-    <td>X</td>
+    <td>Sapient Flora</td>
     <td>75</td>
-    <td>X</td>
+    <td>Flotilla Starfinder</td>
     <td>100</td>
-    <td>X</td>
+    <td>Galactic Outsider</td>
   </tr>
 </table> 
