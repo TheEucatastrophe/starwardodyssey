@@ -53,6 +53,27 @@ You Get:
 | 3 | **Cybernetic Organ Replacements**. Roll an extra HD if you have a fully charged power source. | 
 | 4 | **Mind Control**. You can gain a Stress to alter an aspect of someone’s reality for a short time (the more obvious, the more likely they are to notice). | 
 | 5 | **Cloning Project**. There is a 1-in-6 chance that you will find someone that looks exactly like you whenever you enter a populated area. | 
-| 6 | **Reanimation**. If you die you will be revived with 0 HD. If you die with 0 HD you are dead for good.  | 
+| 6 | **Reanimation**. If you die you will be revived with 0 HD. If you die with 0 HD you are dead for good. | 
+
+## 2 Boundary Ranger
+
+When you’re out in borderspace all alone with nothing but the stars to keep you company, you start to question your purpose. That is why most rangers are assigned a robot companion to make sure that doesn’t happen.
+
+You Get:
+
+- Apparel
+- Device/Weapon/Armour
+- Robot Companion. See below.
+
+| 1d6 | What is your robotic companion? | 
+|------|------|
+| 1 | **Medibot**. TO BE ADDED. | 
+| 2 | **Astromech**. TO BE ADDED. | 
+| 3 | **Scout Drone**. TO BE ADDED. | 
+| 4 | **Mechanical Pilot**. TO BE ADDED. | 
+| 5 | **Security Bot**. TO BE ADDED. | 
+| 6 | **Animal Replica**. TO BE ADDED. | 
+
+
 
 
