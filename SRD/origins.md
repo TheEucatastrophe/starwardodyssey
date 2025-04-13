@@ -41,7 +41,7 @@ nav_order: 1
 ## 1 Escaped Experiment
 You were taken as a child for some clandestine purpose. As these things tend to go, an accident befell the facility holding you, resulting in your freedom.
 
-You Get:
+**You Get:**
 - Bloodstained, white jumpsuit.
 - Security pistol (3 dmg).
 - QR Code tattoo. Scanning the barcode flags you as escaped property.
@@ -61,8 +61,7 @@ You Get:
 
 When you’re out in borderspace all alone with nothing but the stars to keep you company, you start to question your purpose. That is why most rangers are assigned a robot companion to make sure that doesn’t happen.
 
-You Get:
-
+**You Get:**
 - Apparel
 - Device/Weapon/Armour
 - Robot Companion. See below.
@@ -77,3 +76,171 @@ You Get:
 | 6 | **Animal Replica**. TO BE ADDED. | 
 
 ---
+
+## 3 Star Racer
+
+There is nothing, except for the pursuit of ever faster speed. You touched the very edge of the impossible, and wanted more. 
+
+**You Get:**
+- Branded jump suit.
+- Crash Helmet. +1 AP, breaks after being Hit.
+- Personalised flight stick. Remove Stress when succeeding a piloting save using the stick. 
+
+| 1d6 | What caused you to wipeout? | 
+|------|------|
+| 1 | **Experimental Fuel**. You can turn 3 Supplies into a fuel that eill double the speed of any engine for a short time, at the cost of the engine. | 
+| 2 | **Corporate Sabotage**. TO BE ADDED. | 
+| 3 | **Unsanctioned Modification**. TO BE ADDED. | 
+| 4 | **Freak Solar Storm**. TO BE ADDED. | 
+| 5 | **Prototype Racer**. TO BE ADDED. | 
+| 6 | **Cheating Rival**. TO BE ADDED. | 
+
+---
+
+## 4 Drop Trooper
+TO BE ADDED.
+
+**You Get:**
+- Military fatigues 
+- Combat Armour (2 AP)
+- Quick Resin. 3 uses, instantly restore 2 AP
+
+| 1d6 |What weapon saved your life? | 
+|------|------|
+| 1 | **TO BE ADDED**. You get a machine gun (4 dmg,  shout range, full auto, +1 slot). | 
+| 2 | **TO BE ADDED**. You get a shotgun (2 dmg, +2 dmg in touch range, throw range, +1 slot). | 
+| 3 | **TO BE ADDED**. You get a sidearm (3 dmg, throw range). | 
+| 4 | **TO BE ADDED**. You get a blaster (2 dmg, shout range). | 
+| 5 | **TO BE ADDED**. You get a martial melee weapon (3 dmg, +1 slot). | 
+| 6 | **TO BE ADDED**. You get a long melee weapon (3 dmg, +1 slot). | 
+
+---
+
+## 5 Intrusion Specialist
+When someone wants to get into somewhere they shouldn’t, they call you. Your last job got you into somewhere you really really shouldn’t have.
+
+**You Get:**
+- Hooded overalls
+- Infiltration suit (2 AP)
+- Autopick. Unlock any simple mechanical lock in 1 turn.
+  
+| 1d6 | TO BE ADDED | 
+|------|------|
+| 1 | **TO BE ADDED**. TO BE ADDED. | 
+| 2 | **TO BE ADDED**. TO BE ADDED. | 
+| 3 | **TO BE ADDED**. TO BE ADDED. | 
+| 4 | **TO BE ADDED**. TO BE ADDED. | 
+| 5 | **TO BE ADDED**. TO BE ADDED. | 
+| 6 | **TO BE ADDED**. TO BE ADDED. | 
+
+d6 
+What was your most high-profile break-in?
+1
+EB Bank Vault.
+2
+Lord M. Ritter’s Pantry.
+3
+Prison Ship: Knave I.
+4
+Star Cairn Factory.
+5
+Mothership Labs.
+6
+Durf Tower Penthouse.
+
+---
+
+## 6 Xeno-Translator
+You have studied alien languages and dialects the galaxy over. Unfortunately. as a human you can't even begin to make the complex sounds required for most of them.
+
+**You Get:**
+- Apparel
+- Device/Weapon/Armour
+- Xenobox. Plays sounds from alien speech that humans cannot replicate.
+
+| 1d6 | What is your favourite alien word? | 
+|------|------|
+| 1 | **Psjjjjjjjjjjjjj**. TO BE ADDED. | 
+| 2 | **Ynt**. TO BE ADDED. | 
+| 3 | **Propacaoet**. TO BE ADDED. | 
+| 4 | **Lhoomblh**. TO BE ADDED. | 
+| 5 | **Qu^-Qu^——Q-up**. TO BE ADDED. | 
+| 6 | **Yoh**. TO BE ADDED. | 
+
+---
+
+## 7 Convergent Species
+Across the galaxy, far and wide, it seems that the humanoid form is perhaps the most popular. At least two legs, two arms, a body, and a head. Everything else is fair game.
+
+<table>
+  <tr> <th>1d6</th> <th colspan="4">1d100 Character Origins </th> </tr>
+  <tr> <td>1</td> <td>Tail or Sharp Teeth</td> <td>Antennae or Pointy Ears</td> <td>Blue or Red Skin</td> <td>TO BE ADDED</td> </tr>
+  <tr> <td>2</td> <td>Elongated Head or Long Tongue </td> <td>Flat Nose or Long Nose</td> <td>Purple or Green Skin</td> <td>Mane or Hairless</td> </tr>
+  <tr> <td>3</td> <td>Short or Long Fingers</td> <td>Webbed Hands & Feet or Claws</td> <td>Hard or Slimey Skin</td> <td>Quills or Carapace </td> </tr>
+  <tr> <td>4</td> <td>Large Muscles or Blubber</td> <td>Creased Nose or Ridged Forehead</td> <td>Spotted or Striped Skin</td> <td>Fur or Scales</td> </tr>
+  <tr> <td>5</td> <td>Extra Arms or Tall</td> <td>Large Mouth or Large Eyes</td> <td>Shiny or Iridescent Skin</td> <td>Horns or Antlers</td> </tr>
+  <tr> <td>6</td> <td>Long Limbs or Extra Legs</td> <td>Numerous Eyes or Singular Eye</td> <td>Translucent or Glowing Skin</td> <td>Stretchy Membrane or Long Hair</td> </tr>
+
+Roll 1d6 below to determine your species’ culture.
+
+### 1-2 Mystic Culture
+Your people are deeply connected to something ethereal and intangible, making them protective of their tradition, rituals, and faith.
+
+**You Get:**
+- Apparel
+- Device/Weapon/Armour
+- Small alien pet
+
+| 1d6 | What form does your people’s power manifest? | 
+|------|------|
+| 1 | **Precognition**.  Gain a Stress to reroll Buffs or Debuffs.. | 
+| 2 | **Mind Voice**. Gain a Stress to give someone a one word command. If they fail a RES save they must obey the command for 1 turn.. | 
+| 3 | **Psionic Force**. Gain a Stress to push or pull a creature or object you can see.. | 
+| 4 | **Psychometry**. Gain a Stress while touching an object to see an important moment from the object’s past. | 
+| 5 | **Astral Projection**. Gain a Stress to send your consciousness to any location within your system for 10 minutes. | 
+| 6 | **Energy Manipulation**. Gain a Stress to remove a Hit from yourself or someone you touch. | 
+
+### 3-4 Logic Culture
+Often labelled as emotionless utilitarians, your people see the pursuit of logic and reason in all aspects of life to be for the greater good.
+
+**You Get:**
+- Apparel
+- Device/Weapon/Armour
+- Unique
+
+| 1d6 | What was your assigned lifepath? | 
+|------|------|
+| 1 | **Science**. TO BE ADDED. | 
+| 2 | **Politics**. TO BE ADDED. | 
+| 3 | **Military**. TO BE ADDED. | 
+| 4 | **Labour**. TO BE ADDED. | 
+| 5 | **Economics**. TO BE ADDED. | 
+| 6 | **Manufacturing**. TO BE ADDED. | 
+
+## 5-6 Honour Culture
+The greatest honour brings the greatest position in society, so your people follow.  Oftentimes death is more appealing than dishonour.
+
+**You Get:**
+- Ceremonial robes
+- Exotic sword (3 dmg)
+- Small alien pet 
+
+| 1d6 | What is your people’s honourable calling? | 
+|------|------|
+| 1 | **The Hunt**. Remove all Stress after killing an adversary with the same or higher HD as yourself. | 
+| 2 | **Battle**. Remove a Stress for each Hit you get in combat. | 
+| 3 | **Power**. Remove all Stress after acquiring a powerful item. | 
+| 4 | **Exploration**. Remove a Stress when you reach a new location. | 
+| 5 | **Riches**. Remove all Stress whenever you acquire a valuable item. | 
+| 6 | **Peace**. Remove all Stress whenever a hostile encounter is de-escalated. | 
+
+---
+
+| 1d6 | TO BE ADDED | 
+|------|------|
+| 1 | **TO BE ADDED**. TO BE ADDED. | 
+| 2 | **TO BE ADDED**. TO BE ADDED. | 
+| 3 | **TO BE ADDED**. TO BE ADDED. | 
+| 4 | **TO BE ADDED**. TO BE ADDED. | 
+| 5 | **TO BE ADDED**. TO BE ADDED. | 
+| 6 | **TO BE ADDED**. TO BE ADDED. | 
