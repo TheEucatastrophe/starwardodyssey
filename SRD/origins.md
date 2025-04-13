@@ -40,9 +40,9 @@ nav_order: 1
 You were taken as a child for some clandestine purpose. As these things tend to go, an accident befell the facility holding you, resulting in your freedom.
 
 You Get:
-- White jumpsuit.
-- Bloodstained security pistol (3 dmg).
-- Barcode tattoo. Scanning the barcode flags you as escaped property.
+- Bloodstained, white jumpsuit.
+- Security pistol (3 dmg).
+- QR Code tattoo. Scanning the barcode flags you as escaped property.
 
 | 1d6 | What was the experiment? | 
 |------|------|
