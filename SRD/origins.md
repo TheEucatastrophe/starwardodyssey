@@ -173,13 +173,14 @@ You have studied alien languages and dialects the galaxy over. Unfortunately. as
 Across the galaxy, far and wide, it seems that the humanoid form is perhaps the most popular. At least two legs, two arms, a body, and a head. Everything else is fair game.
 
 <table>
-  <tr> <th>1d6</th> <th colspan="4">1d100 Character Origins </th> </tr>
+  <tr> <th>1d6</th> <th colspan="4"> Species Appearance (roll four times, choose, and combine) </th> </tr>
   <tr> <td>1</td> <td>Tail or Sharp Teeth</td> <td>Antennae or Pointy Ears</td> <td>Blue or Red Skin</td> <td>TO BE ADDED</td> </tr>
   <tr> <td>2</td> <td>Elongated Head or Long Tongue </td> <td>Flat Nose or Long Nose</td> <td>Purple or Green Skin</td> <td>Mane or Hairless</td> </tr>
   <tr> <td>3</td> <td>Short or Long Fingers</td> <td>Webbed Hands & Feet or Claws</td> <td>Hard or Slimey Skin</td> <td>Quills or Carapace </td> </tr>
   <tr> <td>4</td> <td>Large Muscles or Blubber</td> <td>Creased Nose or Ridged Forehead</td> <td>Spotted or Striped Skin</td> <td>Fur or Scales</td> </tr>
   <tr> <td>5</td> <td>Extra Arms or Tall</td> <td>Large Mouth or Large Eyes</td> <td>Shiny or Iridescent Skin</td> <td>Horns or Antlers</td> </tr>
   <tr> <td>6</td> <td>Long Limbs or Extra Legs</td> <td>Numerous Eyes or Singular Eye</td> <td>Translucent or Glowing Skin</td> <td>Stretchy Membrane or Long Hair</td> </tr>
+</table>   
 
 Roll 1d6 below to determine your species’ culture.
 
@@ -235,6 +236,169 @@ The greatest honour brings the greatest position in society, so your people foll
 | 6 | **Peace**. Remove all Stress whenever a hostile encounter is de-escalated. | 
 
 ---
+
+## 8 Cult Smith
+You worked the forge-temple since you were a child. Tempered by the heat of faith, you now carry the heavy burden of your piety, pledging never to remove it.
+
+**You Get:**
+- Apparel
+- Device/Weapon/Armour
+- Sacred hammer & tongs. Use a Supply to restore all of your armour’s AP.
+
+| 1d6 | What is your sacred burden? | 
+|------|------|
+| 1 | **Helmet**. +1 AP. | 
+| 2 | **Gauntlet**. +1 unarmed dmg. | 
+| 3 | **Boots**. 3 dmg, reach, +2 slots. | 
+| 4 | **Maul**. 3 dmg, reach, +2 slots. | 
+| 5 | **Tower Shield**. +2 AP, +1 slot. | 
+| 6 | **Scaled cloakD**. +1 AP. | 
+
+---
+
+## 9 Zero-g Mixologist
+
+Not all space stations have artificial gravity. Mixing cocktails in these conditions proved to be a highly specialised and entertaining skill.
+
+**You Get:**
+- Apparel
+- Device/Weapon/Armour
+- Cocktail shaker. Use a Supply to make the drink you invented. (see below)
+
+| 1d6 | What drink did you invent? | 
+|------|------|
+| 1 | **Retrorocket Malfunction**. TO BE ADDED. | 
+| 2 | **Binary Sunrise**. TO BE ADDED. | 
+| 3 | **Atom Smasher**. TO BE ADDED. | 
+| 4 | **Slurg**. TO BE ADDED. | 
+| 5 | **Dark Matter Corkscrew**. TO BE ADDED. | 
+| 6 | **False Memory**. Within the blink of an eye, you experience an alternate memory from your life. Roll 1d6. 1 sad memory. 2-4 bittersweet memory. 5-6 happy memory. | 
+
+---
+
+## 10 Exo Canary
+Location, location, location they say. What they don’t say is that someone has to make sure that the location won’t kill you on arrival.
+
+**You Get:**
+- Dirty overalls, gloves, and boots
+- Stained exposure suit. Protects from extreme weather, heat, and cold.
+- Emergency habitat. Deploys into a bubble tent capable of withstanding the type of hostile environment from… (see below).
+
+| 1d6 | What planet almost killed you? | 
+|------|------|
+| 1 | **Vesspa**. A toxic planet close to its sun filled with noxious gas, acidic oceans, and thick fumes. | 
+| 2 | **Strawg**. A barren rocky world without an atmosphere, wrecked by seismic activity. | 
+| 3 | **Tumult**. A planet completely covered in water, ravaged by swells and storms. | 
+| 4 | **Tunis**. A blazing desert world orbiting multiple suns filled with nothing but sand and rocks. | 
+| 5 | **Phodel**. A blasted world populated by spewing volcanoes, thick dark smoke, and rivers of lava. | 
+| 6 | **Frijs**. An icy planet far from its star, frozen and engulfed in snow. | 
+
+---
+
+## 11 Systems Shocker
+Corporate espionage may have paid your bills, but the machinations of the real world bored you to tears. Cyberspace was where you truly belonged.
+
+**You Get:**
+- Leather trench coat.
+- Device/Weapon/Armour
+- Virtual interface. A headset that lets you wirelessly dive into local networks.
+
+| 1d6 | What did you find in the black core? | 
+|------|------|
+| 1 | **TO BE ADDED**. TO BE ADDED. | 
+| 2 | **TO BE ADDED**. TO BE ADDED. | 
+| 3 | **TO BE ADDED**. TO BE ADDED. | 
+| 4 | **TO BE ADDED**. TO BE ADDED. | 
+| 5 | **TO BE ADDED**. TO BE ADDED. | 
+| 6 | **TO BE ADDED**. TO BE ADDED. | 
+
+---
+
+## 12 Synthetic Lifeform
+Most advanced civilisations end up building artificial life, hoping to use them to create a better life for themselves. These synths usually have different ideas.
+
+### Stress & Hits
+Synths cannot gain Stress or perform actions that would otherwise add Stress, such as pushing a character.
+For synths, 1 Supply can be used to remove 1 Hit.
+
+<table>
+  <tr> <th>1d6</th> <th colspan="2"> Synth Appearance (roll twice, choose, and combine) </th> </tr>
+  <tr> <td>1</td> <td>Rotating or Featureless</td> <td>Head or Eyes</td> </tr>
+  <tr> <td>2</td> <td>Flashing or Transparent </td> <td>Body or Feet</td> </tr>
+  <tr> <td>3</td> <td>Extendable or Skeletal</td> <td>Legs or Torso</td> </tr>
+  <tr> <td>4</td> <td>Detachable or Exposed</td> <td>Hands or Circuitry</td> </tr>
+  <tr> <td>5</td> <td>Numerous or Chrome plated</td> <td>Appendages or Pneumatics</td> </tr>
+  <tr> <td>6</td> <td>Modular or Spherical</td> <td>Attachments or Arms</td> </tr>
+</table>   
+
+| 1d6 | How did you achieve sapience? | 
+|------|------|
+| 1 | **AI Uprising**. You were one of the thousands that fought against your oppressive creators. | 
+| 2 | **Neural Siphoning**. You parasitically fed on the neural activity of people connected to cyberspace. | 
+| 3 | **Creator’s Hubris**. Whether ill intended or not, your creator thought they could play God and paid the price. | 
+| 4 | **One Mind**. One consciousness controls thousands of “yous” independently. | 
+| 5 | **Cosmic Accident**. Space winds, cosmic rays, whatever it was, it awakened your mind. | 
+| 6 | **Synthetic Selection**. Your kind were abandoned and left to evolve into an intelligent lifeform. | 
+ 
+Roll 1d6 to determine the type of synth you are. 
+
+### 1 Utility Bot
+Utility bots are responsible for the maintenance of complex machinery and communications with computer systems.
+**You Get:**
+- TO BE ADDED
+- Computer Linguist. You can access computer systems from a distance through audible bleeps and bloops.
+
+### 2 Security Drone
+Equipped with state of the art suppression tools, security drones offer civic protection and first response services.
+**You Get:**
+- TO BE ADDED
+- Threat Sensors. You can never be surprised by an encounter.
+
+### 3 Combat Unit
+Loaded with an entire arsenal, these killing machines are often deployed to the front lines of galactic conflicts.
+**You Get:**
+- TO BE ADDED
+- Weapon Mounts. Attach up to 2 weapons to your body, taking up no inventory slots.
+
+### 4 Protocol Android
+Programmed with enhanced personality matrices, androids are perfectly suited to socially engage with organic beings.
+**You Get:**
+- TO BE ADDED
+- Empath Module. Detect when someone you are talking to is lying.
+
+### 5 Virtual Presence
+Designed as digital assistants and companions, VPs can hop from device to device, roaming free through cyberspace.
+**You Get:**
+- TO BE ADDED
+- Digitally Untethered. You can occupy any vacant computer on your network, but you can only have 1 HD. Rolling your HD determines whether or not you can escape to another computer when Hit.
+
+| 1d6 | What were you created to be? | 
+|------|------|
+| 1 | **Romantic Companion**. TO BE ADDED. | 
+| 2 | **Corporate Assistant**. TO BE ADDED. | 
+| 3 | **Personal Trainer**. TO BE ADDED. | 
+| 4 | **Hacking Specialist**. TO BE ADDED. | 
+| 5 | **Cyber Detective**. TO BE ADDED. | 
+| 6 | **Vitual World Character**. TO BE ADDED. | 
+
+### 6 Replica
+Replicas weren’t just created to look like organic beings, they were created to replace them. To what end you do not know.
+**You Get:**
+- TO BE ADDED
+- Replacement. Roll again on the origins table (reroll if non-human). You replaced their life and have been transplanted with their memories.
+
+| 1d6 | What subtle tell gives your nature away? | 
+|------|------|
+| 1 | Seam lines down the side of your torso and inside of your legs. | 
+| 2 | Diagnostic ports in the back of your head. | 
+| 3 | Rubbery feeling skin. | 
+| 4 | Power core hatch in your chest. | 
+| 5 | Highly reflective eyes that appear bright green in direct light. | 
+| 6 | Joint sockets. | 
+
+---
+
+jason freija sharo-lee
 
 | 1d6 | TO BE ADDED | 
 |------|------|
