@@ -27,7 +27,7 @@ nav_order: 1
   <tr> <td>Exposure Suit</td> <td>protects from extreme weather, heat, and cold</td> <td>Expensive</td> </tr>
   <tr> <td>Hazardous Environment Suit</td> <td>protects from corrosive and toxic atmosphere and substances</td> <td>Expensive</td> </tr>
   <tr> <td>No-Suit</th> <td>hides the wearer from scanners and sensors</td> <td>Expensive</td> </tr>
-  <tr> <td>Adaptive Camo Suit</td> <th>when sationary the suit adapts to match the wearer’s surroundings</td> <td>Exorbitant</td> </tr>
+  <tr> <td>Adaptive Camo Suit</td> <td>when sationary the suit adapts to match the wearer’s surroundings</td> <td>Exorbitant</td> </tr>
 </table> 
 
 <table>
@@ -56,7 +56,7 @@ nav_order: 1
 </table> 
 
 <table>
-  <tr> <th colspan="3">Ballistic Guns</th> </tr>
+  <tr> <th colspan="4">Ballistic Guns</th> </tr>
   <tr> <td>Sidearm</td> <td>pistol, revolver, etc.</td> <td>3 dmg, throw range</td> <td>Cheap</td> </tr>
   <tr> <td>Shotgun</td> <td>scattergun, flak cannon, peppergun, etc.</td> <td>2 dmg, throw range, blast, +1 slot</td> <td>Affordable</td> </tr>
   <tr> <td>Machine Gun</td> <td>assault rifle, minigun, LMG, etc.</td> <td>4 dmg, shout range, full auto, +1 slot</td> <td>Affordable</td> </tr>
@@ -64,11 +64,20 @@ nav_order: 1
 </table> 
 
 <table>
-  <tr> <th colspan="3">Energy Guns</th> </tr>
+  <tr> <th colspan="4">Energy Guns</th> </tr>
   <tr> <td>Blaster</td> <td>laser pistol, cutter, hand blaster, etc.</td> <td>2 dmg, shout range</td> <td>Affordable</td> </tr>
   <tr> <td>Beam</td> <td>m-wave emitter, mining laser, heat ray, etc.</td> <td>2 dmg, full auto, shout range, +1 slot</td> <td>Expensive</td> </tr>
   <tr> <td>Blaster Rifle</td> <td>volt gun, photon repeater, laser rifle, etc.</td> <td>3 dmg, sight range, +1 slot</td> <td>Expensive</td> </tr>
   <tr> <td>Energy Cannon</td> <td>shock rifle, fusion cannon, etc.</td> <td>4 dmg, sight range, +1 slots</td> <td>Expensive</td> </tr>
+</table>
+
+<table>
+  <tr> <th colspan="4">Melee Weapons</th> </tr>
+  <tr> <td>Crude</td> <td>unarmed, improvised, throwable, etc.</td> <td>1 dmg</td> <td>Negligible</td> </tr>
+  <tr> <td>Light</td> <td>dagger, club, staff, etc.</td> <td>2 dmg</td> <td>Cheap</td> </tr>
+  <tr> <td>Martial Rifle</td> <td>sword, axe, mace, warhammer, etc.</td> <td>3 dmg, +1 slot</td> <td>Affordable</td> </tr>
+  <tr> <td>Long</td> <td>spear, halberd, maul, greatsword, etc.</td> <td>3 dmg, reach, +1 slot</td> <td>Expensive</td> </tr>
+  <tr> <td>Powered</td> <td>chain axe, impact hammer, cutter, superheated sword, etc.</td> <td>4 dmg, +1 slot</td> <td>Expensive</td> </tr>
 </table>
 
 <table>
