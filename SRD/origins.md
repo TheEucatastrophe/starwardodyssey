@@ -13,44 +13,16 @@ nav_order: 1
     <th colspan="7">Character Origins </th>
   </tr>
   <tr>
-    <td>1</td>
-    <td>Escaped Experiment</td>
-    <td>26</td>
-    <td>Station Enforcer</td>
-    <td>51</td>
-    <td>Academy Dropout</td>
-    <td>76</td>
-    <td>Abyssal Watcher</td>
+    <td>1</td> <td>Escaped Experiment</td> <td>26</td> <td>Station Enforcer</td> <td>51</td> <td>Academy Dropout</td> <td>76</td> <td>Abyssal Watcher</td>
   </tr>
   <tr>
-    <td>2</td>
-    <td>Boundary Ranger</td>
-    <td>27</td>
-    <td>Station Administrator</td>
-    <td>52</td>
-    <td>Underworld Fixer</td>
-    <td>77</td>
-    <td>Suppressed Psion</td>
+    <td>2</td> <td>Boundary Ranger</td> <td>27</td> <td>Station Administrator</td> <td>52</td> <td>Underworld Fixer</td> <td>77</td> <td>Suppressed Psion</td>
   </tr>
   <tr>
-    <td>3</td>
-    <td>Star Racer</td>
-    <td>28</td>
-    <td>Cybernetic Beneficiary</td>
-    <td>53</td>
-    <td>Hivemind</td>
-    <td>78</td>
-    <td>Hologame Designer</td>
+    <td>3</td> <td>Star Racer</td> <td>28</td> <td>Cybernetic Beneficiary</td> <td>53</td> <td>Hivemind</td> <td>78</td> <td>Hologame Designer</td>
   </tr>
   <tr>
-    <td>4</td>
-    <td>Xeno-Food Critic</td>
-    <td>29</td>
-    <td>Liquidator</td>
-    <td>54</td>
-    <td>Humanist Missionary</td>
-    <td>79</td>
-    <td>Derelict Delver</td>
+    <td>4</td> <td>Xeno-Food Critic</td> <td>29</td> <td>Liquidator</td> <td>54</td> <td>Humanist Missionary</td> <td>79</td> <td>Derelict Delver</td>
   </tr>
   <tr>
     <td>5</td>
