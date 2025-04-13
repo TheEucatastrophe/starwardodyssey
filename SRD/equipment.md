@@ -26,8 +26,17 @@ nav_order: 1
   <tr> <td>Vacc Suit</td> <td>protects from the vacuum of space</td> <td>Affordable</td> </tr>
   <tr> <td>Exposure Suit</td> <td>protects from extreme weather, heat, and cold</td> <td>Expensive</td> </tr>
   <tr> <td>Hazardous Environment Suit</td> <td>protects from corrosive and toxic atmosphere and substances</td> <td>Expensive</td> </tr>
-  <tr> <th>No-Suit </th> <th>hides the wearer from scanners and sensors</th> <th>Expensive</th> </tr>
-  <tr> <th>Adaptive Camo Suit</th> <th>when sationary the suit adapts to match the wearer’s surroundings</th> <th>Exorbitant</th> </tr>
+  <tr> <td>No-Suit</th> <td>hides the wearer from scanners and sensors</td> <td>Expensive</td> </tr>
+  <tr> <td>Adaptive Camo Suit</td> <th>when sationary the suit adapts to match the wearer’s surroundings</td> <td>Exorbitant</td> </tr>
+</table> 
+
+<table>
+  <tr> <th colspan="3">Head Gear</th> </tr>
+  <tr> <td>Crash Helmet</th> <td>+1 AP, breaks after being hit</td> <td>Cheap</td> </tr>
+  <tr> <td>Combat Helmet</td> <th>+1 AP</td> <td>Affordable</td> </tr>
+  <tr> <td>Vacc Helm</td> <td>provides breathable air in the vacuum of space</td> <td>Affordable</td> </tr>
+  <tr> <td>Filter Mask</td> <td>filters out toxins and poison in the air </td> <td>Expensive</td> </tr>
+  <tr> <td>Survey Visor</td> <td>dark vision and heat vision</td> <td>Expensive</td> </tr>
 </table> 
 
 <table>
@@ -36,6 +45,14 @@ nav_order: 1
   <tr> <td>Light</td> <td>recon suit, security outfit, carbon skin, etc.</td> <td>2 AP</td> <td>Affordable</td> </tr>
   <tr> <td>Medium</td> <td>combat armour, riot suit, flak jack, etc.</td> <td>4 AP, +1 slot</td> <td>Expensive</td> </tr>
   <tr> <td>Heavy</td> <td>battle dress, hardsuit, combat frame, etc.</td> <td>6 AP, +2 slots</td> <td>Expensive</td> </tr>
+</table> 
+
+<table>
+  <tr> <th colspan="3">Energy Shields</th> </tr>
+  <tr> <td>Simple Shield</td> <td>1 SP</td> <td>Expensive</td> </tr>
+  <tr> <td>Focused Shield</td> <td>3 SP</td> <td>Expensive</td> </tr>
+  <tr> <td>Directional Shield</td> <td>2 SP, deployed, shields from a single direction, +1 slot</td> <td>Expensive</td> </tr>
+  <tr> <td>Bubble Shield</td> <td>2 SP, deployed, shields everything within throw range, +2 slots</td> <td>Exorbitant</td> </tr>
 </table> 
 
 <table>
