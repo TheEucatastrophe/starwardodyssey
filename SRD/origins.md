@@ -35,3 +35,22 @@ nav_order: 1
   <tr> <td>24</td> <td>Insurrectionist</td> <td>49</td> <td>Stellar Barbarian</td> <td>74</td> <td>Future Crime Detective</td> <td>99</td> <td>Cosmic Tourist</td> </tr>
   <tr> <td>25</td> <td>Registered Killer</td> <td>50</td> <td>Sapient Flora</td> <td>75</td> <td>Flotilla Starfinder</td> <td>100</td> <td>Galactic Outsider</td> </tr>
 </table> 
+
+1 Escaped Experiment
+You were taken as a child for some clandestine purpose. As these things tend to go, an accident befell the facility holding you, resulting in your freedom.
+You Get:
+Escape Custody skill. 
+White jumpsuit.
+Bloodstained security pistol (3 dmg).
+Barcode tattoo. Scanning the barcode flags you as escaped property.
+
+| 1d6 | What was the experiment and who conducted it? | 
+|------|------|
+| 1 | Super Soldier Serum, Erskine Corp. Ignore Debuffs for attack saves. | 
+| 2 | Adaptive Mutations, West Tech. Your biology changes to fit hostile environments, but you gain a Stress every cycle to sustain the changes. | 
+| 3 | Cybernetic Organ Replacements, Dyson Enhancements. Roll an extra HD if you have a fully charged power source. | 
+| 4 | Mind Control, Phoenix Group. You can gain a Stress to alter an aspect of someone’s reality for a short time (the more obvious, the more likely they are to notice). | 
+| 5 | Cloning Project, Ghola Dynamics. There is a 1-in-6 chance that you will find someone that looks exactly like you whenever you enter a populated area. | 
+| 6 | Reanimation, 2nd Life Co. If you die you will be revived with 0 HD. If you die with 0 HD you are dead for good.  | 
+
+
