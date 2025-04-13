@@ -36,6 +36,8 @@ nav_order: 1
   <tr> <td>25</td> <td>Registered Killer</td> <td>50</td> <td>Sapient Flora</td> <td>75</td> <td>Flotilla Starfinder</td> <td>100</td> <td>Galactic Outsider</td> </tr>
 </table> 
 
+---
+
 ## 1 Escaped Experiment
 You were taken as a child for some clandestine purpose. As these things tend to go, an accident befell the facility holding you, resulting in your freedom.
 
