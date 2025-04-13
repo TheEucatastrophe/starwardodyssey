@@ -36,13 +36,13 @@ nav_order: 1
   <tr> <td>25</td> <td>Registered Killer</td> <td>50</td> <td>Sapient Flora</td> <td>75</td> <td>Flotilla Starfinder</td> <td>100</td> <td>Galactic Outsider</td> </tr>
 </table> 
 
-1 Escaped Experiment
+## 1 Escaped Experiment
 You were taken as a child for some clandestine purpose. As these things tend to go, an accident befell the facility holding you, resulting in your freedom.
+
 You Get:
-Escape Custody skill. 
-White jumpsuit.
-Bloodstained security pistol (3 dmg).
-Barcode tattoo. Scanning the barcode flags you as escaped property.
+- White jumpsuit.
+- Bloodstained security pistol (3 dmg).
+- Barcode tattoo. Scanning the barcode flags you as escaped property.
 
 | 1d6 | What was the experiment and who conducted it? | 
 |------|------|
