@@ -44,13 +44,13 @@ You Get:
 - Bloodstained security pistol (3 dmg).
 - Barcode tattoo. Scanning the barcode flags you as escaped property.
 
-| 1d6 | What was the experiment and who conducted it? | 
+| 1d6 | What was the experiment? | 
 |------|------|
-| 1 | Super Soldier Serum, Erskine Corp. Ignore Debuffs for attack saves. | 
-| 2 | Adaptive Mutations, West Tech. Your biology changes to fit hostile environments, but you gain a Stress every cycle to sustain the changes. | 
-| 3 | Cybernetic Organ Replacements, Dyson Enhancements. Roll an extra HD if you have a fully charged power source. | 
-| 4 | Mind Control, Phoenix Group. You can gain a Stress to alter an aspect of someone’s reality for a short time (the more obvious, the more likely they are to notice). | 
-| 5 | Cloning Project, Ghola Dynamics. There is a 1-in-6 chance that you will find someone that looks exactly like you whenever you enter a populated area. | 
-| 6 | Reanimation, 2nd Life Co. If you die you will be revived with 0 HD. If you die with 0 HD you are dead for good.  | 
+| 1 | **Super Soldier Serum**. Ignore Debuffs for attack saves. | 
+| 2 | **Adaptive Mutations**. Your biology changes to fit hostile environments, but you gain a Stress every cycle to sustain the changes. | 
+| 3 | **Cybernetic Organ Replacements**. Roll an extra HD if you have a fully charged power source. | 
+| 4 | **Mind Control**. You can gain a Stress to alter an aspect of someone’s reality for a short time (the more obvious, the more likely they are to notice). | 
+| 5 | **Cloning Project**. There is a 1-in-6 chance that you will find someone that looks exactly like you whenever you enter a populated area. | 
+| 6 | **Reanimation**. If you die you will be revived with 0 HD. If you die with 0 HD you are dead for good.  | 
 
 
