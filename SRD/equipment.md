@@ -56,6 +56,22 @@ nav_order: 1
 </table> 
 
 <table>
+  <tr> <th colspan="3">Ballistic Guns</th> </tr>
+  <tr> <td>Sidearm</td> <td>pistol, revolver, etc.</td> <td>3 dmg, throw range</td> <td>Cheap</td> </tr>
+  <tr> <td>Shotgun</td> <td>scattergun, flak cannon, peppergun, etc.</td> <td>2 dmg, throw range, blast, +1 slot</td> <td>Affordable</td> </tr>
+  <tr> <td>Machine Gun</td> <td>assault rifle, minigun, LMG, etc.</td> <td>4 dmg, shout range, full auto, +1 slot</td> <td>Affordable</td> </tr>
+  <tr> <td>Long Gun</td> <td>bolt rifle, hunting rifle, sniper, etc.</td> <td>4 dmg, sight range, +1 slots</td> <td>Expensive</td> </tr>
+</table> 
+
+<table>
+  <tr> <th colspan="3">Energy Guns</th> </tr>
+  <tr> <td>Blaster</td> <td>laser pistol, cutter, hand blaster, etc.</td> <td>2 dmg, shout range</td> <td>Affordable</td> </tr>
+  <tr> <td>Beam</td> <td>m-wave emitter, mining laser, heat ray, etc.</td> <td>2 dmg, full auto, shout range, +1 slot</td> <td>Expensive</td> </tr>
+  <tr> <td>Blaster Rifle</td> <td>volt gun, photon repeater, laser rifle, etc.</td> <td>3 dmg, sight range, +1 slot</td> <td>Expensive</td> </tr>
+  <tr> <td>Energy Cannon</td> <td>shock rifle, fusion cannon, etc.</td> <td>4 dmg, sight range, +1 slots</td> <td>Expensive</td> </tr>
+</table>
+
+<table>
   <tr> <th>test</th> <th>test</th> <th>test</th> </tr>
   <tr> <td>test</td> <td>test</td> <td>test</td> </tr>
   <tr> <td>test</td> <td>test</td> <td>test</td> </tr>
