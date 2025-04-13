@@ -44,7 +44,7 @@ nav_order: 1
   </tr>
   <tr>
     <td>4</td>
-    <td>Xenofood Critic</td>
+    <td>Xeno-Food Critic</td>
     <td>29</td>
     <td>Liquidator</td>
     <td>54</td>
@@ -64,9 +64,9 @@ nav_order: 1
   </tr>
   <tr>
     <td>6</td>
-    <td>X</td>
+    <td>Xeno-Translator</td>
     <td>31</td>
-    <td>X</td>
+    <td>Wrecker</td>
     <td>56</td>
     <td>X</td>
     <td>81</td>
