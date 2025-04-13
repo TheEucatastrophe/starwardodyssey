@@ -398,7 +398,7 @@ Replicas weren’t just created to look like organic beings, they were created t
 
 ---
 
-jason freija sharo-lee
+
 
 | 1d6 | TO BE ADDED | 
 |------|------|
