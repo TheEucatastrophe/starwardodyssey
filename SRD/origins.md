@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Origins
-parent: Characters
-nav_order: 1
+parent: Using Gear
+nav_order: 2
 ---
 
 # Origins
