@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Origins
+title: Character Origins
 parent: Using Gear
 nav_order: 2
 ---
 
-# Origins
+# Character Origins
 
 <table>
   <tr> <th colspan="8">1d100 Character Origins </th> </tr>
