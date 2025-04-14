@@ -339,35 +339,40 @@ For synths, 1 Supply can be used to remove 1 Hit.
 | 4 | **One Mind**. One consciousness controls thousands of “yous” independently. | 
 | 5 | **Cosmic Accident**. Space winds, cosmic rays, whatever it was, it awakened your mind. | 
 | 6 | **Synthetic Selection**. Your kind were abandoned and left to evolve into an intelligent lifeform. | 
- 
+
 Roll **1d6** to determine the type of synth you are. 
 
 ### 1 Utility Bot
 Utility bots are responsible for the maintenance of complex machinery and communications with computer systems.
+
 **You Get:**
 - TO BE ADDED
 - Computer Linguist. You can access computer systems from a distance through audible bleeps and bloops.
 
 ### 2 Security Drone
 Equipped with state of the art suppression tools, security drones offer civic protection and first response services.
+
 **You Get:**
 - TO BE ADDED
 - Threat Sensors. You can never be surprised by an encounter.
 
 ### 3 Combat Unit
 Loaded with an entire arsenal, these killing machines are often deployed to the front lines of galactic conflicts.
+
 **You Get:**
 - TO BE ADDED
 - Weapon Mounts. Attach up to 2 weapons to your body, taking up no inventory slots.
 
 ### 4 Protocol Android
 Programmed with enhanced personality matrices, androids are perfectly suited to socially engage with organic beings.
+
 **You Get:**
 - TO BE ADDED
 - Empath Module. Detect when someone you are talking to is lying.
 
 ### 5 Virtual Presence
-Designed as digital assistants and companions, VPs can hop from device to device, roaming free through cyberspace.
+Designed as virtual assistants and companions, VPs can hop from device to device, roaming free through cyberspace.
+
 **You Get:**
 - TO BE ADDED
 - Digitally Untethered. You can occupy any vacant computer on your network, but you can only have 1 HD. Rolling your HD determines whether or not you can escape to another computer when Hit.
@@ -383,9 +388,10 @@ Designed as digital assistants and companions, VPs can hop from device to device
 
 ### 6 Replica
 Replicas weren’t just created to look like organic beings, they were created to replace them. To what end you do not know.
+
 **You Get:**
 - TO BE ADDED
-- Replacement. Roll again on the origins table (reroll if non-human). You replaced their life and have been transplanted with their memories.
+- Replacement. Roll again on the origins table (reroll if non-human). You replaced their life, taking their appearance and transplanted with their memories.
 
 | 1d6 | What subtle tell gives your nature away? | 
 |------|------|
