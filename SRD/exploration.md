@@ -59,7 +59,7 @@ Below is an example encounter table with guide the Ref can use when creating an 
 
 ### Shift Tracks
 
-Every adventure site will have at least 1 shift track. These show something important within the site progressing over time. Each time a shift is rolled, mark the next unmarked entry in the track. Along a track things will happen that will change a room, area, or the entire location. 
+Every adventure site will have at least 1 shift track. These show something important within the site progressing over time. Each time a shift is rolled, mark the next unmarked entry in the track. Along the track things will happen that will change a room, area, or the entire location. 
 
 |  | Example Shift Track |
 |------|------|
