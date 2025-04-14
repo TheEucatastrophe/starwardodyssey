@@ -32,7 +32,7 @@ Some locations may have more specific actions or situations which will trigger e
 |------|------|
 | 1  | **Encounter**. Reset the event pool and roll on the location’s encounter table. |
 | 2  | **Sign**. Roll on the location’s encounter table. The crew finds evidence of that encounter nearby. |
-| 3  | **Shift**. Something about the location changes. Advance a location's shift track. |
+| 3  | **Shift**. Something about the location changes. Advance the location's shift track. |
 | 4  | **Exhaustion**. Spend a moment resting or each member of the crew gains a Stress. |
 | 5  | **Drain**. Mark a usage on all active power sources. |
 | 6  | **All Clear**. Nothing of note occurs. Remove a die from the event pool. |
