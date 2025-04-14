@@ -2,6 +2,7 @@
 layout: default
 title: Referee Characters
 parent: SRD
+has_children: true
 nav_order: 10
 ---
 
