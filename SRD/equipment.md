@@ -16,9 +16,9 @@ nav_order: 1
 
 <table>
   <tr> <th colspan="4">Power Sources</th> </tr>
-  <tr> <td>Limited</td> <td>XXXX</td> <td>1 use</td> <td>Cheap</td> </tr>
-  <tr> <td>Standard</td> <td>XXXX</td> <td>3 uses</td> <td>Affordable</td> </tr>
-  <tr> <td>Generating</td> <td>XXXX</td> <td>3 uses, rechage 1 use per hour, +1 slot</td> <td>Expensive</td> </tr>
+  <tr> <td>Limited</td> <td>battery, power shard, photoplate, etc.</td> <td>1 use, cannot be recharged</td> <td>Cheap</td> </tr>
+  <tr> <td>Standard</td> <td>power cell, battery pack, bioelectric pod, etc.</td> <td>3 uses</td> <td>Affordable</td> </tr>
+  <tr> <td>Recharging</td> <td>sympathetic conduit, mini-reactor, kinetic modulator, etc.</td> <td>3 uses, rechage 1 use per hour, +1 slot</td> <td>Expensive</td> </tr>
 </table> 
 
 <table>
@@ -80,9 +80,3 @@ nav_order: 1
   <tr> <td>Long</td> <td>spear, halberd, maul, greatsword, etc.</td> <td>3 dmg, reach, +1 slot</td> <td>Expensive</td> </tr>
   <tr> <td>Powered</td> <td>chain axe, impact hammer, cutter, superheated sword, etc.</td> <td>4 dmg, +1 slot</td> <td>Expensive</td> </tr>
 </table>
-
-<table>
-  <tr> <th>test</th> <th>test</th> <th>test</th> </tr>
-  <tr> <td>test</td> <td>test</td> <td>test</td> </tr>
-  <tr> <td>test</td> <td>test</td> <td>test</td> </tr>
-</table> 

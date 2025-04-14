@@ -340,7 +340,7 @@ For synths, 1 Supply can be used to remove 1 Hit.
 | 5 | **Cosmic Accident**. Space winds, cosmic rays, whatever it was, it awakened your mind. | 
 | 6 | **Synthetic Selection**. Your kind were abandoned and left to evolve into an intelligent lifeform. | 
  
-Roll 1d6 to determine the type of synth you are. 
+Roll **1d6** to determine the type of synth you are. 
 
 ### 1 Utility Bot
 Utility bots are responsible for the maintenance of complex machinery and communications with computer systems.

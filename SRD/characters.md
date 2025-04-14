@@ -11,6 +11,7 @@ nav_order: 2
 ## Attributes
 
 You will rely on three attributes to save your PC from harm, distress, or other negative outcomes.
+
 - **Endure (END)** is used for rolls requiring physical fortitude, athleticism, or resilience.
 - **Adapt (ADA)** is used for rolls requiring quick thinking, dexterity, or hand-eye coordination.
 - **Resolve (RES)** is used for rolls requiring strength of will, mental fortitude, or a compelling presence.
