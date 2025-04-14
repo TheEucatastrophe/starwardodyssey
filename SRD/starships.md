@@ -2,6 +2,7 @@
 layout: default
 title: Starships
 parent: SRD
+has_children: true
 nav_order: 3
 ---
 
