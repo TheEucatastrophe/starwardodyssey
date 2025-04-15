@@ -5,7 +5,9 @@ nav_order: 1
 permalink: /
 ---
 
-TEST
+# STARWARD ODYSSEY
+
+**Starward Odyssey** is a space adventure roleplaying game. It is based on **DURF** by Emiel Boven and is mechanically inspired by other OSR games such as **Cairn**, **Mausritter**, and **Mothership**. 
 
 ----
 

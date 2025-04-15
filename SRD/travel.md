@@ -24,10 +24,9 @@ Roll a 1d6 for each hour or cycle of a journey. Compare the lowest result on the
 |------|------|
 | 1 | **Encounter**. Roll on the region’s encounter table. |
 | 2 | **Sighting**. Roll on the region’s encounter table. The crew finds evidence of that encounter nearby. |
-| 3 | **Exhaust**. The journey takes a toll. Spend a cycle resting or each member of the crew gains a Stress. |
+| 3 | **Attrition**. Every character loses 1 Supply for equipment maintenance and food consumption. Failure to do so adds a Stress. |
 | 4 | **Drain**. Mark 1d3 usages on all active power sources. |
-| 5 | **Shift**. Something changes along the journey. Roll on the region’s shift table. |
-| 6 | **All Clear**. Nothing of note occurs. |
+| 5-6 | **All Clear**. Nothing of note occurs. |
 
 # Space Travel
 
@@ -48,12 +47,11 @@ Roll 1d6 for each hour or cycle of a journey. Compare the lowest result on the s
 | 1 | **Encounter**. Roll on the region’s encounter table. |
 | 2 | **Detection**. Roll on the systems’s encounter table. The crew finds evidence of that encounter nearby. |
 | 3 | **Emergency**. A random module is damaged. Roll for an emergency. |
-| 4 | **Drain**. Lose 1 Supply per starship HD for general maintenance, consumption, and usage. Failure to do so adds a Stress to all the crew. |
-| 5 | **Shift**. Something changes along the journey. Roll on the systems’s shift table. |
-| 6 | **All Clear**. Nothing of note occurs. |
+| 4 | **Attrition**. Lose 1 Supply per starship HD for general maintenance and consumption. Failure to do so adds a Stress to all the crew. |
+| 5-6 | **All Clear**. Nothing of note occurs. |
 
 ## Space Travel Duration
-Travel time between any two points in a star system will fluctuate based on the relative positions of those points. Roll to get the base travel time and subtract the ship’s speed.
+Travel time between any two points in a star system will fluctuate based on the relative positions of those points. Roll to get the base travel time and then subtract the ship’s speed.
 
 1. **Orbital Point**. 2d6 hours to reach a location orbiting your current world.
 2. **Inner System Point**. 1d6 cycles to reach a location close to the centre of the system.
@@ -61,26 +59,28 @@ Travel time between any two points in a star system will fluctuate based on the 
 
 # Constellation Travel 
 
-Space is divided into constellations, which are clusters of nearby stars and other celestial objects. If a starship has a jump drive, it can jump to any known coordinate within a constellation. The drive compresses space, making the journey significantly shorter. Constellations will be marked with a number of points of interest, such as star systems, black holes, obstacles, etc. These points will be connected by a line indicating the distance in light years (ly). A jump uses hyperfuel equal to the distance travelled.
+Space is divided into constellations, which are clusters of nearby star systems and other celestial objects. Constellations will be marked with a number of points of interest, such as star systems, black holes, obstacles, etc. These points will be connected by a line indicating the distance in light years (ly). 
 
-A jump's duration is a number of cycles equal to the distance. Whilst jumping, the ship is completely isolated from external influence and communications.
-Jump drives are power hungry and cannot be left active. Before making a jump the drive must spend 3 rounds to spool up and make the necessary calculations.
+If a starship has a jump drive, it can jump to any known coordinate within a constellation. Jump drives must spend a moment to spool up and make the necessary calculations before you can jump. A jump uses hyperfuel equal to the distance travelled.
+
+The duration of a jump is a number of cycles equal to the jump distance. Whilst jumping, the ship is completely isolated from external influence and communications. 
+
+A ship always arrives at the very edge of a star system, since jump drives do not work near high mass objects like stars. 
 
 ## Jump Obstacles
 
-The path between two points might run through a cosmic obstacle of some kind. When this is the case, a jump can still be made, but at considerable risk.
+The path between two points might run through a cosmic obstacle of some kind. When this is the case, a jump can still be made, but at a risk.
 
 | | |
 |------|------|
 | Monitored | Someone or something is watching this route and will be alerted to your presence. |
-| Minefield | 1-in-6 chance of the ship taking 1d6 damage to a random module. |
+| Minefield | 1-in-6 chance of the ship taking 3 Hits to a random module. |
 | Nova Scar | 1-in-6 chance of your jump drive being Wrecked upon arrival. |
 | Debris Field | 1d6 random modules will be malfunctioning upon arrival. |
 | Nebula | 1-in-6 chance of your reactor being Wrecked upon arrival. |
-| Radiation | Everyone on the ship gains 1d6 Stress. |
-| Cosmic Storm | TO BE ADDED |
-| Rift | TO BE ADDED |
-| Void | TO BE ADDED |
+| Cosmic Radiation | Everyone on the ship gains 1d6 Stress. |
+| Rift | Reduces travel time by half. |
+| Void | 1-in-6 chance to be trapped inside a small pocket of Deep Space. |
 
 ## Deep Space
 
@@ -106,8 +106,8 @@ In deep space, the jump drive cannot find any routes to known locations. A blind
 
 | 1d6 | Blind Jump Events |
 |------|------|
-| 1 | **More Deep Space**. You arrive elsewhere in deep space. |
-| 2 | **Distant Constellation**. You arrive 1d6 constellations away. |
+| 1 | **More Deep Space**. You arrive elsewhere in Deep Space. |
+| 2 | **Distant Constellation**. You arrive in a far away constellation. |
 | 3 | **Megastructure**. You arrive near a huge ancient structure in deep space.|
 | 4 | **Rogue Planet**. You arrive near an orphaned planet, drifting alone in deep space.|
 | 5 | **Stranded Star**. You arrive in a star system stranded in deep space.|

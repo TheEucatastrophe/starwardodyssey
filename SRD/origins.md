@@ -9,7 +9,7 @@ nav_order: 2
 
 <table>
   <tr> <th colspan="8">1d100 Character Origins </th> </tr>
-  <tr> <td>1</td> <td>Escaped Experiment</td> <td>26</td> <td>Station Enforcer</td> <td>51</td> <td>Academy Dropout</td> <td>76</td> <td>Abyssal Watcher</td> </tr>
+  <tr> <td>1</td> <td>Spliced Experiment</td> <td>26</td> <td>Station Enforcer</td> <td>51</td> <td>Academy Dropout</td> <td>76</td> <td>Abyssal Watcher</td> </tr>
   <tr> <td>2</td> <td>Boundary Ranger</td> <td>27</td> <td>Station Administrator</td> <td>52</td> <td>Underworld Fixer</td> <td>77</td> <td>Suppressed Psion</td> </tr>
   <tr> <td>3</td> <td>Star Racer</td> <td>28</td> <td>Cybernetic Beneficiary</td> <td>53</td> <td>Hivemind</td> <td>78</td> <td>Hologame Designer</td> </tr>
   <tr> <td>4</td> <td>Drop Trooper</td> <td>29</td> <td>Liquidator</td> <td>54</td> <td>Humanist Missionary</td> <td>79</td> <td>Derelict Delver</td> </tr>
@@ -38,8 +38,8 @@ nav_order: 2
 
 ---
 
-## 1 Escaped Experiment
-You were taken as a child for some clandestine purpose. As these things tend to go, an accident befell the facility holding you, resulting in your freedom.
+## 1 Spliced Experiment
+Taken as a child or grown in a lab? It matters not. For most of your life you were subject to all manner of cutting-edge science. As these things tend to go, however, an 'accident' befell the facility holding you, and you made a run for the door. 
 
 **You Get:**
 - Bloodstained, white jumpsuit.
@@ -48,32 +48,32 @@ You were taken as a child for some clandestine purpose. As these things tend to 
 
 | 1d6 | What was the experiment? | 
 |------|------|
-| 1 | **Super Soldier Serum**. Ignore Debuffs for attack saves. | 
-| 2 | **Adaptive Mutations**. Your biology changes to fit hostile environments, but you gain a Stress every cycle to sustain the changes. | 
-| 3 | **Cybernetic Organ Replacements**. Roll an extra HD if you have a fully charged power source. | 
-| 4 | **Mind Control**. You can gain a Stress to alter an aspect of someone’s reality for a short time (the more obvious, the more likely they are to notice). | 
-| 5 | **Cloning Project**. There is a 1-in-6 chance that you will find someone that looks exactly like you whenever you enter a populated area. | 
-| 6 | **Reanimation**. If you die you will be revived with 0 HD. If you die with 0 HD you are dead for good. | 
+| 1 | **Survival Flow State**. Ignore all Debuffs when you have 3 or more Hits. | 
+| 2 | **Biochemical Adaptation**. Your biology changes to fit hostile environments, but you gain a Stress every cycle to sustain the changes. | 
+| 3 | **Cybernetic Organs**. Roll an extra 1HD if you have a working power source. | 
+| 4 | **Remote Mind Wave Attunement**. You can gain a Stress to alter an aspect of someone’s reality for a short time. They must be in sight. | 
+| 5 | **Facial Morphology**. You can gain a Stress to change your face. | 
+| 6 | **Transdifferentiation**. If you die you will be revived with 0 HD as a younger version. If you die with 0 HD you are dead for good. | 
 
 ---
 
-## 2 Boundary Ranger
+## 2 Boundary Patrol Officer
 
-When you’re out in borderspace all alone with nothing but the stars to keep you company, you start to question your purpose. That is why most rangers are assigned a robot companion to make sure that doesn’t happen.
+Here on the very edge of a star's influence, out on the far side of borderspace, you can lose yourself to the expanse. Six out of ten officers don't last more than 300 cycles out here. They can't stand the silience.
 
 **You Get:**
 - Apparel
-- Device/Weapon/Armour
-- Robot Companion. See below.
+- Space Maneuvering Suit. Slowly move in any direction while in zero-g. 
+- Synthetic Animal Companion. See below.
 
-| 1d6 | What is your robotic companion? | 
+| 1d6 | What is your synthetic animal? | 
 |------|------|
-| 1 | **Medibot**. TO BE ADDED. | 
-| 2 | **Astromech**. TO BE ADDED. | 
-| 3 | **Scout Drone**. TO BE ADDED. | 
-| 4 | **Mechanical Pilot**. TO BE ADDED. | 
-| 5 | **Security Bot**. TO BE ADDED. | 
-| 6 | **Animal Replica**. TO BE ADDED. | 
+| 1 | **Feline**. TO BE ADDED. | 
+| 2 | **Canine**. TO BE ADDED. | 
+| 3 | **Bird**. TO BE ADDED. | 
+| 4 | **Reptile**. TO BE ADDED. | 
+| 5 | **Alien**. TO BE ADDED. | 
+| 6 | **Alien**. TO BE ADDED. | 
 
 ---
 
