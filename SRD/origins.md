@@ -10,7 +10,7 @@ nav_order: 2
 <table>
   <tr> <th colspan="8">1d100 Character Origins </th> </tr>
   <tr> <td>1</td> <td>Spliced Experiment</td> <td>26</td> <td>Station Enforcer</td> <td>51</td> <td>Academy Dropout</td> <td>76</td> <td>Abyssal Watcher</td> </tr>
-  <tr> <td>2</td> <td>Boundary Ranger</td> <td>27</td> <td>Station Administrator</td> <td>52</td> <td>Underworld Fixer</td> <td>77</td> <td>Suppressed Psion</td> </tr>
+  <tr> <td>2</td> <td>Boundary Patrol Officer</td> <td>27</td> <td>Station Administrator</td> <td>52</td> <td>Underworld Fixer</td> <td>77</td> <td>Suppressed Psion</td> </tr>
   <tr> <td>3</td> <td>Star Racer</td> <td>28</td> <td>Cybernetic Beneficiary</td> <td>53</td> <td>Hivemind</td> <td>78</td> <td>Hologame Designer</td> </tr>
   <tr> <td>4</td> <td>Drop Trooper</td> <td>29</td> <td>Liquidator</td> <td>54</td> <td>Humanist Missionary</td> <td>79</td> <td>Derelict Delver</td> </tr>
   <tr> <td>5</td> <td>Intrusion Specialist</td> <td>30</td> <td>Retroneer</td> <td>55</td> <td>Astro Exile</td> <td>80</td> <td>Under Dweller</td> </tr>
