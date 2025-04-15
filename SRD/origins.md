@@ -39,7 +39,7 @@ nav_order: 2
 ---
 
 ## 1 Spliced Experiment
-Taken as a child or grown in a lab? It matters not. For most of your life you were subject to all manner of cutting-edge science. As these things tend to go, however, an 'accident' befell the facility holding you, and you made a run for the door. 
+Taken as a child or grown in a lab? It matters not. For most of your life you were subject to all manner of cutting-edge science. As these things tend to go, however, an accident befell the facility holding you, and you made a run for the door. 
 
 **You Get:**
 - **Bloodstained, white jumpsuit**.
@@ -48,12 +48,12 @@ Taken as a child or grown in a lab? It matters not. For most of your life you we
 
 | 1d6 | What was the experiment? | 
 |------|------|
-| 1 | **Survival Flow State**. Ignore all Debuffs when you have 3 or more Hits. | 
+| 1 | **Survival Flow State**. Ignore all Debuffs when you have as many or more Hits as you have HD. | 
 | 2 | **Biochemical Adaptation**. Your biology changes to fit hostile environments, but you gain a Stress every cycle to sustain the changes. | 
 | 3 | **Cybernetic Organs**. Roll an extra 1HD if you have a working power source. | 
 | 4 | **Remote Mind Wave Attunement**. You can gain a Stress to alter an aspect of someone’s reality for a short time. They must be in sight. | 
 | 5 | **Facial Morphoplasty**. You can gain a Stress to change your face. | 
-| 6 | **Transdifferentiation**. If you die you will be revived with 0 HD as a younger version. If you die with 0 HD you are dead for good. | 
+| 6 | **Transdifferentiation**. If you die you will be revived with 0 HD. If you die with 0 HD you are dead for good. | 
 
 ---
 
@@ -288,7 +288,7 @@ Not all space stations have artificial gravity. Mixing cocktails in these condit
 ---
 
 ## 10 Exo Canary
-Location, location, location they say. What they don’t say is that someone has to make sure that the location won’t kill you on arrival.
+Location, location, location they say. What they don’t say is that someone has to make sure that the location won’t kill you on arrival. 
 
 **You Get:**
 - **Dirty overalls, gloves, and boots**.
@@ -302,7 +302,7 @@ Location, location, location they say. What they don’t say is that someone has
 | 3 | **Tumult**. A planet completely covered in water, ravaged by swells and storms. | 
 | 4 | **Tunis**. A blazing desert world orbiting multiple suns filled with nothing but sand and rocks. | 
 | 5 | **Phodel**. A blasted world populated by spewing volcanoes, thick dark smoke, and rivers of lava. | 
-| 6 | **Frijs**. An icy planet far from its star, frozen and engulfed in snow. | 
+| 6 | **Frijs**. An icy planet far from its star, frozen and engulfed by an eternal blizzard. | 
 
 ---
 
