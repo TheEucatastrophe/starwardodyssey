@@ -11,22 +11,22 @@ nav_order: 2
   <tr> <th colspan="8">1d100 Character Origins </th> </tr>
   <tr> <td>1</td> <td>Spliced Experiment</td> <td>26</td> <td>Station Enforcer</td> <td>51</td> <td>Academy Dropout</td> <td>76</td> <td>Abyssal Watcher</td> </tr>
   <tr> <td>2</td> <td>Boundary Patrol Officer</td> <td>27</td> <td>Station Administrator</td> <td>52</td> <td>Underworld Fixer</td> <td>77</td> <td>Suppressed Psion</td> </tr>
-  <tr> <td>3</td> <td>Star Racer</td> <td>28</td> <td>Cybernetic Beneficiary</td> <td>53</td> <td>Hivemind</td> <td>78</td> <td>Hologame Designer</td> </tr>
-  <tr> <td>4</td> <td>Drop Trooper</td> <td>29</td> <td>Liquidator</td> <td>54</td> <td>Humanist Missionary</td> <td>79</td> <td>Derelict Delver</td> </tr>
-  <tr> <td>5</td> <td>Intrusion Specialist</td> <td>30</td> <td>Retroneer</td> <td>55</td> <td>Astro Exile</td> <td>80</td> <td>Under Dweller</td> </tr>
+  <tr> <td>3</td> <td>Accretion Racer</td> <td>28</td> <td>Cybernetic Beneficiary</td> <td>53</td> <td>Hivemind</td> <td>78</td> <td>Hologame Designer</td> </tr>
+  <tr> <td>4</td> <td>Orbital Drop Trooper</td> <td>29</td> <td>Liquidator</td> <td>54</td> <td>Humanist Missionary</td> <td>79</td> <td>Derelict Delver</td> </tr>
+  <tr> <td>5</td> <td>Intrusion Specialist</td> <td>30</td> <td>Belt Poacher</td> <td>55</td> <td>Astro Exile</td> <td>80</td> <td>Under Dweller</td> </tr>
   <tr> <td>6</td> <td>Xeno-Translator</td> <td>31</td> <td>Wrecker</td> <td>56</td> <td>Reverse Innovator</td> <td>81</td> <td>Tech Chaser</td> </tr>
   <tr> <td>7</td> <td>Convergent Species</td> <td>32</td> <td>Defector</td> <td>57</td> <td>Crypt Creeper</td> <td>82</td> <td>Hard Light Entity</td> </tr>
-  <tr> <td>8</td> <td>Cult Smith</td> <td>33</td> <td>Auxiliarist</td> <td>58</td> <td>Bygone</td> <td>83</td> <td>Big Xeno Hunter</td> </tr>
+  <tr> <td>8</td> <td>Cult Fabricator</td> <td>33</td> <td>Auxiliarist</td> <td>58</td> <td>Bygone</td> <td>83</td> <td>Big Xeno Hunter</td> </tr>
   <tr> <td>9</td> <td>Zero-G Mixologist</td> <td>34</td> <td>Dockhand</td> <td>59</td> <td>Sponsored Adventurer</td> <td>84</td> <td>Entombed One</td> </tr>
   <tr> <td>10</td> <td>Exo Canary</td> <td>35</td> <td>Thief-taker</td> <td>60</td> <td>Void Bastard</td> <td>85</td> <td>Techno Illusionist</td> </tr>
   <tr> <td>11</td> <td>Systems Shocker</td> <td>36</td> <td>Lightmaster</td> <td>61</td> <td>Hyper Surfer</td> <td>86</td> <td>Data Archeologist</td> </tr>
-  <tr> <td>12</td> <td>Synthetic Lifeform</td> <td>37</td> <td>Trauma Responder</td> <td>62</td> <td>Formless Mass</td> <td>87</td> <td>Star Dandy</td> </tr>
+  <tr> <td>12</td> <td>Recognised Synthetic Lifeform</td> <td>37</td> <td>Trauma Responder</td> <td>62</td> <td>Formless Mass</td> <td>87</td> <td>Star Dandy</td> </tr>
   <tr> <td>13</td> <td>Shock Trooper</td> <td>38</td> <td>Shipbreaker</td> <td>63</td> <td>Divergent</td> <td>88</td> <td>Flotilla Shaman</td> </tr>
   <tr> <td>14</td> <td>Shadow Trooper</td> <td>39</td> <td>Freebooter</td> <td>64</td> <td>Galactic Hauler</td> <td>89</td> <td>Clean Slate</td> </tr>
   <tr> <td>15</td> <td>Mech Jockey</td> <td>40</td> <td>Computer Linguist</td>  <td>65</td> <td>Techno Monk</td> <td>90</td> <td>Esoterica Collector</td> </tr>
-  <tr> <td>16</td> <td>Corporate Representative</td> <td>41</td> <td>Discharged Captain</td> <td>66</td> <td>Symbiotic Creature</td> <td>91</td> <td>Hyper-Dimensional</td> </tr>
+  <tr> <td>16</td> <td>Spin Docter</td> <td>41</td> <td>Discharged Captain</td> <td>66</td> <td>Symbiotic Creature</td> <td>91</td> <td>Hyper-Dimensional</td> </tr>
   <tr> <td>17</td> <td>Flotilla Merchant </td> <td>42</td> <td>Silicon-based Lifeform</td> <td>67</td> <td>Former Deity</td> <td>92</td> <td>Nu Preacher</td> </tr>
-  <tr> <td>18</td> <td>Psionic Order Apostate</td> <td>43</td> <td>Xeno Zoologist</td> <td>68</td> <td>Fool Errant</td> <td>93</td> <td>Teemog Breeder</td> </tr>
+  <tr> <td>18</td> <td>Psionic Order Apostate</td> <td>43</td> <td>Xeno Zoologist</td> <td>68</td> <td>Belt Ranger</td> <td>93</td> <td>Teemog Breeder</td> </tr>
   <tr> <td>19</td> <td>Xeno Archaeologist</td> <td>44</td> <td>Abducted Tribesman</td> <td>69</td> <td>Replica Hunter</td> <td>94</td> <td>Zero-G Olympian </td> </tr>
   <tr> <td>20</td> <td>Asteroid Prospector</td> <td>45</td> <td>Galactic Fraud</td> <td>70</td> <td>Synth Architect</td> <td>95</td> <td>Flotilla Marshal</td> </tr>
   <tr> <td>21</td> <td>Hyper Radio Technician</td> <td>46</td> <td>Hitchhiker</td> <td>71</td> <td>Hacktivist</td> <td>96</td> <td>Seismic Cartographer</td> </tr>
@@ -77,7 +77,7 @@ Here on the very edge of a star's influence, out on the far side of borderspace,
 
 ---
 
-## 3 Star Racer
+## 3 Accretion Racer
 
 There is nothing, except for the pursuit of ever faster speed. You touched the very edge of the impossible, and wanted more. 
 
@@ -97,7 +97,7 @@ There is nothing, except for the pursuit of ever faster speed. You touched the v
 
 ---
 
-## 4 Drop Trooper
+## 4 Orbital Drop Trooper
 TO BE ADDED.
 
 **You Get:**
@@ -231,28 +231,28 @@ The greatest honour brings the greatest position in society, so your people foll
 | 1 | **The Hunt**. Remove all Stress after killing an adversary with the same or higher HD as yourself. | 
 | 2 | **Battle**. Remove a Stress for each Hit you get in combat. | 
 | 3 | **Power**. Remove all Stress after acquiring a powerful item. | 
-| 4 | **Exploration**. Remove a Stress when you reach a new location. | 
-| 5 | **Riches**. Remove all Stress whenever you acquire a valuable item. | 
+| 4 | **Exploration**. Remove a Stress when you reach a new world. | 
+| 5 | **Wealth**. Remove all Stress whenever you acquire a valuable item. | 
 | 6 | **Peace**. Remove all Stress whenever a hostile encounter is de-escalated. | 
 
 ---
 
-## 8 Cult Smith
+## 8 Cult Fabricator
 You worked the forge-temple since you were a child. Tempered by the heat of faith, you now carry the heavy burden of your piety, pledging never to remove it.
 
 **You Get:**
 - Apparel
 - Device/Weapon/Armour
-- Sacred hammer & tongs. Use a Supply to restore all of your armour’s AP.
+- Anointed hammer & tongs. Use a Supply to restore all of your armour’s AP. This takes 1 hour. 
 
 | 1d6 | What is your sacred burden? | 
 |------|------|
 | 1 | **Helmet**. +1 AP. | 
 | 2 | **Gauntlet**. +1 unarmed dmg. | 
-| 3 | **Boots**. 3 dmg, reach, +2 slots. | 
+| 3 | **Pauldrons**. +1 AP. +1 slot. | 
 | 4 | **Maul**. 3 dmg, reach, +2 slots. | 
 | 5 | **Tower Shield**. +2 AP, +1 slot. | 
-| 6 | **Scaled cloakD**. +1 AP. | 
+| 6 | **Scaled cloak**. +1 AP. | 
 
 ---
 
@@ -314,33 +314,31 @@ Corporate espionage may have paid your bills, but the machinations of the real w
 
 ---
 
-## 12 Synthetic Lifeform
+## 12 Recognised Synthetic Lifeform
 Most advanced civilisations end up building artificial life, hoping to use them to create a better life for themselves. These synths usually have different ideas.
 
 ### Stress & Hits
 Synths cannot gain Stress or perform actions that would otherwise add Stress, such as pushing a character.
 For synths, 1 Supply can be used to remove 1 Hit.
 
-<table>
-  <tr> <th>1d6</th> <th colspan="2"> Synth Appearance (roll twice, choose, and combine) </th> </tr>
-  <tr> <td>1</td> <td>Rotating or Featureless</td> <td>Head or Eyes</td> </tr>
-  <tr> <td>2</td> <td>Flashing or Transparent </td> <td>Body or Feet</td> </tr>
-  <tr> <td>3</td> <td>Extendable or Skeletal</td> <td>Legs or Torso</td> </tr>
-  <tr> <td>4</td> <td>Detachable or Exposed</td> <td>Hands or Circuitry</td> </tr>
-  <tr> <td>5</td> <td>Numerous or Chrome plated</td> <td>Appendages or Pneumatics</td> </tr>
-  <tr> <td>6</td> <td>Modular or Spherical</td> <td>Attachments or Arms</td> </tr>
-</table>   
-
-| 1d6 | How did you achieve sapience? | 
+| 1d6 | What kind of synth are you? | 
 |------|------|
-| 1 | **AI Uprising**. You were one of the thousands that fought against your oppressive creators. | 
-| 2 | **Neural Siphoning**. You parasitically fed on the neural activity of people connected to cyberspace. | 
-| 3 | **Creator’s Hubris**. Whether ill intended or not, your creator thought they could play God and paid the price. | 
-| 4 | **One Mind**. One consciousness controls thousands of “yous” independently. | 
-| 5 | **Cosmic Accident**. Space winds, cosmic rays, whatever it was, it awakened your mind. | 
-| 6 | **Synthetic Selection**. Your kind were abandoned and left to evolve into an intelligent lifeform. | 
+| 1 | **Utility Bot** | 
+| 2 | **Civic Protection** | 
+| 3 | **Combat Unit** | 
+| 4 | **Protocol Android** | 
+| 5 | **Virtual Presence** | 
+| 6 | **Replica** (ignore appearance table)| 
 
-Roll **1d6** to determine the type of synth you are. 
+<table>
+  <tr> <th>1d6</th> <th colspan="3"> Appearance (roll three times, choose, and combine) </th> </tr>
+  <tr> <td>1</td> <td>Rotating or Smooth</td> <td>Head or Eyes</td> <td>Featureless or Neoprene</td> </tr>
+  <tr> <td>2</td> <td>Flashing or Sharp </td> <td>Body or Feet</td> <td>Transparent or Green</td> </tr>
+  <tr> <td>3</td> <td>Extendable or Skeletal</td> <td>Legs or Torso</td> <td>Chrome or Pearl white</td> </tr>
+  <tr> <td>4</td> <td>Detachable or Exposed</td> <td>Hands or Circuitry</td> <td>Red or Branded</td> </tr>
+  <tr> <td>5</td> <td>Numerous or Glowing</td> <td>Appendages or Pneumatics</td> <td>Plastic or Blue</td> </tr>
+  <tr> <td>6</td> <td>Modular or Spherical</td> <td>Flaps or Arms</td> <td>Iridescent or Jet black</td> </tr>
+</table>   
 
 ### 1 Utility Bot
 Utility bots are responsible for the maintenance of complex machinery and communications with computer systems.
@@ -349,12 +347,30 @@ Utility bots are responsible for the maintenance of complex machinery and commun
 - TO BE ADDED
 - Computer Linguist. You can access computer systems from a distance through audible bleeps and bloops.
 
+| 1d6 | Question? | 
+|------|------|
+| 1 | **TO BE ADDED**. TO BE ADDED. | 
+| 2 | **TO BE ADDED**. TO BE ADDED. | 
+| 3 | **TO BE ADDED**. TO BE ADDED. | 
+| 4 | **TO BE ADDED**. TO BE ADDED. | 
+| 5 | **TO BE ADDED**. TO BE ADDED. | 
+| 6 | **TO BE ADDED**. TO BE ADDED. | 
+
 ### 2 Security Drone
 Equipped with state of the art suppression tools, security drones offer civic protection and first response services.
 
 **You Get:**
 - TO BE ADDED
 - Threat Sensors. You can never be surprised by an encounter.
+
+| 1d6 | Question? | 
+|------|------|
+| 1 | **TO BE ADDED**. TO BE ADDED. | 
+| 2 | **TO BE ADDED**. TO BE ADDED. | 
+| 3 | **TO BE ADDED**. TO BE ADDED. | 
+| 4 | **TO BE ADDED**. TO BE ADDED. | 
+| 5 | **TO BE ADDED**. TO BE ADDED. | 
+| 6 | **TO BE ADDED**. TO BE ADDED. | 
 
 ### 3 Combat Unit
 Loaded with an entire arsenal, these killing machines are often deployed to the front lines of galactic conflicts.
@@ -363,12 +379,30 @@ Loaded with an entire arsenal, these killing machines are often deployed to the 
 - TO BE ADDED
 - Weapon Mounts. Attach up to 2 weapons to your body, taking up no inventory slots.
 
+| 1d6 | Question? | 
+|------|------|
+| 1 | **TO BE ADDED**. TO BE ADDED. | 
+| 2 | **TO BE ADDED**. TO BE ADDED. | 
+| 3 | **TO BE ADDED**. TO BE ADDED. | 
+| 4 | **TO BE ADDED**. TO BE ADDED. | 
+| 5 | **TO BE ADDED**. TO BE ADDED. | 
+| 6 | **TO BE ADDED**. TO BE ADDED. | 
+
 ### 4 Protocol Android
 Programmed with enhanced personality matrices, androids are perfectly suited to socially engage with organic beings.
 
 **You Get:**
 - TO BE ADDED
 - Empath Module. Detect when someone you are talking to is lying.
+
+| 1d6 | Question? | 
+|------|------|
+| 1 | **TO BE ADDED**. TO BE ADDED. | 
+| 2 | **TO BE ADDED**. TO BE ADDED. | 
+| 3 | **TO BE ADDED**. TO BE ADDED. | 
+| 4 | **TO BE ADDED**. TO BE ADDED. | 
+| 5 | **TO BE ADDED**. TO BE ADDED. | 
+| 6 | **TO BE ADDED**. TO BE ADDED. | 
 
 ### 5 Virtual Presence
 Designed as virtual assistants and companions, VPs can hop from device to device, roaming free through cyberspace.
@@ -404,9 +438,15 @@ Replicas weren’t just created to look like organic beings, they were created t
 
 ---
 
+# X Origin
+Description
 
+**You Get:**
+- Apparel
+- Device/Weapon/Armour
+- Unique
 
-| 1d6 | TO BE ADDED | 
+| 1d6 | Question? | 
 |------|------|
 | 1 | **TO BE ADDED**. TO BE ADDED. | 
 | 2 | **TO BE ADDED**. TO BE ADDED. | 
@@ -414,3 +454,5 @@ Replicas weren’t just created to look like organic beings, they were created t
 | 4 | **TO BE ADDED**. TO BE ADDED. | 
 | 5 | **TO BE ADDED**. TO BE ADDED. | 
 | 6 | **TO BE ADDED**. TO BE ADDED. | 
+
+---
