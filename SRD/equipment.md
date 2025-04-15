@@ -59,7 +59,7 @@ nav_order: 1
 <table>
   <tr> <th colspan="4">Ballistic Guns</th> </tr>
   <tr> <td>Sidearm</td> <td>pistol, revolver, etc.</td> <td>3 dmg, throw range</td> <td>Cheap</td> </tr>
-  <tr> <td>Shotgun</td> <td>scattergun, flak cannon, peppergun, etc.</td> <td>2 dmg, throw range, blast, +1 slot</td> <td>Affordable</td> </tr>
+  <tr> <td>Shotgun</td> <td>scattergun, flak cannon, peppergun, etc.</td> <td>2 dmg, throw range, touch blast, +1 slot</td> <td>Affordable</td> </tr>
   <tr> <td>Machine Gun</td> <td>assault rifle, minigun, LMG, etc.</td> <td>4 dmg, shout range, full auto, +1 slot</td> <td>Affordable</td> </tr>
   <tr> <td>Long Gun</td> <td>bolt rifle, hunting rifle, sniper, etc.</td> <td>4 dmg, sight range, +1 slots</td> <td>Expensive</td> </tr>
 </table> 

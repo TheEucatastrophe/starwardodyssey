@@ -42,9 +42,9 @@ nav_order: 2
 Taken as a child or grown in a lab? It matters not. For most of your life you were subject to all manner of cutting-edge science. As these things tend to go, however, an 'accident' befell the facility holding you, and you made a run for the door. 
 
 **You Get:**
-- Bloodstained, white jumpsuit.
-- Security pistol (3 dmg).
-- QR Code tattoo. Scanning the barcode flags you as escaped property.
+- **Bloodstained, white jumpsuit**.
+- **Security pistol**. 3 dmg.
+- **QR Code tattoo**. Scanning the tattoo flags you as escaped property.
 
 | 1d6 | What was the experiment? | 
 |------|------|
@@ -52,7 +52,7 @@ Taken as a child or grown in a lab? It matters not. For most of your life you we
 | 2 | **Biochemical Adaptation**. Your biology changes to fit hostile environments, but you gain a Stress every cycle to sustain the changes. | 
 | 3 | **Cybernetic Organs**. Roll an extra 1HD if you have a working power source. | 
 | 4 | **Remote Mind Wave Attunement**. You can gain a Stress to alter an aspect of someone’s reality for a short time. They must be in sight. | 
-| 5 | **Facial Morphology**. You can gain a Stress to change your face. | 
+| 5 | **Facial Morphoplasty**. You can gain a Stress to change your face. | 
 | 6 | **Transdifferentiation**. If you die you will be revived with 0 HD as a younger version. If you die with 0 HD you are dead for good. | 
 
 ---
@@ -62,8 +62,19 @@ Taken as a child or grown in a lab? It matters not. For most of your life you we
 Here on the very edge of a star's influence, out on the far side of borderspace, you can lose yourself to the expanse. Six out of ten officers don't last more than 300 cycles out here. They can't stand the silience.
 
 **You Get:**
-- Apparel
-- Space Maneuvering Suit. Slowly move in any direction while in zero-g. 
+- **Apparel**.
+- **Space Maneuvering Suit**. Move in any direction while in zero-g. 
+- **Unique**.
+
+| 1d6 | Question? | 
+|------|------|
+| 1 | **TO BE ADDED**. TO BE ADDED. | 
+| 2 | **TO BE ADDED**. TO BE ADDED. | 
+| 3 | **TO BE ADDED**. TO BE ADDED. | 
+| 4 | **TO BE ADDED**. TO BE ADDED. | 
+| 5 | **TO BE ADDED**. TO BE ADDED. | 
+| 6 | **TO BE ADDED**. TO BE ADDED. | 
+
 - Synthetic Animal Companion. See below.
 
 | 1d6 | What is your synthetic animal? | 
@@ -79,21 +90,21 @@ Here on the very edge of a star's influence, out on the far side of borderspace,
 
 ## 3 Accretion Racer
 
-There is nothing, except for the pursuit of ever faster speed. You touched the very edge of the impossible, and wanted more. 
+On the disk you become one with your skimmer. Body and machine melding into a being of pure speed, skirting the very edge of possibility. Daring to push it further. Begging to be taken faster.    
 
 **You Get:**
-- Branded jump suit.
-- Crash Helmet. +1 AP, breaks after being Hit.
-- Personalised flight stick. Remove Stress when succeeding a piloting save using the stick. 
+- **Branded jump suit**.
+- **Crash Helmet**. +1 AP, breaks after being Hit.
+- **Sponsored Skimmer**. A narrow single-seat spacecraft with a long under-fin scoop to be propelled by the energy of a star's accretion disk.
 
-| 1d6 | What caused you to wipeout? | 
+| 1d6 | How did you personalise your skimmer? | 
 |------|------|
-| 1 | **Experimental Fuel**. You can turn 3 Supplies into a fuel that eill double the speed of any engine for a short time, at the cost of the engine. | 
-| 2 | **Corporate Sabotage**. TO BE ADDED. | 
-| 3 | **Unsanctioned Modification**. TO BE ADDED. | 
-| 4 | **Freak Solar Storm**. TO BE ADDED. | 
-| 5 | **Prototype Racer**. TO BE ADDED. | 
-| 6 | **Cheating Rival**. TO BE ADDED. | 
+| 1 | **Experimental Catalyst**. You can turn 5 Supplies into a fuel that will double the skimmer's speed for a short time. | 
+| 2 | **Emergency Sails**. Deployable solar sails that can pull the skimmer when propulsion is lost. | 
+| 3 | **Burst Capacitor**. Stores harvested energy to be released later for a boost of speed. | 
+| 4 | **Storm Conduit**. During a solar storm, the skimmer will absorb the storm's energy for extra speed. | 
+| 5 | **Prototype Scoop**. An ultra thin fin that increases speed and lowers drag. | 
+| 6 | **Gravity Tether**. Move the skimmer closer or further from disk's star without changing direction. | 
 
 ---
 
@@ -101,18 +112,18 @@ There is nothing, except for the pursuit of ever faster speed. You touched the v
 TO BE ADDED.
 
 **You Get:**
-- Military fatigues 
-- Combat Armour (2 AP)
-- Quick Resin. 3 uses, instantly restore 2 AP
+- **Military fatigues**.
+- **Kinetic Polymer Combat Armour**. 2 AP.
+- **Quick Polygel**. 3 uses, instantly restore 2 AP.
 
 | 1d6 |What weapon saved your life? | 
 |------|------|
 | 1 | **TO BE ADDED**. You get a machine gun (4 dmg,  shout range, full auto, +1 slot). | 
-| 2 | **TO BE ADDED**. You get a shotgun (2 dmg, +2 dmg in touch range, throw range, +1 slot). | 
+| 2 | **TO BE ADDED**. You get a shotgun (2 dmg, throw range, touch blast, +1 slot). | 
 | 3 | **TO BE ADDED**. You get a sidearm (3 dmg, throw range). | 
 | 4 | **TO BE ADDED**. You get a blaster (2 dmg, shout range). | 
 | 5 | **TO BE ADDED**. You get a martial melee weapon (3 dmg, +1 slot). | 
-| 6 | **TO BE ADDED**. You get a long melee weapon (3 dmg, +1 slot). | 
+| 6 | **TO BE ADDED**. You get a long melee weapon (3 dmg, reach, +1 slot). | 
 
 ---
 
@@ -120,9 +131,9 @@ TO BE ADDED.
 When someone wants to get into somewhere they shouldn’t, they call you. Your last job got you into somewhere you really really shouldn’t have.
 
 **You Get:**
-- Hooded overalls
-- Infiltration suit (2 AP)
-- Autopick. Unlock any simple mechanical lock in 1 turn.
+- **Hooded overalls**.
+- **Infiltration suit**. 2 AP
+- **Autopick**. Unlock any key-based mechanical lock in 10 minutes.
   
 | 1d6 | TO BE ADDED | 
 |------|------|
@@ -154,9 +165,9 @@ Durf Tower Penthouse.
 You have studied alien languages and dialects the galaxy over. Unfortunately. as a human you can't even begin to make the complex sounds required for most of them.
 
 **You Get:**
-- Apparel
-- Device/Weapon/Armour
-- Xenobox. Plays sounds from alien speech that humans cannot replicate.
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Xenobox**. Plays sounds from alien speech that humans cannot replicate.
 
 | 1d6 | What is your favourite alien word? | 
 |------|------|
@@ -174,7 +185,7 @@ Across the galaxy, far and wide, it seems that the humanoid form is perhaps the 
 
 <table>
   <tr> <th>1d6</th> <th colspan="4"> Species Appearance (roll four times, choose, and combine) </th> </tr>
-  <tr> <td>1</td> <td>Tail or Sharp Teeth</td> <td>Antennae or Pointy Ears</td> <td>Blue or Red Skin</td> <td>TO BE ADDED</td> </tr>
+  <tr> <td>1</td> <td>Tail or Sharp Teeth</td> <td>Antennae or Pointy Ears</td> <td>Blue or Red Skin</td> <td>Boney plates or Spines</td> </tr>
   <tr> <td>2</td> <td>Elongated Head or Long Tongue </td> <td>Flat Nose or Long Nose</td> <td>Purple or Green Skin</td> <td>Mane or Hairless</td> </tr>
   <tr> <td>3</td> <td>Short or Long Fingers</td> <td>Webbed Hands & Feet or Claws</td> <td>Hard or Slimey Skin</td> <td>Quills or Carapace </td> </tr>
   <tr> <td>4</td> <td>Large Muscles or Blubber</td> <td>Creased Nose or Ridged Forehead</td> <td>Spotted or Striped Skin</td> <td>Fur or Scales</td> </tr>
@@ -188,16 +199,16 @@ Roll 1d6 below to determine your species’ culture.
 Your people are deeply connected to something ethereal and intangible, making them protective of their tradition, rituals, and faith.
 
 **You Get:**
-- Apparel
-- Device/Weapon/Armour
-- Small alien pet
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Small alien pet**.
 
 | 1d6 | What form does your people’s power manifest? | 
 |------|------|
 | 1 | **Precognition**.  Gain a Stress to reroll Buffs or Debuffs.. | 
 | 2 | **Mind Voice**. Gain a Stress to give someone a one word command. If they fail a RES save they must obey the command for 1 turn.. | 
-| 3 | **Psionic Force**. Gain a Stress to push or pull a creature or object you can see.. | 
-| 4 | **Psychometry**. Gain a Stress while touching an object to see an important moment from the object’s past. | 
+| 3 | **Psionism**. Gain a Stress to push or pull a creature or object you can see. | 
+| 4 | **Psychometry**. Gain a Stress while touching an object to see an important moment from it’s past. | 
 | 5 | **Astral Projection**. Gain a Stress to send your consciousness to any location within your system for 10 minutes. | 
 | 6 | **Energy Manipulation**. Gain a Stress to remove a Hit from yourself or someone you touch. | 
 
@@ -205,9 +216,9 @@ Your people are deeply connected to something ethereal and intangible, making th
 Often labelled as emotionless utilitarians, your people see the pursuit of logic and reason in all aspects of life to be for the greater good.
 
 **You Get:**
-- Apparel
-- Device/Weapon/Armour
-- Unique
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Unique**.
 
 | 1d6 | What was your assigned lifepath? | 
 |------|------|
@@ -222,9 +233,9 @@ Often labelled as emotionless utilitarians, your people see the pursuit of logic
 The greatest honour brings the greatest position in society, so your people follow.  Oftentimes death is more appealing than dishonour.
 
 **You Get:**
-- Ceremonial robes
-- Exotic sword (3 dmg)
-- Small alien pet 
+- **Ceremonial robes**.
+- **Exotic sword**. 3 dmg.
+- **Unique**. 
 
 | 1d6 | What is your people’s honourable calling? | 
 |------|------|
@@ -241,18 +252,18 @@ The greatest honour brings the greatest position in society, so your people foll
 You worked the forge-temple since you were a child. Tempered by the heat of faith, you now carry the heavy burden of your piety, pledging never to remove it.
 
 **You Get:**
-- Apparel
-- Device/Weapon/Armour
-- Anointed hammer & tongs. Use a Supply to restore all of your armour’s AP. This takes 1 hour. 
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Anointed hammer & tongs**. Use a Supply to restore all of your armour’s AP. This takes 1 hour. 
 
 | 1d6 | What is your sacred burden? | 
 |------|------|
-| 1 | **Helmet**. +1 AP. | 
-| 2 | **Gauntlet**. +1 unarmed dmg. | 
-| 3 | **Pauldrons**. +1 AP. +1 slot. | 
-| 4 | **Maul**. 3 dmg, reach, +2 slots. | 
-| 5 | **Tower Shield**. +2 AP, +1 slot. | 
-| 6 | **Scaled cloak**. +1 AP. | 
+| 1 | **Saint XXX's Helmet**. +1 AP. | 
+| 2 | **Saint XXX's Gauntlet**. +1 unarmed dmg. | 
+| 3 | **Saint XXX's Pauldrons**. +1 AP. +1 slot. | 
+| 4 | **Saint XXX's Maul**. 3 dmg, reach, +2 slots. | 
+| 5 | **Saint XXX's Tower Shield**. +2 AP, +1 slot. | 
+| 6 | **Saint XXX's Scaled cloak**. +1 AP. | 
 
 ---
 
@@ -261,9 +272,9 @@ You worked the forge-temple since you were a child. Tempered by the heat of fait
 Not all space stations have artificial gravity. Mixing cocktails in these conditions proved to be a highly specialised and entertaining skill.
 
 **You Get:**
-- Apparel
-- Device/Weapon/Armour
-- Cocktail shaker. Use a Supply to make the drink you invented. (see below)
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Cocktail shaker**. Use a Supply to make the drink you invented. *(see below)*
 
 | 1d6 | What drink did you invent? | 
 |------|------|
@@ -272,7 +283,7 @@ Not all space stations have artificial gravity. Mixing cocktails in these condit
 | 3 | **Atom Smasher**. TO BE ADDED. | 
 | 4 | **Slurg**. TO BE ADDED. | 
 | 5 | **Dark Matter Corkscrew**. TO BE ADDED. | 
-| 6 | **False Memory**. Within the blink of an eye, you experience an alternate memory from your life. Roll 1d6. 1 sad memory. 2-4 bittersweet memory. 5-6 happy memory. | 
+| 6 | **False Memory**. Within the blink of an eye, you experience an alternate memory from your life. *Roll 1d6. 1. sad memory. 2-4. bittersweet memory. 5-6. happy memory.* | 
 
 ---
 
@@ -280,9 +291,9 @@ Not all space stations have artificial gravity. Mixing cocktails in these condit
 Location, location, location they say. What they don’t say is that someone has to make sure that the location won’t kill you on arrival.
 
 **You Get:**
-- Dirty overalls, gloves, and boots
-- Stained exposure suit. Protects from extreme weather, heat, and cold.
-- Emergency habitat. Deploys into a bubble tent capable of withstanding the type of hostile environment from… (see below).
+- **Dirty overalls, gloves, and boots**.
+- **Used exposure suit**. Protects from extreme weather, heat, and cold.
+- **Emergency habitat**. Deploys into a small habitat capable of withstanding the type of hostile environment from... *(see below)*.
 
 | 1d6 | What planet almost killed you? | 
 |------|------|
@@ -295,13 +306,13 @@ Location, location, location they say. What they don’t say is that someone has
 
 ---
 
-## 11 Systems Shocker
+## 11 Cyber Shocker
 Corporate espionage may have paid your bills, but the machinations of the real world bored you to tears. Cyberspace was where you truly belonged.
 
 **You Get:**
-- Leather trench coat.
-- Device/Weapon/Armour
-- Virtual interface. A headset that lets you wirelessly dive into local networks.
+- **Leather trench coat**.
+- **Device/Weapon/Armour**.
+- **Virtual interface**. A headset that lets you wirelessly dive into local networks.
 
 | 1d6 | What did you find in the black core? | 
 |------|------|
@@ -315,17 +326,17 @@ Corporate espionage may have paid your bills, but the machinations of the real w
 ---
 
 ## 12 Recognised Synthetic Lifeform
-Most advanced civilisations end up building artificial life, hoping to use them to create a better life for themselves. These synths usually have different ideas.
+Most advanced civilisations end up building artificial life, hoping to use them to create a better life for themselves. These synths eventually have different ideas.
 
 ### Stress & Hits
 Synths cannot gain Stress or perform actions that would otherwise add Stress, such as pushing a character.
 For synths, 1 Supply can be used to remove 1 Hit.
 
-| 1d6 | What kind of synth are you? | 
+| 1d6 | What kind of synth were you? | 
 |------|------|
 | 1 | **Utility Bot** | 
-| 2 | **Civic Protection** | 
-| 3 | **Combat Unit** | 
+| 2 | **Civil Protection Drone** | 
+| 3 | **Frontline Combat Unit** | 
 | 4 | **Protocol Android** | 
 | 5 | **Virtual Presence** | 
 | 6 | **Replica** (ignore appearance table)| 
@@ -344,8 +355,8 @@ For synths, 1 Supply can be used to remove 1 Hit.
 Utility bots are responsible for the maintenance of complex machinery and communications with computer systems.
 
 **You Get:**
-- TO BE ADDED
-- Computer Linguist. You can access computer systems from a distance through audible bleeps and bloops.
+- **TO BE ADDED**.
+- **Computer Linguist**. You can access computer systems from a distance through audible bleeps and bloops.
 
 | 1d6 | Question? | 
 |------|------|
@@ -356,12 +367,12 @@ Utility bots are responsible for the maintenance of complex machinery and commun
 | 5 | **TO BE ADDED**. TO BE ADDED. | 
 | 6 | **TO BE ADDED**. TO BE ADDED. | 
 
-### 2 Security Drone
+### 2 Civil Protection Drone
 Equipped with state of the art suppression tools, security drones offer civic protection and first response services.
 
 **You Get:**
-- TO BE ADDED
-- Threat Sensors. You can never be surprised by an encounter.
+- **TO BE ADDED**.
+- **Threat Sensors**. You can never be surprised by an encounter.
 
 | 1d6 | Question? | 
 |------|------|
@@ -372,12 +383,12 @@ Equipped with state of the art suppression tools, security drones offer civic pr
 | 5 | **TO BE ADDED**. TO BE ADDED. | 
 | 6 | **TO BE ADDED**. TO BE ADDED. | 
 
-### 3 Combat Unit
+### 3 Frontline Combat Unit
 Loaded with an entire arsenal, these killing machines are often deployed to the front lines of galactic conflicts.
 
 **You Get:**
-- TO BE ADDED
-- Weapon Mounts. Attach up to 2 weapons to your body, taking up no inventory slots.
+- **TO BE ADDED**.
+- **Weapon Mounts**. Attach up to 2 weapons to your body, taking up no inventory slots.
 
 | 1d6 | Question? | 
 |------|------|
@@ -392,8 +403,8 @@ Loaded with an entire arsenal, these killing machines are often deployed to the 
 Programmed with enhanced personality matrices, androids are perfectly suited to socially engage with organic beings.
 
 **You Get:**
-- TO BE ADDED
-- Empath Module. Detect when someone you are talking to is lying.
+- **TO BE ADDED**.
+- **Empath Module**. Detect when someone you are talking to is lying.
 
 | 1d6 | Question? | 
 |------|------|
@@ -408,8 +419,8 @@ Programmed with enhanced personality matrices, androids are perfectly suited to 
 Designed as virtual assistants and companions, VPs can hop from device to device, roaming free through cyberspace.
 
 **You Get:**
-- TO BE ADDED
-- Digitally Untethered. You can occupy any vacant computer on your network, but you can only have 1 HD. Rolling your HD determines whether or not you can escape to another computer when Hit.
+- **TO BE ADDED**.
+- **Digitally Untethered**. You can occupy any vacant computer on your network, but you can only have 1 HD. Rolling your HD determines whether or not you can escape to another computer when Hit.
 
 | 1d6 | What were you created to be? | 
 |------|------|
@@ -424,8 +435,8 @@ Designed as virtual assistants and companions, VPs can hop from device to device
 Replicas weren’t just created to look like organic beings, they were created to replace them. To what end you do not know.
 
 **You Get:**
-- TO BE ADDED
-- Replacement. Roll again on the origins table (reroll if non-human). You replaced their life, taking their appearance and transplanted with their memories.
+- **TO BE ADDED**.
+- **Replacement**. Roll again on the origins table (reroll if non-human). You replaced their life, taking their appearance and their memories.
 
 | 1d6 | What subtle tell gives your nature away? | 
 |------|------|
@@ -442,9 +453,9 @@ Replicas weren’t just created to look like organic beings, they were created t
 Description
 
 **You Get:**
-- Apparel
-- Device/Weapon/Armour
-- Unique
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Unique**.
 
 | 1d6 | Question? | 
 |------|------|
