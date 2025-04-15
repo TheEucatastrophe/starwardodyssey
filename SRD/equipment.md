@@ -69,7 +69,7 @@ nav_order: 1
   <tr> <td>Blaster</td> <td>laser pistol, cutter, hand blaster, etc.</td> <td>2 dmg, shout range</td> <td>Affordable</td> </tr>
   <tr> <td>Beam</td> <td>m-wave emitter, mining laser, heat ray, etc.</td> <td>2 dmg, full auto, shout range, +1 slot</td> <td>Expensive</td> </tr>
   <tr> <td>Blaster Rifle</td> <td>volt gun, photon repeater, laser rifle, etc.</td> <td>3 dmg, sight range, +1 slot</td> <td>Expensive</td> </tr>
-  <tr> <td>Energy Cannon</td> <td>shock rifle, fusion cannon, etc.</td> <td>4 dmg, sight range, +1 slots</td> <td>Expensive</td> </tr>
+  <tr> <td>Energy Cannon</td> <td>shock rifle, fusion cannon, etc.</td> <td>4 dmg, sight range, throw blast, +1 slots</td> <td>Expensive</td> </tr>
 </table>
 
 <table>
