@@ -620,37 +620,37 @@ Description
 
 ---
 
-# 22 Uplifted Species
-Evolution is an incredibly slow process. So slow in fact that occasionally someone or something becomes a bit impatient and speeds things along quite a bit. 
+# 22 Uplifted Animal
+Evolution is an incredibly slow process. So slow in fact that occasionally someone or something becomes a bit impatient and speeds things along quite a bit. These newly sapient animals must reconcile their inteligent 
+
+| 1d6 | What was your species' niche in nature? | 
+|------|------|
+| 1 | **Grazer**. TO BE ADDED. | 
+| 2 | **Scavenger**. TO BE ADDED. | 
+| 3 | **Browser**. TO BE ADDED. | 
+| 4 | **Pursuer**. TO BE ADDED. | 
+| 5 | **XXX**. TO BE ADDED. | 
+| 6 | **Ambusher**. TO BE ADDED. | 
+
+<table>
+  <tr> <th>1d6</th> <th colspan="3"> Species' Appearance (roll three times, choose, and combine) </th> </tr>
+  <tr> <td>1</td> <td>Large or Biped</td> <td>Fur or Shell</td> <td>Antlers or Tailess</td> </tr>
+  <tr> <td>2</td> <td>Small or Quadruped</td> <td>Feathers or Armour plates</td> <td>Tusks or Long tail</td>  </tr>
+  <tr> <td>3</td> <td>Tall or Hexaped</td> <td>Dry scales or Hairless</td> <td>Long snout or Short tail</td>  </tr>
+  <tr> <td>4</td> <td>Lean or Digitigrade</td> <td>Wet scales or Blubber</td> <td>Large ears or Thick tail</td>  </tr>
+  <tr> <td>5</td> <td>Squat or Unguligrade</td> <td>Carapace or Quills</td> <td>Large eyes or Flat tail</td>  </tr>
+  <tr> <td>6</td> <td>Stocky or Plantigrade</td> <td>Thick skin or Mucosal skin</td> <td>Horns or Stubby tail</td>  </tr>
+</table> 
+
+### 1 Grazer
+XXX 
 
 **You Get:**
 - **Apparel**.
 - **Device/Weapon/Armour**.
 - **Unique**.
-
-| 1d6 | What was your species' niche in nature? | 
-|------|------|
-| 1 | **Flyer**. TO BE ADDED. | 
-| 2 | **Runner**. TO BE ADDED. | 
-| 3 | **Climber**. TO BE ADDED. | 
-| 4 | **Burrower**. TO BE ADDED. | 
-| 5 | **Swimmer**. TO BE ADDED. | 
-| 6 | **Ambusher**. TO BE ADDED. | 
-
-### 1 Flyer
-XXX
-
-<table>
-  <tr> <th>1d6</th> <th colspan="3"> Flyer Appearance (roll twice, choose, and combine) </th> </tr>
-  <tr> <td>1</td> <td>Large or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>2</td> <td>Small or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>3</td> <td>Tall or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>4</td> <td>Lean or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>5</td> <td>Squat or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>6</td> <td>Round or XXX</td> <td>XXX or XXX</td> </tr>
-</table>  
-
-| 1d6 | Why did your species fly? | 
+  
+| 1d6 | What did your species eat? | 
 |------|------|
 | 1 | **XXX**. XXX. | 
 | 2 | **XXX**. XXX. | 
@@ -659,18 +659,13 @@ XXX
 | 5 | **XXX**. XXX. | 
 | 6 | **XXX**. XXX. | 
 
-### 2 Runner
-XXX
+### 2 Scavenger
+XXX   
 
-<table>
-  <tr> <th>1d6</th> <th colspan="3"> Runner Appearance (roll twice, choose, and combine) </th> </tr>
-  <tr> <td>1</td> <td>Large or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>2</td> <td>Small or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>3</td> <td>Tall or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>4</td> <td>Lean or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>5</td> <td>Squat or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>6</td> <td>Round or XXX</td> <td>XXX or XXX</td> </tr>
-</table>   
+**You Get:**
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Unique**.
 
 | 1d6 | Why did your species run? | 
 |------|------|
@@ -681,18 +676,13 @@ XXX
 | 5 | **XXX**. XXX. | 
 | 6 | **XXX**. XXX. | 
 
-### 3 Climber
-XXX
+### 3 Browser
+XXX 
 
-<table>
-  <tr> <th>1d6</th> <th colspan="3"> Climber Appearance (roll twice, choose, and combine) </th> </tr>
-  <tr> <td>1</td> <td>Large or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>2</td> <td>Small or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>3</td> <td>Tall or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>4</td> <td>Lean or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>5</td> <td>Squat or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>6</td> <td>Round or XXX</td> <td>XXX or XXX</td> </tr>
-</table>   
+**You Get:**
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Unique**.
 
 | 1d6 | Why did your species climb? | 
 |------|------|
@@ -703,18 +693,13 @@ XXX
 | 5 | **XXX**. XXX. | 
 | 6 | **XXX**. XXX. | 
 
-### 4 Burrower
-XXX
+### 4 Pursuer
+XXX 
 
-<table>
-  <tr> <th>1d6</th> <th colspan="3"> Burrower Appearance (roll twice, choose, and combine) </th> </tr>
-  <tr> <td>1</td> <td>Large or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>2</td> <td>Small or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>3</td> <td>Tall or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>4</td> <td>Lean or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>5</td> <td>Squat or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>6</td> <td>Round or XXX</td> <td>XXX or XXX</td> </tr>
-</table>   
+**You Get:**
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Unique**.
 
 | 1d6 | Why did your species burrow? | 
 |------|------|
@@ -725,18 +710,13 @@ XXX
 | 5 | **XXX**. XXX. | 
 | 6 | **XXX**. XXX. | 
 
-### 5 Swimmer
-XXX
+### 5 XXX
+XXX 
 
-<table>
-  <tr> <th>1d6</th> <th colspan="3"> Swimmer Appearance (roll twice, choose, and combine) </th> </tr>
-  <tr> <td>1</td> <td>Large or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>2</td> <td>Small or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>3</td> <td>Tall or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>4</td> <td>Lean or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>5</td> <td>Squat or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>6</td> <td>Round or XXX</td> <td>XXX or XXX</td> </tr>
-</table>   
+**You Get:**
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Unique**.
 
 | 1d6 | Why did your species swim? | 
 |------|------|
@@ -748,25 +728,20 @@ XXX
 | 6 | **XXX**. XXX. | 
 
 ### 6 Ambusher
-XXX
+XXX 
 
-<table>
-  <tr> <th>1d6</th> <th colspan="3"> Ambusher Appearance (roll twice, choose, and combine) </th> </tr>
-  <tr> <td>1</td> <td>Large or XXX</td> <td>XXX or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>2</td> <td>Small or XXX</td> <td>XXX or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>3</td> <td>Tall or XXX</td> <td>XXX or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>4</td> <td>Lean or XXX</td> <td>XXX or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>5</td> <td>Squat or XXX</td> <td>XXX or XXX</td> <td>XXX or XXX</td> </tr>
-  <tr> <td>6</td> <td>Round or XXX</td> <td>XXX or XXX</td> <td>XXX or XXX</td> </tr>
-</table>   
+**You Get:**
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Unique**.
 
-| 1d6 | Why did your species ambush? | 
+| 1d6 | How did your species ambush? | 
 |------|------|
-| 1 | **XXX**. XXX. | 
-| 2 | **XXX**. XXX. | 
-| 3 | **XXX**. XXX. | 
-| 4 | **XXX**. XXX. | 
-| 5 | **XXX**. XXX. | 
+| 1 | **Trap**. XXX. | 
+| 2 | **Pounce**. XXX. | 
+| 3 | **Lure**. XXX. | 
+| 4 | **Conceal**. XXX. | 
+| 5 | **Capture**. XXX. | 
 | 6 | **XXX**. XXX. | 
 
 ---
