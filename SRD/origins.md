@@ -30,7 +30,7 @@ nav_order: 2
   <tr> <td>19</td> <td>Xeno Archaeologist</td> <td>44</td> <td>Abducted Tribesman</td> <td>69</td> <td>Replica Hunter</td> <td>94</td> <td>Zero-G Olympian </td> </tr>
   <tr> <td>20</td> <td>Asteroid Prospector</td> <td>45</td> <td>Galactic Fraud</td> <td>70</td> <td>Synth Architect</td> <td>95</td> <td>Flotilla Marshal</td> </tr>
   <tr> <td>21</td> <td>Hyper Radio Technician</td> <td>46</td> <td>Hitchhiker</td> <td>71</td> <td>Hacktivist</td> <td>96</td> <td>Seismic Cartographer</td> </tr>
-  <tr> <td>22</td> <td>Uplifted Species</td> <td>47</td> <td>Xeno Botanist</td> <td>72</td> <td>Static Compiler</td> <td>97</td> <td>Interstellar Courier</td> </tr>
+  <tr> <td>22</td> <td>Uplifted Animal</td> <td>47</td> <td>Xeno Botanist</td> <td>72</td> <td>Static Compiler</td> <td>97</td> <td>Interstellar Courier</td> </tr>
   <tr> <td>23</td> <td>Shadow Trooper</td> <td>48</td> <td>Media Starlet </td> <td>73</td> <td>Trash Catcher</td> <td>98</td> <td>Lordling</td> </tr>
   <tr> <td>24</td> <td>Insurrectionist</td> <td>49</td> <td>Stellar Barbarian</td> <td>74</td> <td>Future Crime Detective</td> <td>99</td> <td>Cosmic Tourist</td> </tr>
   <tr> <td>25</td> <td>Registered Killer</td> <td>50</td> <td>Sapient Flora</td> <td>75</td> <td>Flotilla Starfinder</td> <td>100</td> <td>Galactic Outsider</td> </tr>
