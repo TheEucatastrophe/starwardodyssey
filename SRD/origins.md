@@ -19,10 +19,10 @@ nav_order: 2
   <tr> <td>8</td> <td>Cult Fabricator</td> <td>33</td> <td>Auxiliarist</td> <td>58</td> <td>Bygone</td> <td>83</td> <td>Big Xeno Hunter</td> </tr>
   <tr> <td>9</td> <td>Zero-G Mixologist</td> <td>34</td> <td>Dockhand</td> <td>59</td> <td>Sponsored Adventurer</td> <td>84</td> <td>Entombed One</td> </tr>
   <tr> <td>10</td> <td>Exo Canary</td> <td>35</td> <td>Thief-taker</td> <td>60</td> <td>Void Bastard</td> <td>85</td> <td>Techno Illusionist</td> </tr>
-  <tr> <td>11</td> <td>Systems Shocker</td> <td>36</td> <td>Lightmaster</td> <td>61</td> <td>Hyper Surfer</td> <td>86</td> <td>Data Archeologist</td> </tr>
+  <tr> <td>11</td> <td>Cyber Shocker</td> <td>36</td> <td>Lightmaster</td> <td>61</td> <td>Hyper Surfer</td> <td>86</td> <td>Data Archeologist</td> </tr>
   <tr> <td>12</td> <td>Recognised Synthetic Lifeform</td> <td>37</td> <td>Trauma Responder</td> <td>62</td> <td>Formless Mass</td> <td>87</td> <td>Star Dandy</td> </tr>
   <tr> <td>13</td> <td>Shock Trooper</td> <td>38</td> <td>Shipbreaker</td> <td>63</td> <td>Divergent</td> <td>88</td> <td>Flotilla Shaman</td> </tr>
-  <tr> <td>14</td> <td>Relic Smuggler</td> <td>39</td> <td>Freebooter</td> <td>64</td> <td>Galactic Hauler</td> <td>89</td> <td>Clean Slate</td> </tr>
+  <tr> <td>14</td> <td>Weird Tech Smuggler</td> <td>39</td> <td>Freebooter</td> <td>64</td> <td>Galactic Hauler</td> <td>89</td> <td>Clean Slate</td> </tr>
   <tr> <td>15</td> <td>Mech Jockey</td> <td>40</td> <td>Computer Linguist</td>  <td>65</td> <td>Techno Monk</td> <td>90</td> <td>Esoterica Collector</td> </tr>
   <tr> <td>16</td> <td>Spin Docter</td> <td>41</td> <td>Discharged Captain</td> <td>66</td> <td>Symbiotic Creature</td> <td>91</td> <td>Hyper-Dimensional</td> </tr>
   <tr> <td>17</td> <td>Flotilla Merchant </td> <td>42</td> <td>Silicon-based Lifeform</td> <td>67</td> <td>Former Deity</td> <td>92</td> <td>Nu Preacher</td> </tr>
@@ -582,7 +582,7 @@ Description
 
 ---
 
-# 20 Asteroid Prospector
+# 20 Asteroid Cracker
 Description
 
 **You Get:**
@@ -602,7 +602,7 @@ Description
 ---
 
 # 21 Hyper Radio Technician
-Description
+Space is quiet. Way too quiet. 
 
 **You Get:**
 - **Apparel**.
@@ -621,7 +621,7 @@ Description
 ---
 
 # 22 Uplifted Animal
-Evolution is an incredibly slow process. So slow in fact that occasionally someone or something becomes a bit impatient and speeds things along quite a bit. These newly sapient animals must reconcile their inteligent 
+Evolution is an incredibly slow process. So slow in fact that occasionally someone or something becomes a bit impatient and speeds things along quite a bit. These newly sapient animals must reconcile their inteligent minds with their unevolved bodies. 
 
 | 1d6 | What was your species' niche in nature? | 
 |------|------|
@@ -629,7 +629,7 @@ Evolution is an incredibly slow process. So slow in fact that occasionally someo
 | 2 | **Scavenger**. TO BE ADDED. | 
 | 3 | **Browser**. TO BE ADDED. | 
 | 4 | **Pursuer**. TO BE ADDED. | 
-| 5 | **XXX**. TO BE ADDED. | 
+| 5 | **xxx**. TO BE ADDED. | 
 | 6 | **Ambusher**. TO BE ADDED. | 
 
 <table>
