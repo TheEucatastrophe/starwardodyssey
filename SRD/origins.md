@@ -667,12 +667,12 @@ XXX
 - **Device/Weapon/Armour**.
 - **Unique**.
 
-| 1d6 | Why did your species run? | 
+| 1d6 | How did your species scavenge? | 
 |------|------|
-| 1 | **XXX**. XXX. | 
-| 2 | **XXX**. XXX. | 
-| 3 | **XXX**. XXX. | 
-| 4 | **XXX**. XXX. | 
+| 1 | **Carrion Eater**. XXX. | 
+| 2 | **Opportunity**. XXX. | 
+| 3 | **Reducing**. XXX. | 
+| 4 | **Stealing**. XXX. | 
 | 5 | **XXX**. XXX. | 
 | 6 | **XXX**. XXX. | 
 
