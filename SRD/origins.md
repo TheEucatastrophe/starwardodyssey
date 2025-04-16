@@ -22,7 +22,7 @@ nav_order: 2
   <tr> <td>11</td> <td>Systems Shocker</td> <td>36</td> <td>Lightmaster</td> <td>61</td> <td>Hyper Surfer</td> <td>86</td> <td>Data Archeologist</td> </tr>
   <tr> <td>12</td> <td>Recognised Synthetic Lifeform</td> <td>37</td> <td>Trauma Responder</td> <td>62</td> <td>Formless Mass</td> <td>87</td> <td>Star Dandy</td> </tr>
   <tr> <td>13</td> <td>Shock Trooper</td> <td>38</td> <td>Shipbreaker</td> <td>63</td> <td>Divergent</td> <td>88</td> <td>Flotilla Shaman</td> </tr>
-  <tr> <td>14</td> <td>Shadow Trooper</td> <td>39</td> <td>Freebooter</td> <td>64</td> <td>Galactic Hauler</td> <td>89</td> <td>Clean Slate</td> </tr>
+  <tr> <td>14</td> <td>Relic Smuggler</td> <td>39</td> <td>Freebooter</td> <td>64</td> <td>Galactic Hauler</td> <td>89</td> <td>Clean Slate</td> </tr>
   <tr> <td>15</td> <td>Mech Jockey</td> <td>40</td> <td>Computer Linguist</td>  <td>65</td> <td>Techno Monk</td> <td>90</td> <td>Esoterica Collector</td> </tr>
   <tr> <td>16</td> <td>Spin Docter</td> <td>41</td> <td>Discharged Captain</td> <td>66</td> <td>Symbiotic Creature</td> <td>91</td> <td>Hyper-Dimensional</td> </tr>
   <tr> <td>17</td> <td>Flotilla Merchant </td> <td>42</td> <td>Silicon-based Lifeform</td> <td>67</td> <td>Former Deity</td> <td>92</td> <td>Nu Preacher</td> </tr>
@@ -31,7 +31,7 @@ nav_order: 2
   <tr> <td>20</td> <td>Asteroid Prospector</td> <td>45</td> <td>Galactic Fraud</td> <td>70</td> <td>Synth Architect</td> <td>95</td> <td>Flotilla Marshal</td> </tr>
   <tr> <td>21</td> <td>Hyper Radio Technician</td> <td>46</td> <td>Hitchhiker</td> <td>71</td> <td>Hacktivist</td> <td>96</td> <td>Seismic Cartographer</td> </tr>
   <tr> <td>22</td> <td>Uplifted Species</td> <td>47</td> <td>Xeno Botanist</td> <td>72</td> <td>Static Compiler</td> <td>97</td> <td>Interstellar Courier</td> </tr>
-  <tr> <td>23</td> <td>Relic Smuggler</td> <td>48</td> <td>Media Starlet </td> <td>73</td> <td>Trash Catcher</td> <td>98</td> <td>Lordling</td> </tr>
+  <tr> <td>23</td> <td>Shadow Trooper</td> <td>48</td> <td>Media Starlet </td> <td>73</td> <td>Trash Catcher</td> <td>98</td> <td>Lordling</td> </tr>
   <tr> <td>24</td> <td>Insurrectionist</td> <td>49</td> <td>Stellar Barbarian</td> <td>74</td> <td>Future Crime Detective</td> <td>99</td> <td>Cosmic Tourist</td> </tr>
   <tr> <td>25</td> <td>Registered Killer</td> <td>50</td> <td>Sapient Flora</td> <td>75</td> <td>Flotilla Starfinder</td> <td>100</td> <td>Galactic Outsider</td> </tr>
 </table> 
@@ -446,6 +446,328 @@ Replicas weren’t just created to look like organic beings, they were created t
 | 4 | Power core hatch in your chest. | 
 | 5 | Highly reflective eyes that appear bright green in direct light. | 
 | 6 | Joint sockets. | 
+
+---
+
+# 13 Shock Trooper
+Description
+
+**You Get:**
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Unique**.
+
+| 1d6 | Question? | 
+|------|------|
+| 1 | **TO BE ADDED**. TO BE ADDED. | 
+| 2 | **TO BE ADDED**. TO BE ADDED. | 
+| 3 | **TO BE ADDED**. TO BE ADDED. | 
+| 4 | **TO BE ADDED**. TO BE ADDED. | 
+| 5 | **TO BE ADDED**. TO BE ADDED. | 
+| 6 | **TO BE ADDED**. TO BE ADDED. | 
+
+---
+
+# 14 Relic Smuggler
+Description
+
+**You Get:**
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Unique**.
+
+| 1d6 | Question? | 
+|------|------|
+| 1 | **TO BE ADDED**. TO BE ADDED. | 
+| 2 | **TO BE ADDED**. TO BE ADDED. | 
+| 3 | **TO BE ADDED**. TO BE ADDED. | 
+| 4 | **TO BE ADDED**. TO BE ADDED. | 
+| 5 | **TO BE ADDED**. TO BE ADDED. | 
+| 6 | **TO BE ADDED**. TO BE ADDED. | 
+
+---
+
+# 15 Mech Jockey
+Description
+
+**You Get:**
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Unique**.
+
+| 1d6 | Question? | 
+|------|------|
+| 1 | **TO BE ADDED**. TO BE ADDED. | 
+| 2 | **TO BE ADDED**. TO BE ADDED. | 
+| 3 | **TO BE ADDED**. TO BE ADDED. | 
+| 4 | **TO BE ADDED**. TO BE ADDED. | 
+| 5 | **TO BE ADDED**. TO BE ADDED. | 
+| 6 | **TO BE ADDED**. TO BE ADDED. | 
+
+---
+
+# 16 Spin Docter
+Description
+
+**You Get:**
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Unique**.
+
+| 1d6 | Question? | 
+|------|------|
+| 1 | **TO BE ADDED**. TO BE ADDED. | 
+| 2 | **TO BE ADDED**. TO BE ADDED. | 
+| 3 | **TO BE ADDED**. TO BE ADDED. | 
+| 4 | **TO BE ADDED**. TO BE ADDED. | 
+| 5 | **TO BE ADDED**. TO BE ADDED. | 
+| 6 | **TO BE ADDED**. TO BE ADDED. | 
+
+---
+
+# 17 Flotilla Merchant 
+Description
+
+**You Get:**
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Unique**.
+
+| 1d6 | Question? | 
+|------|------|
+| 1 | **TO BE ADDED**. TO BE ADDED. | 
+| 2 | **TO BE ADDED**. TO BE ADDED. | 
+| 3 | **TO BE ADDED**. TO BE ADDED. | 
+| 4 | **TO BE ADDED**. TO BE ADDED. | 
+| 5 | **TO BE ADDED**. TO BE ADDED. | 
+| 6 | **TO BE ADDED**. TO BE ADDED. | 
+
+---
+
+# 18 Psionic Order Apostate
+Description
+
+**You Get:**
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Unique**.
+
+| 1d6 | Question? | 
+|------|------|
+| 1 | **TO BE ADDED**. TO BE ADDED. | 
+| 2 | **TO BE ADDED**. TO BE ADDED. | 
+| 3 | **TO BE ADDED**. TO BE ADDED. | 
+| 4 | **TO BE ADDED**. TO BE ADDED. | 
+| 5 | **TO BE ADDED**. TO BE ADDED. | 
+| 6 | **TO BE ADDED**. TO BE ADDED. | 
+
+---
+
+# 19 Xeno Archaeologist
+Description
+
+**You Get:**
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Unique**.
+
+| 1d6 | Question? | 
+|------|------|
+| 1 | **TO BE ADDED**. TO BE ADDED. | 
+| 2 | **TO BE ADDED**. TO BE ADDED. | 
+| 3 | **TO BE ADDED**. TO BE ADDED. | 
+| 4 | **TO BE ADDED**. TO BE ADDED. | 
+| 5 | **TO BE ADDED**. TO BE ADDED. | 
+| 6 | **TO BE ADDED**. TO BE ADDED. | 
+
+---
+
+# 20 Asteroid Prospector
+Description
+
+**You Get:**
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Unique**.
+
+| 1d6 | Question? | 
+|------|------|
+| 1 | **TO BE ADDED**. TO BE ADDED. | 
+| 2 | **TO BE ADDED**. TO BE ADDED. | 
+| 3 | **TO BE ADDED**. TO BE ADDED. | 
+| 4 | **TO BE ADDED**. TO BE ADDED. | 
+| 5 | **TO BE ADDED**. TO BE ADDED. | 
+| 6 | **TO BE ADDED**. TO BE ADDED. | 
+
+---
+
+# 21 Hyper Radio Technician
+Description
+
+**You Get:**
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Unique**.
+
+| 1d6 | Question? | 
+|------|------|
+| 1 | **TO BE ADDED**. TO BE ADDED. | 
+| 2 | **TO BE ADDED**. TO BE ADDED. | 
+| 3 | **TO BE ADDED**. TO BE ADDED. | 
+| 4 | **TO BE ADDED**. TO BE ADDED. | 
+| 5 | **TO BE ADDED**. TO BE ADDED. | 
+| 6 | **TO BE ADDED**. TO BE ADDED. | 
+
+---
+
+# 22 Uplifted Species
+Evolution is an incredibly slow process. So slow in fact that occasionally someone or something becomes a bit impatient and speeds things along quite a bit. 
+
+**You Get:**
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Unique**.
+
+| 1d6 | What was your species' niche in nature? | 
+|------|------|
+| 1 | **Flyer**. TO BE ADDED. | 
+| 2 | **Runner**. TO BE ADDED. | 
+| 3 | **Climber**. TO BE ADDED. | 
+| 4 | **Burrower**. TO BE ADDED. | 
+| 5 | **Swimmer**. TO BE ADDED. | 
+| 6 | **Ambusher**. TO BE ADDED. | 
+
+### 1 Flyer
+XXX
+
+<table>
+  <tr> <th>1d6</th> <th colspan="3"> Flyer Appearance (roll twice, choose, and combine) </th> </tr>
+  <tr> <td>1</td> <td>Large or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>2</td> <td>Small or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>3</td> <td>Tall or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>4</td> <td>Lean or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>5</td> <td>Squat or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>6</td> <td>Round or XXX</td> <td>XXX or XXX</td> </tr>
+</table>  
+
+| 1d6 | Why did your species fly? | 
+|------|------|
+| 1 | **XXX**. XXX. | 
+| 2 | **XXX**. XXX. | 
+| 3 | **XXX**. XXX. | 
+| 4 | **XXX**. XXX. | 
+| 5 | **XXX**. XXX. | 
+| 6 | **XXX**. XXX. | 
+
+### 2 Runner
+XXX
+
+<table>
+  <tr> <th>1d6</th> <th colspan="3"> Runner Appearance (roll twice, choose, and combine) </th> </tr>
+  <tr> <td>1</td> <td>Large or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>2</td> <td>Small or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>3</td> <td>Tall or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>4</td> <td>Lean or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>5</td> <td>Squat or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>6</td> <td>Round or XXX</td> <td>XXX or XXX</td> </tr>
+</table>   
+
+| 1d6 | Why did your species run? | 
+|------|------|
+| 1 | **XXX**. XXX. | 
+| 2 | **XXX**. XXX. | 
+| 3 | **XXX**. XXX. | 
+| 4 | **XXX**. XXX. | 
+| 5 | **XXX**. XXX. | 
+| 6 | **XXX**. XXX. | 
+
+### 3 Climber
+XXX
+
+<table>
+  <tr> <th>1d6</th> <th colspan="3"> Climber Appearance (roll twice, choose, and combine) </th> </tr>
+  <tr> <td>1</td> <td>Large or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>2</td> <td>Small or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>3</td> <td>Tall or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>4</td> <td>Lean or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>5</td> <td>Squat or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>6</td> <td>Round or XXX</td> <td>XXX or XXX</td> </tr>
+</table>   
+
+| 1d6 | Why did your species climb? | 
+|------|------|
+| 1 | **XXX**. XXX. | 
+| 2 | **XXX**. XXX. | 
+| 3 | **XXX**. XXX. | 
+| 4 | **XXX**. XXX. | 
+| 5 | **XXX**. XXX. | 
+| 6 | **XXX**. XXX. | 
+
+### 4 Burrower
+XXX
+
+<table>
+  <tr> <th>1d6</th> <th colspan="3"> Burrower Appearance (roll twice, choose, and combine) </th> </tr>
+  <tr> <td>1</td> <td>Large or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>2</td> <td>Small or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>3</td> <td>Tall or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>4</td> <td>Lean or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>5</td> <td>Squat or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>6</td> <td>Round or XXX</td> <td>XXX or XXX</td> </tr>
+</table>   
+
+| 1d6 | Why did your species burrow? | 
+|------|------|
+| 1 | **XXX**. XXX. | 
+| 2 | **XXX**. XXX. | 
+| 3 | **XXX**. XXX. | 
+| 4 | **XXX**. XXX. | 
+| 5 | **XXX**. XXX. | 
+| 6 | **XXX**. XXX. | 
+
+### 5 Swimmer
+XXX
+
+<table>
+  <tr> <th>1d6</th> <th colspan="3"> Swimmer Appearance (roll twice, choose, and combine) </th> </tr>
+  <tr> <td>1</td> <td>Large or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>2</td> <td>Small or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>3</td> <td>Tall or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>4</td> <td>Lean or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>5</td> <td>Squat or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>6</td> <td>Round or XXX</td> <td>XXX or XXX</td> </tr>
+</table>   
+
+| 1d6 | Why did your species swim? | 
+|------|------|
+| 1 | **XXX**. XXX. | 
+| 2 | **XXX**. XXX. | 
+| 3 | **XXX**. XXX. | 
+| 4 | **XXX**. XXX. | 
+| 5 | **XXX**. XXX. | 
+| 6 | **XXX**. XXX. | 
+
+### 6 Ambusher
+XXX
+
+<table>
+  <tr> <th>1d6</th> <th colspan="3"> Ambusher Appearance (roll twice, choose, and combine) </th> </tr>
+  <tr> <td>1</td> <td>Large or XXX</td> <td>XXX or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>2</td> <td>Small or XXX</td> <td>XXX or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>3</td> <td>Tall or XXX</td> <td>XXX or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>4</td> <td>Lean or XXX</td> <td>XXX or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>5</td> <td>Squat or XXX</td> <td>XXX or XXX</td> <td>XXX or XXX</td> </tr>
+  <tr> <td>6</td> <td>Round or XXX</td> <td>XXX or XXX</td> <td>XXX or XXX</td> </tr>
+</table>   
+
+| 1d6 | Why did your species ambush? | 
+|------|------|
+| 1 | **XXX**. XXX. | 
+| 2 | **XXX**. XXX. | 
+| 3 | **XXX**. XXX. | 
+| 4 | **XXX**. XXX. | 
+| 5 | **XXX**. XXX. | 
+| 6 | **XXX**. XXX. | 
 
 ---
 
