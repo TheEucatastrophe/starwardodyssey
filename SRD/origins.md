@@ -12,9 +12,9 @@ nav_order: 2
   <tr> <td>1</td> <td>Spliced Experiment</td> <td>26</td> <td>Station Enforcer</td> <td>51</td> <td>Academy Dropout</td> <td>76</td> <td>Abyssal Watcher</td> </tr>
   <tr> <td>2</td> <td>Boundary Patrol Officer</td> <td>27</td> <td>Station Administrator</td> <td>52</td> <td>Underworld Fixer</td> <td>77</td> <td>Suppressed Psion</td> </tr>
   <tr> <td>3</td> <td>Accretion Racer</td> <td>28</td> <td>Cybernetic Beneficiary</td> <td>53</td> <td>Hivemind</td> <td>78</td> <td>Hologame Designer</td> </tr>
-  <tr> <td>4</td> <td>Orbital Drop Trooper</td> <td>29</td> <td>Liquidator</td> <td>54</td> <td>Humanist Missionary</td> <td>79</td> <td>Derelict Delver</td> </tr>
+  <tr> <td>4</td> <td>Orbital Drop Saboteur</td> <td>29</td> <td>Liquidator</td> <td>54</td> <td>Humanist Missionary</td> <td>79</td> <td>Derelict Delver</td> </tr>
   <tr> <td>5</td> <td>Intrusion Specialist</td> <td>30</td> <td>Belt Poacher</td> <td>55</td> <td>Astro Exile</td> <td>80</td> <td>Under Dweller</td> </tr>
-  <tr> <td>6</td> <td>Xeno-Translator</td> <td>31</td> <td>Wrecker</td> <td>56</td> <td>Reverse Innovator</td> <td>81</td> <td>Tech Chaser</td> </tr>
+  <tr> <td>6</td> <td>Xeno-Linguist</td> <td>31</td> <td>Wrecker</td> <td>56</td> <td>Reverse Innovator</td> <td>81</td> <td>Tech Chaser</td> </tr>
   <tr> <td>7</td> <td>Convergent Species</td> <td>32</td> <td>Defector</td> <td>57</td> <td>Crypt Creeper</td> <td>82</td> <td>Hard Light Entity</td> </tr>
   <tr> <td>8</td> <td>Cult Fabricator</td> <td>33</td> <td>Auxiliarist</td> <td>58</td> <td>Bygone</td> <td>83</td> <td>Big Xeno Hunter</td> </tr>
   <tr> <td>9</td> <td>Zero-G Mixologist</td> <td>34</td> <td>Dockhand</td> <td>59</td> <td>Sponsored Adventurer</td> <td>84</td> <td>Entombed One</td> </tr>
@@ -64,9 +64,9 @@ Here on the very edge of a star's influence, out on the far side of borderspace,
 **You Get:**
 - **Patrol Uniform**.
 - **Dilation Detection Mechanism**. Attaches to the exterior of a starship. Gives a 1 hour early warning when a ship is about exit a jump near you. 
-- **Space Maneuvering Suit**. A vaccsuit that lets you move in any direction while in zero-g. 
+- **Space Mobility Suit**. A vaccsuit that lets you move in any direction while in zero-g. 
 
-| 1d6 | Question? | 
+| 1d6 | Why did you quit? | 
 |------|------|
 | 1 | **TO BE ADDED**. TO BE ADDED. | 
 | 2 | **TO BE ADDED**. TO BE ADDED. | 
@@ -74,17 +74,6 @@ Here on the very edge of a star's influence, out on the far side of borderspace,
 | 4 | **TO BE ADDED**. TO BE ADDED. | 
 | 5 | **TO BE ADDED**. TO BE ADDED. | 
 | 6 | **TO BE ADDED**. TO BE ADDED. | 
-
-- Synthetic Animal Companion. See below.
-
-| 1d6 | What is your synthetic animal? | 
-|------|------|
-| 1 | **Feline**. TO BE ADDED. | 
-| 2 | **Canine**. TO BE ADDED. | 
-| 3 | **Bird**. TO BE ADDED. | 
-| 4 | **Reptile**. TO BE ADDED. | 
-| 5 | **Alien**. TO BE ADDED. | 
-| 6 | **Alien**. TO BE ADDED. | 
 
 ---
 
@@ -103,27 +92,27 @@ On the disk you become one with your skimmer. Body and machine melding into a be
 | 2 | **Emergency Sails**. Deployable solar sails that can pull the skimmer when propulsion is lost. | 
 | 3 | **Burst Capacitor**. Stores harvested energy to be released later for a boost of speed. | 
 | 4 | **Storm Conduit**. During a solar storm, the skimmer will absorb the storm's energy for extra speed. | 
-| 5 | **Prototype Scoop**. An ultra thin fin that increases speed and lowers drag. | 
+| 5 | **Prototype Scoop**. An ultra thin fin that increases speed and lowers drag at the cost of less manoeuvrability. | 
 | 6 | **Gravity Tether**. Move the skimmer closer or further from disk's star without changing direction. | 
 
 ---
 
-## 4 Orbital Drop Trooper
+## 4 Orbital Drop Saboteur
 TO BE ADDED.
 
 **You Get:**
-- **Military fatigues**.
-- **Kinetic Polymer Combat Armour**. 2 AP.
-- **Quick Polygel**. 3 uses, instantly restore 2 AP.
+- **Military fatigues**. 
+- **Utility Harness**. Turns 2 pack slots into ready slots.
+- **Plasma Cutter**. Can cut through a solid metre of plasteel in 10 minutes flat.
 
-| 1d6 |What weapon saved your life? | 
+| 1d6 | TO BE ADDED | 
 |------|------|
-| 1 | **TO BE ADDED**. You get a machine gun (4 dmg,  shout range, full auto, +1 slot). | 
-| 2 | **TO BE ADDED**. You get a shotgun (2 dmg, throw range, touch blast, +1 slot). | 
-| 3 | **TO BE ADDED**. You get a sidearm (3 dmg, throw range). | 
-| 4 | **TO BE ADDED**. You get a blaster (2 dmg, shout range). | 
-| 5 | **TO BE ADDED**. You get a martial melee weapon (3 dmg, +1 slot). | 
-| 6 | **TO BE ADDED**. You get a long melee weapon (3 dmg, reach, +1 slot). | 
+| 1 | **TO BE ADDED**. TO BE ADDED. | 
+| 2 | **TO BE ADDED**. TO BE ADDED. | 
+| 3 | **TO BE ADDED**. TO BE ADDED. | 
+| 4 | **TO BE ADDED**. TO BE ADDED. | 
+| 5 | **TO BE ADDED**. TO BE ADDED. | 
+| 6 | **TO BE ADDED**. TO BE ADDED. | 
 
 ---
 
@@ -132,7 +121,7 @@ When someone wants to get into somewhere they shouldn’t, they call you. Your l
 
 **You Get:**
 - **Hooded overalls**.
-- **Infiltration suit**. 2 AP
+- **Glitch Mask**. 1 AP. You appear as a jumbled mess of pixels on camera. 
 - **Autopick**. Unlock any key-based mechanical lock in 10 minutes.
   
 | 1d6 | TO BE ADDED | 
@@ -144,24 +133,9 @@ When someone wants to get into somewhere they shouldn’t, they call you. Your l
 | 5 | **TO BE ADDED**. TO BE ADDED. | 
 | 6 | **TO BE ADDED**. TO BE ADDED. | 
 
-d6 
-What was your most high-profile break-in?
-1
-EB Bank Vault.
-2
-Lord M. Ritter’s Pantry.
-3
-Prison Ship: Knave I.
-4
-Star Cairn Factory.
-5
-Mothership Labs.
-6
-Durf Tower Penthouse.
-
 ---
 
-## 6 Xeno-Translator
+## 6 Xeno-Linguist
 You have studied alien languages and dialects the galaxy over. Unfortunately. as a human you can't even begin to make the complex sounds required for most of them.
 
 **You Get:**
@@ -450,21 +424,21 @@ Replicas weren’t just created to look like organic beings, they were created t
 ---
 
 # 13 Shock Trooper
-Description
+TO BE ADDED.
 
 **You Get:**
-- **Apparel**.
-- **Device/Weapon/Armour**.
-- **Unique**.
+- **Military fatigues**.
+- **Kinetic Polymer Combat Armour**. 2 AP.
+- **Quick Polygel**. 3 uses, instantly restore 2 AP.
 
-| 1d6 | Question? | 
+| 1d6 |Which weapon saved your life more times than you can count? | 
 |------|------|
-| 1 | **TO BE ADDED**. TO BE ADDED. | 
-| 2 | **TO BE ADDED**. TO BE ADDED. | 
-| 3 | **TO BE ADDED**. TO BE ADDED. | 
-| 4 | **TO BE ADDED**. TO BE ADDED. | 
-| 5 | **TO BE ADDED**. TO BE ADDED. | 
-| 6 | **TO BE ADDED**. TO BE ADDED. | 
+| 1 | **TO BE ADDED**. You gain a Buff when using machine guns. | 
+| 2 | **TO BE ADDED**. You gain a Buff when using shotguns.| 
+| 3 | **TO BE ADDED**. You gain a Buff when using sidearms. | 
+| 4 | **TO BE ADDED**. You gain a Buff when using blasters. | 
+| 5 | **TO BE ADDED**. You gain a Buff when using martial melee weapons. | 
+| 6 | **TO BE ADDED**. You gain a Buff when using long melee weapons. | 
 
 ---
 
@@ -764,3 +738,21 @@ Description
 | 6 | **TO BE ADDED**. TO BE ADDED. | 
 
 ---
+
+# X Origin
+Description
+
+**You Get:**
+- **Apparel**.
+- **Device/Weapon/Armour**.
+- **Unique**.
+- Synthetic Animal Companion. See below.
+
+| 1d6 | What is your synthetic animal? | 
+|------|------|
+| 1 | **Feline**. TO BE ADDED. | 
+| 2 | **Canine**. TO BE ADDED. | 
+| 3 | **Bird**. TO BE ADDED. | 
+| 4 | **Reptile**. TO BE ADDED. | 
+| 5 | **Alien**. TO BE ADDED. | 
+| 6 | **Alien**. TO BE ADDED. | 
