@@ -62,9 +62,9 @@ Taken as a child or grown in a lab? It matters not. For most of your life you we
 Here on the very edge of a star's influence, out on the far side of borderspace, you can lose yourself to the expanse. Six out of ten officers don't last more than 300 cycles out here. They can't stand the silience.
 
 **You Get:**
-- **Apparel**.
-- **Space Maneuvering Suit**. Move in any direction while in zero-g. 
-- **Unique**.
+- **Patrol Uniform**.
+- **Dilation Detection Mechanism**. Attaches to the exterior of a starship. Gives a 1 hour early warning when a ship is about exit a jump near you. 
+- **Space Maneuvering Suit**. A vaccsuit that lets you move in any direction while in zero-g. 
 
 | 1d6 | Question? | 
 |------|------|
