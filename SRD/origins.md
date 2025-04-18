@@ -223,7 +223,7 @@ The greatest honour brings the greatest position in society, so your people foll
 ---
 
 ## 8 Cult Fabricator
-You worked the forge-temple since you were a child. Tempered by the heat of faith, you now carry the heavy burden of your piety, pledging never to remove it.
+You worked the forge-temple since you were a child. Tempered by the heat of faith, you now carry the heavy burden of your piety to the stars.
 
 **You Get:**
 - **Apparel**.
@@ -281,14 +281,14 @@ Location, location, location they say. What they don’t say is that someone has
 ---
 
 ## 11 Cyber Shocker
-Corporate espionage may have paid your bills, but the machinations of the real world bored you to tears. Cyberspace was where you truly belonged.
+Sometimes a job comes along that you know you shouldn't do. Your last dive was one such job. If you go too deep, you won't come back the same. 
 
 **You Get:**
 - **Leather trench coat**.
 - **Device/Weapon/Armour**.
 - **Virtual interface**. A headset that lets you wirelessly dive into local networks.
 
-| 1d6 | What did you find in the black core? | 
+| 1d6 | What did you find within the rogue core? | 
 |------|------|
 | 1 | **TO BE ADDED**. TO BE ADDED. | 
 | 2 | **TO BE ADDED**. TO BE ADDED. | 
