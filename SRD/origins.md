@@ -84,7 +84,7 @@ On the disk you become one with your skimmer. Body and machine melding into a be
 **You Get:**
 - **Branded jump suit**.
 - **Crash Helmet**. +1 AP, breaks after being Hit.
-- **Sponsored Skimmer**. A narrow single-seat spacecraft with a long under-fin scoop, which is propelled by the energy of a star's accretion disk.
+- **Sponsored Skimmer**. A narrow single-seat spacecraft, with a long under-fin scoop, which is propelled by the energy of a star's accretion disk.
 
 | 1d6 | How did you personalise your skimmer? | 
 |------|------|
@@ -117,14 +117,14 @@ On the disk you become one with your skimmer. Body and machine melding into a be
 ---
 
 ## 5 Intrusion Specialist
-When someone wants to get into somewhere they shouldn’t, they call you. You're on the cutting edge of being where you shouldn't.
+You're on the cutting edge of being where you shouldn't. 
 
 **You Get:**
-- **Hooded overalls**.
-- **Glitch Mask**. 1 AP. You appear as a jumbled mess of pixels on camera. 
+- **Dark overalls**.
+- **Glitch Hoodie**. You appear as a jumbled mess of glitching pixels on camera. 
 - **Autopick**. Unlock any key-based mechanical lock in 10 minutes.
   
-| 1d6 | TO BE ADDED | 
+| 1d6 | Where did you go? | 
 |------|------|
 | 1 | **TO BE ADDED**. TO BE ADDED. | 
 | 2 | **TO BE ADDED**. TO BE ADDED. | 
@@ -136,7 +136,7 @@ When someone wants to get into somewhere they shouldn’t, they call you. You're
 ---
 
 ## 6 Xeno-Linguist
-You have studied alien languages and dialects the galaxy over. Unfortunately. as a human you can't even begin to make the complex sounds required for most of them.
+You have studied alien languages and dialects the galaxy over. If only other people could experience the beauty within. Unfortunately, you can't even begin to make the complex sounds required for most of them.
 
 **You Get:**
 - **Apparel**.
@@ -173,14 +173,14 @@ Roll 1d6 below to determine your species’ culture.
 Your people are deeply connected to something ethereal and intangible, making them protective of their tradition, rituals, and faith.
 
 **You Get:**
-- **Apparel**.
-- **Device/Weapon/Armour**.
+- **Family medalion**.
+- **Resonance Field Belt**. 2SP.
 - **Small alien pet**.
 
 | 1d6 | What form does your people’s power manifest? | 
 |------|------|
-| 1 | **Precognition**.  Gain a Stress to reroll Buffs or Debuffs.. | 
-| 2 | **Mind Voice**. Gain a Stress to give someone a one word command. If they fail a RES save they must obey the command for 1 turn.. | 
+| 1 | **Precognition**.  Gain a Stress to reroll Buffs or Debuffs. | 
+| 2 | **Mind Voice**. Gain a Stress to give someone a one word command. If they fail a RES save they must obey the command for 1 turn. | 
 | 3 | **Psionism**. Gain a Stress to push or pull a creature or object you can see. | 
 | 4 | **Psychometry**. Gain a Stress while touching an object to see an important moment from it’s past. | 
 | 5 | **Astral Projection**. Gain a Stress to send your consciousness to any location within your system for 10 minutes. | 
