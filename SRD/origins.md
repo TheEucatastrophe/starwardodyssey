@@ -66,7 +66,7 @@ Here on the very edge of a star's influence, out on the far side of borderspace,
 - **Dilation Detection Mechanism**. Attaches to the exterior of a starship. Gives a 1 hour early warning when a ship is about exit a jump near you. 
 - **Space Mobility Suit**. A vaccsuit that lets you move in any direction while in zero-g. 
 
-| 1d6 | Why did you quit? | 
+| 1d6 | What did you ignore on the boundary? | 
 |------|------|
 | 1 | **TO BE ADDED**. TO BE ADDED. | 
 | 2 | **TO BE ADDED**. TO BE ADDED. | 
@@ -84,12 +84,12 @@ On the disk you become one with your skimmer. Body and machine melding into a be
 **You Get:**
 - **Branded jump suit**.
 - **Crash Helmet**. +1 AP, breaks after being Hit.
-- **Sponsored Skimmer**. A narrow single-seat spacecraft with a long under-fin scoop to be propelled by the energy of a star's accretion disk.
+- **Sponsored Skimmer**. A narrow single-seat spacecraft with a long under-fin scoop, which is propelled by the energy of a star's accretion disk.
 
 | 1d6 | How did you personalise your skimmer? | 
 |------|------|
 | 1 | **Experimental Catalyst**. You can turn 5 Supplies into a fuel that will double the skimmer's speed for a short time. | 
-| 2 | **Emergency Sails**. Deployable solar sails that can pull the skimmer when propulsion is lost. | 
+| 2 | **Emergency Sails**. Deployable solar sails that pulls the skimmer away from the star. | 
 | 3 | **Burst Capacitor**. Stores harvested energy to be released later for a boost of speed. | 
 | 4 | **Storm Conduit**. During a solar storm, the skimmer will absorb the storm's energy for extra speed. | 
 | 5 | **Prototype Scoop**. An ultra thin fin that increases speed and lowers drag at the cost of less manoeuvrability. | 
@@ -98,11 +98,11 @@ On the disk you become one with your skimmer. Body and machine melding into a be
 ---
 
 ## 4 Orbital Drop Saboteur
-TO BE ADDED.
+
 
 **You Get:**
-- **Military fatigues**. 
-- **Utility Harness**. Turns 2 pack slots into ready slots.
+- **Neoprene jacket**. 
+- **Utility Harness**. Turns 2 pack slots into 2 ready slots.
 - **Plasma Cutter**. Can cut through a solid metre of plasteel in 10 minutes flat.
 
 | 1d6 | TO BE ADDED | 
@@ -117,7 +117,7 @@ TO BE ADDED.
 ---
 
 ## 5 Intrusion Specialist
-When someone wants to get into somewhere they shouldn’t, they call you. Your last job got you into somewhere you really really shouldn’t have.
+When someone wants to get into somewhere they shouldn’t, they call you. You're on the cutting edge of being where you shouldn't.
 
 **You Get:**
 - **Hooded overalls**.
