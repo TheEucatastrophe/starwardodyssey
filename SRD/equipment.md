@@ -76,7 +76,7 @@ nav_order: 1
   <tr> <th colspan="4">Melee Weapons</th> </tr>
   <tr> <td>Crude</td> <td>unarmed, improvised, throwable, etc.</td> <td>1 dmg</td> <td>Negligible</td> </tr>
   <tr> <td>Light</td> <td>dagger, club, staff, etc.</td> <td>2 dmg</td> <td>Cheap</td> </tr>
-  <tr> <td>Martial Rifle</td> <td>sword, axe, mace, warhammer, etc.</td> <td>3 dmg, +1 slot</td> <td>Affordable</td> </tr>
+  <tr> <td>Martial</td> <td>sword, axe, mace, warhammer, etc.</td> <td>3 dmg, +1 slot</td> <td>Affordable</td> </tr>
   <tr> <td>Long</td> <td>spear, halberd, maul, greatsword, etc.</td> <td>3 dmg, reach, +1 slot</td> <td>Expensive</td> </tr>
   <tr> <td>Powered</td> <td>chain axe, impact hammer, cutter, superheated sword, etc.</td> <td>4 dmg, +1 slot</td> <td>Expensive</td> </tr>
 </table>
