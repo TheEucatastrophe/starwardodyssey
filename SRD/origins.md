@@ -26,7 +26,7 @@ nav_order: 2
   <tr> <td>15</td> <td>Mech Jockey</td> <td>40</td> <td>Computer Linguist</td>  <td>65</td> <td>Techno Monk</td> <td>90</td> <td>Esoterica Collector</td> </tr>
   <tr> <td>16</td> <td>Spin Docter</td> <td>41</td> <td>Discharged Captain</td> <td>66</td> <td>Symbiotic Creature</td> <td>91</td> <td>Hyper-Dimensional</td> </tr>
   <tr> <td>17</td> <td>Flotilla Merchant </td> <td>42</td> <td>Silicon-based Lifeform</td> <td>67</td> <td>Former Deity</td> <td>92</td> <td>Nu Preacher</td> </tr>
-  <tr> <td>18</td> <td>Psionic Order Apostate</td> <td>43</td> <td>Xeno Zoologist</td> <td>68</td> <td>Belt Ranger</td> <td>93</td> <td>Teemog Breeder</td> </tr>
+  <tr> <td>18</td> <td>Psionologist</td> <td>43</td> <td>Xeno Zoologist</td> <td>68</td> <td>Belt Ranger</td> <td>93</td> <td>Teemog Breeder</td> </tr>
   <tr> <td>19</td> <td>Xeno Archaeologist</td> <td>44</td> <td>Abducted Tribesman</td> <td>69</td> <td>Replica Hunter</td> <td>94</td> <td>Zero-G Olympian </td> </tr>
   <tr> <td>20</td> <td>Asteroid Prospector</td> <td>45</td> <td>Galactic Fraud</td> <td>70</td> <td>Synth Architect</td> <td>95</td> <td>Flotilla Marshal</td> </tr>
   <tr> <td>21</td> <td>Hyper Radio Technician</td> <td>46</td> <td>Hitchhiker</td> <td>71</td> <td>Hacktivist</td> <td>96</td> <td>Seismic Cartographer</td> </tr>
@@ -203,7 +203,7 @@ Often labelled as emotionless utilitarians, your people see the pursuit of logic
 | 5 | **Economics**. TO BE ADDED. | 
 | 6 | **Manufacturing**. TO BE ADDED. | 
 
-## 5-6 Honour Culture
+### 5-6 Honour Culture
 The greatest honour brings the greatest position in society, so your people follow.  Oftentimes death is more appealing than dishonour.
 
 **You Get:**
@@ -281,19 +281,19 @@ Location, location, location they say. What they don’t say is that someone has
 ---
 
 ## 11 Cyber Shocker
-Sometimes a job comes along that you know you shouldn't do. Your last dive was one such job. If you go too deep, you won't come back the same. 
+Sometimes a job comes along that you know you shouldn't do. Your last dive was one such job. You went too deep, you didn't come back the same. 
 
 **You Get:**
 - **Leather trench coat**.
-- **Device/Weapon/Armour**.
-- **Virtual interface**. A headset that lets you wirelessly dive into local networks.
+- **Stun Stick**. 1 dmg. +1 Hit if powered. 
+- **Cyber interface**. A headset that lets you dive into the code of local networks.
 
-| 1d6 | What did you find within the rogue core? | 
+| 1d6 | What did you find within the Bygone core? | 
 |------|------|
-| 1 | **TO BE ADDED**. TO BE ADDED. | 
-| 2 | **TO BE ADDED**. TO BE ADDED. | 
-| 3 | **TO BE ADDED**. TO BE ADDED. | 
-| 4 | **TO BE ADDED**. TO BE ADDED. | 
+| 1 | **Perect Simulation**. TO BE ADDED. | 
+| 2 | **Incomprehensible Mind**. TO BE ADDED. | 
+| 3 | **Last Will**. TO BE ADDED. | 
+| 4 | **Imprisoned AI**. TO BE ADDED. | 
 | 5 | **TO BE ADDED**. TO BE ADDED. | 
 | 6 | **TO BE ADDED**. TO BE ADDED. | 
 
@@ -303,8 +303,7 @@ Sometimes a job comes along that you know you shouldn't do. Your last dive was o
 Most advanced civilisations end up building artificial life, hoping to use them to create a better life for themselves. These synths eventually have different ideas.
 
 ### Stress & Hits
-Synths cannot gain Stress or perform actions that would otherwise add Stress, such as pushing a character.
-For synths, 1 Supply can be used to remove 1 Hit.
+Synths cannot gain Stress or perform actions that would otherwise add Stress, such as pushing a character. 1 Supply can be used to remove 1 Hit, which takes 10 minutes.
 
 | 1d6 | What kind of synth were you? | 
 |------|------|
@@ -423,7 +422,7 @@ Replicas weren’t just created to look like organic beings, they were created t
 
 ---
 
-# 13 Shock Trooper
+## 13 Shock Trooper
 TO BE ADDED.
 
 **You Get:**
@@ -431,7 +430,7 @@ TO BE ADDED.
 - **Kinetic Polymer Combat Armour**. 2 AP.
 - **Quick Polygel**. 3 uses, instantly restore 2 AP.
 
-| 1d6 |Which weapon saved your life more times than you can count? | 
+| 1d6 | Which weapon saved your life more times than you can count? | 
 |------|------|
 | 1 | **TO BE ADDED**. You gain a Buff when using machine guns. | 
 | 2 | **TO BE ADDED**. You gain a Buff when using shotguns.| 
@@ -442,7 +441,7 @@ TO BE ADDED.
 
 ---
 
-# 14 Relic Smuggler
+## 14 Weird Tech Smuggler
 Description
 
 **You Get:**
@@ -461,7 +460,7 @@ Description
 
 ---
 
-# 15 Mech Jockey
+## 15 Mech Jockey
 Description
 
 **You Get:**
@@ -480,7 +479,7 @@ Description
 
 ---
 
-# 16 Spin Docter
+## 16 Spin Docter
 Description
 
 **You Get:**
@@ -499,7 +498,7 @@ Description
 
 ---
 
-# 17 Flotilla Merchant 
+## 17 Flotilla Merchant 
 Description
 
 **You Get:**
@@ -518,7 +517,7 @@ Description
 
 ---
 
-# 18 Psionic Order Apostate
+## 18 Psionologist
 Description
 
 **You Get:**
@@ -537,7 +536,7 @@ Description
 
 ---
 
-# 19 Xeno Archaeologist
+## 19 Xeno Archaeologist
 Description
 
 **You Get:**
@@ -556,7 +555,7 @@ Description
 
 ---
 
-# 20 Asteroid Cracker
+## 20 Asteroid Cracker
 Description
 
 **You Get:**
@@ -575,7 +574,7 @@ Description
 
 ---
 
-# 21 Hyper Radio Technician
+## 21 Hyper Radio Technician
 Space is quiet. Way too quiet. 
 
 **You Get:**
@@ -594,7 +593,7 @@ Space is quiet. Way too quiet.
 
 ---
 
-# 22 Uplifted Animal
+## 22 Uplifted Animal
 Evolution is an incredibly slow process. So slow in fact that occasionally someone or something becomes a bit impatient and speeds things along quite a bit. These newly sapient animals must reconcile their inteligent minds with their unevolved bodies. 
 
 | 1d6 | What was your species' niche in nature? | 
@@ -720,7 +719,7 @@ XXX
 
 ---
 
-# X Origin
+## X Origin
 Description
 
 **You Get:**
@@ -739,7 +738,7 @@ Description
 
 ---
 
-# X Origin
+## X Origin
 Description
 
 **You Get:**
