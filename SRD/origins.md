@@ -66,14 +66,14 @@ Here on the very edge of a star's influence, out on the far side of borderspace,
 - **Dilation Detection Mechanism**. Attaches to the exterior of a starship. Gives a 1 hour early warning when a ship is about exit a jump near you. 
 - **Space Mobility Suit**. A vaccsuit that lets you move in any direction while in zero-g. 
 
-| 1d6 | What did you ignore on the boundary? | 
+| 1d6 | What happened to you that you won't talk about? | 
 |------|------|
-| 1 | **TO BE ADDED**. TO BE ADDED. | 
-| 2 | **TO BE ADDED**. TO BE ADDED. | 
-| 3 | **TO BE ADDED**. TO BE ADDED. | 
-| 4 | **TO BE ADDED**. TO BE ADDED. | 
-| 5 | **TO BE ADDED**. TO BE ADDED. | 
-| 6 | **TO BE ADDED**. TO BE ADDED. | 
+| 1 | **A Voice from Beyond**. There was a voice. You can still hear its echoes. If you take 10 minutes to listen to the echoes, you can ask the Ref any question about your current situation to get a true one-word answer. | 
+| 2 | **Flotilla Refugees**. A desperate fleet of ships fleeing danger begged you not to report them. You are considered a ally of the Flotilla.| 
+| 3 | **Unexplainable Visitation**. You were visited by a curious ghost-like creature that vanished into your body. Gain 1HD, but the creature will leave if you have more than 3 Stress. | 
+| 4 | **Back Alley Deal**. You witnessed an illegal meeting between a local leader and a criminal. You have evidence of the meeting. | 
+| 5 | **Covered Up Atrocity**. You saw the unjust attack on a defensless group. You have evidence of the cover up. | 
+| 6 | **Dead Drop**. You saw a ship jettison a load of cargo. Gain ¤9| 
 
 ---
 
@@ -98,12 +98,12 @@ On the disk you become one with your skimmer. Body and machine melding into a be
 ---
 
 ## 4 Orbital Drop Saboteur
-
+You know better than most that wars are not won by the strength of one's military, but by the stability of their logistics. In the right hands at the right place, a simple plasma cutter is more effective than an entire army.
 
 **You Get:**
 - **Neoprene jacket**. 
 - **Utility Harness**. Turns 2 pack slots into 2 ready slots.
-- **Plasma Cutter**. Can cut through a solid metre of plasteel in 10 minutes flat.
+- **Plasma Cutter**. Can cut through a solid metre of nanosteel in 10 minutes flat.
 
 | 1d6 | TO BE ADDED | 
 |------|------|
@@ -117,14 +117,14 @@ On the disk you become one with your skimmer. Body and machine melding into a be
 ---
 
 ## 5 Intrusion Specialist
-You're on the cutting edge of being where you shouldn't. 
+You're on the cutting edge of being where you shouldn't. A skill that is often condemned but also highly sort after.
 
 **You Get:**
 - **Dark overalls**.
 - **Glitch Hoodie**. You appear as a jumbled mess of glitching pixels on camera. 
 - **Autopick**. Unlock any key-based mechanical lock in 10 minutes.
   
-| 1d6 | Where did you go? | 
+| 1d6 | Who was your last client? | 
 |------|------|
 | 1 | **TO BE ADDED**. TO BE ADDED. | 
 | 2 | **TO BE ADDED**. TO BE ADDED. | 
@@ -173,7 +173,7 @@ Roll 1d6 below to determine your species’ culture.
 Your people are deeply connected to something ethereal and intangible, making them protective of their tradition, rituals, and faith.
 
 **You Get:**
-- **Family medalion**.
+- **House amulet**.
 - **Resonance Field Belt**. 2SP.
 - **Small alien pet**.
 
@@ -191,8 +191,8 @@ Often labelled as emotionless utilitarians, your people see the pursuit of logic
 
 **You Get:**
 - **Apparel**.
-- **Device/Weapon/Armour**.
-- **Unique**.
+- **Particle Phase Disruptor**. 3dmg, sight range
+- **Sphere of Silence** A deplayable device that projects a bubble, big enough to fit 3 humans, that sound cannot penetrate.
 
 | 1d6 | What was your assigned lifepath? | 
 |------|------|
@@ -209,7 +209,7 @@ The greatest honour brings the greatest position in society, so your people foll
 **You Get:**
 - **Ceremonial robes**.
 - **Exotic sword**. 3 dmg.
-- **Unique**. 
+- **Trophy** A memento of a previous victory. 
 
 | 1d6 | What is your people’s honourable calling? | 
 |------|------|
@@ -226,28 +226,27 @@ The greatest honour brings the greatest position in society, so your people foll
 You worked the forge-temple since you were a child. Tempered by the heat of faith, you now carry the heavy burden of your piety to the stars.
 
 **You Get:**
-- **Apparel**.
-- **Device/Weapon/Armour**.
-- **Anointed hammer & tongs**. Use a Supply to restore all of your armour’s AP. This takes 1 hour. 
+- **Sacred tattoos**.
+- **Kinetic resonance appron**. 1SP. 
+- **Anointed forge tools**. Use a Supply to restore all of your armour’s AP. This takes 1 hour. 
 
 | 1d6 | What is your sacred burden? | 
 |------|------|
-| 1 | **Saint XXX's Helmet**. +1 AP. | 
-| 2 | **Saint XXX's Gauntlet**. +1 unarmed dmg. | 
-| 3 | **Saint XXX's Pauldrons**. +1 AP. +1 slot. | 
-| 4 | **Saint XXX's Maul**. 3 dmg, reach, +2 slots. | 
-| 5 | **Saint XXX's Tower Shield**. +2 AP, +1 slot. | 
-| 6 | **Saint XXX's Scaled cloak**. +1 AP. | 
+| 1 | **Saint Guilian's Helmet**. +1 AP. | 
+| 2 | **Saint Rution's Gauntlet**. +1 unarmed dmg. | 
+| 3 | **Saint Feddir's Pauldrons**. +1 AP. +1 slot. | 
+| 4 | **Saint Olmn's Maul**. 3 dmg, reach, +2 slots. | 
+| 5 | **Saint Ypsol's Tower Shield**. +2 AP, +1 slot. | 
+| 6 | **Saint Paul's Scaled cloak**. +1 AP. | 
 
 ---
 
 ## 9 Zero-g Mixologist
-
-Not all space stations have artificial gravity. Mixing cocktails in these conditions proved to be a highly specialised and entertaining skill.
+Most space stations have artificial gravity. Mixing cocktails in these conditions proved to be a highly specialised and entertaining skill.
 
 **You Get:**
-- **Apparel**.
-- **Device/Weapon/Armour**.
+- **Skimpy neon outfit**.
+- **Personal Space Enforcer**. Deals 3dmg to successful melee attacks against you. 
 - **Cocktail shaker**. Use a Supply to make the drink you invented. *(see below)*
 
 | 1d6 | What drink did you invent? | 
@@ -290,11 +289,11 @@ Sometimes a job comes along that you know you shouldn't do. Your last dive was o
 
 | 1d6 | What did you find within the Bygone core? | 
 |------|------|
-| 1 | **Perect Simulation**. TO BE ADDED. | 
+| 1 | **Perfect Simulation**. TO BE ADDED. | 
 | 2 | **Incomprehensible Mind**. TO BE ADDED. | 
-| 3 | **Last Will**. TO BE ADDED. | 
+| 3 | **Last Will and Testament**. TO BE ADDED. | 
 | 4 | **Imprisoned AI**. TO BE ADDED. | 
-| 5 | **TO BE ADDED**. TO BE ADDED. | 
+| 5 | **Universal Backdoor**. TO BE ADDED. | 
 | 6 | **TO BE ADDED**. TO BE ADDED. | 
 
 ---
@@ -328,42 +327,39 @@ Synths cannot gain Stress or perform actions that would otherwise add Stress, su
 Utility bots are responsible for the maintenance of complex machinery and communications with computer systems.
 
 **You Get:**
-- **TO BE ADDED**.
 - **Computer Linguist**. You can access computer systems from a distance through audible bleeps and bloops.
 
-| 1d6 | Question? | 
+| 1d6 | What were you tasked to maintain? | 
 |------|------|
-| 1 | **TO BE ADDED**. TO BE ADDED. | 
-| 2 | **TO BE ADDED**. TO BE ADDED. | 
-| 3 | **TO BE ADDED**. TO BE ADDED. | 
-| 4 | **TO BE ADDED**. TO BE ADDED. | 
-| 5 | **TO BE ADDED**. TO BE ADDED. | 
-| 6 | **TO BE ADDED**. TO BE ADDED. | 
+| 1 | **Starships**. TO BE ADDED. | 
+| 2 | **Other Robots**. TO BE ADDED. | 
+| 3 | **Computer Systems**. TO BE ADDED. | 
+| 4 | **Combat Gear**. TO BE ADDED. | 
+| 5 | **Terrestrial Vehicles**. TO BE ADDED. | 
+| 6 | **Factory Machinery**. TO BE ADDED. | 
 
 ### 2 Civil Protection Drone
 Equipped with state of the art suppression tools, security drones offer civic protection and first response services.
 
 **You Get:**
-- **TO BE ADDED**.
 - **Threat Sensors**. You can never be surprised by an encounter.
 
-| 1d6 | Question? | 
+| 1d6 | What was your assigned duty? | 
 |------|------|
-| 1 | **TO BE ADDED**. TO BE ADDED. | 
-| 2 | **TO BE ADDED**. TO BE ADDED. | 
-| 3 | **TO BE ADDED**. TO BE ADDED. | 
-| 4 | **TO BE ADDED**. TO BE ADDED. | 
-| 5 | **TO BE ADDED**. TO BE ADDED. | 
-| 6 | **TO BE ADDED**. TO BE ADDED. | 
+| 1 | **Fire Suppression**. TO BE ADDED. | 
+| 2 | **Police Force**. TO BE ADDED. | 
+| 3 | **Disarster Response**. TO BE ADDED. | 
+| 4 | **Field Medic**. TO BE ADDED. | 
+| 5 | **Unrest Control**. TO BE ADDED. | 
+| 6 | **Wilderness Survival**. TO BE ADDED. | 
 
 ### 3 Frontline Combat Unit
-Loaded with an entire arsenal, these killing machines are often deployed to the front lines of galactic conflicts.
+Loaded with an entire arsenal, these killing machines are often deployed to the front lines of interstellar conflicts.
 
 **You Get:**
-- **TO BE ADDED**.
 - **Weapon Mounts**. Attach up to 2 weapons to your body, taking up no inventory slots.
 
-| 1d6 | Question? | 
+| 1d6 | Whose war did you fight? | 
 |------|------|
 | 1 | **TO BE ADDED**. TO BE ADDED. | 
 | 2 | **TO BE ADDED**. TO BE ADDED. | 
@@ -376,23 +372,21 @@ Loaded with an entire arsenal, these killing machines are often deployed to the 
 Programmed with enhanced personality matrices, androids are perfectly suited to socially engage with organic beings.
 
 **You Get:**
-- **TO BE ADDED**.
 - **Empath Module**. Detect when someone you are talking to is lying.
 
-| 1d6 | Question? | 
+| 1d6 | Whom did you serve? | 
 |------|------|
-| 1 | **TO BE ADDED**. TO BE ADDED. | 
-| 2 | **TO BE ADDED**. TO BE ADDED. | 
-| 3 | **TO BE ADDED**. TO BE ADDED. | 
-| 4 | **TO BE ADDED**. TO BE ADDED. | 
-| 5 | **TO BE ADDED**. TO BE ADDED. | 
-| 6 | **TO BE ADDED**. TO BE ADDED. | 
+| 1 | **Lady Elidine**. TO BE ADDED. | 
+| 2 | **General XXX**. TO BE ADDED. | 
+| 3 | **Free Trader XXX**. TO BE ADDED. | 
+| 4 | **Ambassador XXX**. TO BE ADDED. | 
+| 5 | **Senator XXX**. TO BE ADDED. | 
+| 6 | **Detective XXX**. TO BE ADDED. | 
 
 ### 5 Virtual Presence
-Designed as virtual assistants and companions, VPs can hop from device to device, roaming free through cyberspace.
+Designed as virtual assistants and companions, free VPs can hop from device to device, roaming free through cyberspace.
 
 **You Get:**
-- **TO BE ADDED**.
 - **Digitally Untethered**. You can occupy any vacant computer on your network, but you can only have 1 HD. Rolling your HD determines whether or not you can escape to another computer when Hit.
 
 | 1d6 | What were you created to be? | 
@@ -405,10 +399,9 @@ Designed as virtual assistants and companions, VPs can hop from device to device
 | 6 | **Vitual World Character**. TO BE ADDED. | 
 
 ### 6 Replica
-Replicas weren’t just created to look like organic beings, they were created to replace them. To what end you do not know.
+Replicas weren’t just created to look like human beings, they were created to replace them. To what end you do not know.
 
 **You Get:**
-- **TO BE ADDED**.
 - **Replacement**. Roll again on the origins table (reroll if non-human). You replaced their life, taking their appearance and their memories.
 
 | 1d6 | What subtle tell gives your nature away? | 
@@ -442,7 +435,7 @@ TO BE ADDED.
 ---
 
 ## 14 Weird Tech Smuggler
-Description
+Weird tech can fetch a good price to the right buyer. Because most interstellar powers lay claim to all weird tech found within their borders, most buyers are the shadey black market types. 
 
 **You Get:**
 - **Apparel**.
