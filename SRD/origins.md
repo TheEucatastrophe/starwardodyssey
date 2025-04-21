@@ -25,7 +25,7 @@ nav_order: 2
   <tr> <td>14</td> <td>Weird Tech Smuggler</td> <td>39</td> <td>Freebooter</td> <td>64</td> <td>Galactic Hauler</td> <td>89</td> <td>Clean Slate</td> </tr>
   <tr> <td>15</td> <td>Mech Jockey</td> <td>40</td> <td>Computer Linguist</td>  <td>65</td> <td>Techno Monk</td> <td>90</td> <td>Esoterica Collector</td> </tr>
   <tr> <td>16</td> <td>Spin Docter</td> <td>41</td> <td>Discharged Captain</td> <td>66</td> <td>Symbiotic Creature</td> <td>91</td> <td>Hyper-Dimensional</td> </tr>
-  <tr> <td>17</td> <td>Flotilla Merchant </td> <td>42</td> <td>Silicon-based Lifeform</td> <td>67</td> <td>Former Deity</td> <td>92</td> <td>Nu Preacher</td> </tr>
+  <tr> <td>17</td> <td>Flotilla Trader </td> <td>42</td> <td>Silicon-based Lifeform</td> <td>67</td> <td>Former Deity</td> <td>92</td> <td>Nu Preacher</td> </tr>
   <tr> <td>18</td> <td>Psionologist</td> <td>43</td> <td>Xeno Zoologist</td> <td>68</td> <td>Belt Ranger</td> <td>93</td> <td>Teemog Breeder</td> </tr>
   <tr> <td>19</td> <td>Xeno Archaeologist</td> <td>44</td> <td>Abducted Tribesman</td> <td>69</td> <td>Replica Hunter</td> <td>94</td> <td>Zero-G Olympian </td> </tr>
   <tr> <td>20</td> <td>Asteroid Prospector</td> <td>45</td> <td>Galactic Fraud</td> <td>70</td> <td>Synth Architect</td> <td>95</td> <td>Flotilla Marshal</td> </tr>
@@ -435,17 +435,17 @@ TO BE ADDED.
 ---
 
 ## 14 Weird Tech Smuggler
-Weird tech can fetch a good price to the right buyer. Because most interstellar powers lay claim to all weird tech found within their borders, most buyers are the shadey black market types. 
+Relics, artefacts, anomalies, whatever you call it, weird tech can fetch a good price to the right buyer. Because most interstellar powers lay claim to all weird tech found within their borders, most buyers are the shadey black market types. 
 
 **You Get:**
 - **Apparel**.
 - **Device/Weapon/Armour**.
-- **Unique**.
+- **Supression Film**. 3 uses, any item wrapped up in the film cannot be detected by scanners.
 
-| 1d6 | Question? | 
+| 1d6 | What weird tech did you keep for yourself? | 
 |------|------|
-| 1 | **TO BE ADDED**. TO BE ADDED. | 
-| 2 | **TO BE ADDED**. TO BE ADDED. | 
+| 1 | **Reflector Prism**. A super reflective icosahedron crystal that reflects all damaged blocked by your shield back at your attacker. 3 uses. Recharge:  | 
+| 2 | **Brain Scorcher**. A spinning crystal on the end of a metallic rod. Target has all their memories from the last 4 hours erased and they gain a Stress. 3 uses. Recharge:  | 
 | 3 | **TO BE ADDED**. TO BE ADDED. | 
 | 4 | **TO BE ADDED**. TO BE ADDED. | 
 | 5 | **TO BE ADDED**. TO BE ADDED. | 
@@ -453,7 +453,7 @@ Weird tech can fetch a good price to the right buyer. Because most interstellar 
 
 ---
 
-## 15 Mech Jockey
+## 15 MEC Jockey
 Description
 
 **You Get:**
@@ -491,7 +491,7 @@ Description
 
 ---
 
-## 17 Flotilla Merchant 
+## 17 Flotilla Trader 
 Description
 
 **You Get:**
@@ -511,18 +511,18 @@ Description
 ---
 
 ## 18 Psionologist
-Description
+While not a wholy discredited field of study, psionology has been deemed a largely useless area of interest. This is in part due to the fact that the ability is almost entirely lost on humans. 
 
 **You Get:**
 - **Apparel**.
 - **Device/Weapon/Armour**.
-- **Unique**.
+- **PsiAmp Implant**. Takes a permanent ready slot. Allows you to use your psionic ability. Gain a Stress with each use. 
 
-| 1d6 | Question? | 
+| 1d6 | Which psionic ability did you master? | 
 |------|------|
-| 1 | **TO BE ADDED**. TO BE ADDED. | 
-| 2 | **TO BE ADDED**. TO BE ADDED. | 
-| 3 | **TO BE ADDED**. TO BE ADDED. | 
+| 1 | **Shimmer**. Gain a Buff while defending against attacks until the end of the encounter. | 
+| 2 | **Mind Link**. Communicate telepathically with a creature you touch for 1 hour. | 
+| 3 | **Energy Siphon**. Recharge a power source to full. | 
 | 4 | **TO BE ADDED**. TO BE ADDED. | 
 | 5 | **TO BE ADDED**. TO BE ADDED. | 
 | 6 | **TO BE ADDED**. TO BE ADDED. | 
@@ -537,7 +537,7 @@ Description
 - **Device/Weapon/Armour**.
 - **Unique**.
 
-| 1d6 | Question? | 
+| 1d6 | What did you discover? | 
 |------|------|
 | 1 | **TO BE ADDED**. TO BE ADDED. | 
 | 2 | **TO BE ADDED**. TO BE ADDED. | 
@@ -591,12 +591,12 @@ Evolution is an incredibly slow process. So slow in fact that occasionally someo
 
 | 1d6 | What was your species' niche in nature? | 
 |------|------|
-| 1 | **Grazer**. TO BE ADDED. | 
-| 2 | **Scavenger**. TO BE ADDED. | 
-| 3 | **Browser**. TO BE ADDED. | 
-| 4 | **Pursuer**. TO BE ADDED. | 
-| 5 | **xxx**. TO BE ADDED. | 
-| 6 | **Ambusher**. TO BE ADDED. | 
+| 1 | **Grazer** | 
+| 2 | **Scavenger** | 
+| 3 | **Browser** | 
+| 4 | **Pursuer** | 
+| 5 | **Builder** | 
+| 6 | **Ambusher**| 
 
 <table>
   <tr> <th>1d6</th> <th colspan="3"> Species' Appearance (roll three times, choose, and combine) </th> </tr>
@@ -604,12 +604,12 @@ Evolution is an incredibly slow process. So slow in fact that occasionally someo
   <tr> <td>2</td> <td>Small or Quadruped</td> <td>Feathers or Armour plates</td> <td>Tusks or Long tail</td>  </tr>
   <tr> <td>3</td> <td>Tall or Hexaped</td> <td>Dry scales or Hairless</td> <td>Long snout or Short tail</td>  </tr>
   <tr> <td>4</td> <td>Lean or Digitigrade</td> <td>Wet scales or Blubber</td> <td>Large ears or Thick tail</td>  </tr>
-  <tr> <td>5</td> <td>Squat or Unguligrade</td> <td>Carapace or Quills</td> <td>Large eyes or Flat tail</td>  </tr>
-  <tr> <td>6</td> <td>Stocky or Plantigrade</td> <td>Thick skin or Mucosal skin</td> <td>Horns or Stubby tail</td>  </tr>
+  <tr> <td>5</td> <td>Squat or Unguligrade</td> <td>Carapace or Mucosal skin</td> <td>Large eyes or Flat tail</td>  </tr>
+  <tr> <td>6</td> <td>Stocky or Plantigrade</td> <td>Thick skin or Quills</td> <td>Horns or Stubby tail</td>  </tr>
 </table> 
 
 ### 1 Grazer
-XXX 
+The land was plentiful 
 
 **You Get:**
 - **Apparel**.
@@ -631,7 +631,7 @@ XXX
 **You Get:**
 - **Apparel**.
 - **Device/Weapon/Armour**.
-- **Unique**.
+- **Short Digestive Tract**. You are immune to raw and rotting foods. 
 
 | 1d6 | How did your species scavenge? | 
 |------|------|
@@ -639,7 +639,7 @@ XXX
 | 2 | **Opportunity**. XXX. | 
 | 3 | **Reducing**. XXX. | 
 | 4 | **Stealing**. XXX. | 
-| 5 | **XXX**. XXX. | 
+| 5 | **Symbiosis**. XXX. | 
 | 6 | **XXX**. XXX. | 
 
 ### 3 Browser
@@ -652,12 +652,12 @@ XXX
 
 | 1d6 | Why did your species climb? | 
 |------|------|
-| 1 | **XXX**. XXX. | 
-| 2 | **XXX**. XXX. | 
-| 3 | **XXX**. XXX. | 
-| 4 | **XXX**. XXX. | 
-| 5 | **XXX**. XXX. | 
-| 6 | **XXX**. XXX. | 
+| 1 | **For Food**. XXX. | 
+| 2 | **For Nesting**. XXX. | 
+| 3 | **For Safety**. XXX. | 
+| 4 | **For Reproduction**. XXX. | 
+| 5 | **For Migration**. XXX. | 
+| 6 | **For XXX**. XXX. | 
 
 ### 4 Pursuer
 XXX 
@@ -667,7 +667,7 @@ XXX
 - **Device/Weapon/Armour**.
 - **Unique**.
 
-| 1d6 | Why did your species burrow? | 
+| 1d6 | How did your species pursue its prey? | 
 |------|------|
 | 1 | **XXX**. XXX. | 
 | 2 | **XXX**. XXX. | 
@@ -676,7 +676,7 @@ XXX
 | 5 | **XXX**. XXX. | 
 | 6 | **XXX**. XXX. | 
 
-### 5 XXX
+### 5 Builder
 XXX 
 
 **You Get:**
@@ -684,7 +684,7 @@ XXX
 - **Device/Weapon/Armour**.
 - **Unique**.
 
-| 1d6 | Why did your species swim? | 
+| 1d6 | What did your species build? | 
 |------|------|
 | 1 | **XXX**. XXX. | 
 | 2 | **XXX**. XXX. | 
@@ -708,7 +708,7 @@ XXX
 | 3 | **Lure**. XXX. | 
 | 4 | **Conceal**. XXX. | 
 | 5 | **Capture**. XXX. | 
-| 6 | **XXX**. XXX. | 
+| 6 | **Wait**. XXX. | 
 
 ---
 
