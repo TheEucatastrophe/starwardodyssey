@@ -71,16 +71,14 @@ A ship always arrives at the very edge of a star system, since jump drives do no
 
 The path between two points might run through a cosmic obstacle of some kind. When this is the case, a jump can still be made, but at a risk.
 
-| | |
-|------|------|
-| Monitored | Someone or something is watching this route and will be alerted to your presence. |
-| Minefield | 1-in-6 chance of the ship taking 3 Hits to a random module. |
-| Nova Scar | 1-in-6 chance of your jump drive being Wrecked upon arrival. |
-| Debris Field | 1d6 random modules will be malfunctioning upon arrival. |
-| Nebula | 1-in-6 chance of your reactor being Wrecked upon arrival. |
-| Cosmic Radiation | Everyone on the ship gains 1d6 Stress. |
-| Rift | Reduces travel time by half. |
-| Void | 1-in-6 chance to be trapped inside a small pocket of Deep Space. |
+- **Monitored**. Someone or something is watching this route and will be alerted to your presence.
+- **Minefield**. 1-in-6 chance of the ship taking 3 Hits to a random module.
+- **Nova Scar**. 1-in-6 chance of your jump drive being Wrecked upon arrival.
+- **Debris Field**. 1d6 random modules will be malfunctioning upon arrival.
+- **Nebula**. 1-in-6 chance of your reactor being Wrecked upon arrival.
+- **Cosmic** Radiation. Everyone on the ship gains 1d6 Stress.
+- **Rift**. Reduces travel time by half.
+- **Void**. 1-in-6 chance to be trapped inside a small pocket of Deep Space.
 
 ## Deep Space
 

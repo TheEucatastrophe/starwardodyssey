@@ -19,7 +19,7 @@ Ref characters come in all different shapes and sizes. From tiny asteroid dwelli
 
 ## Reaction
 
-When first encountering the crew, creatures and characters will react in a way that is appropriate for the current situation and their own goals. When uncertain about their reaction, roll 2d6 and consult the table below.
+When first encountering the crew, other creatures and characters will react in a way that is appropriate for the current situation and their own goals. When uncertain about their reaction, roll 2d6 and consult the table below.
 
 | 2d6 | Ref Character Reactions |
 |------|------|

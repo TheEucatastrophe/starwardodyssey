@@ -59,7 +59,7 @@ Hyperfuel can be found flowing from spatial anomalies, leaking from ancient dere
 
 ## Weird Tech
 
-Cutting-edge, experimental, or unexplainable devices are one of a kind wonders to behold. They are immediately recognisable as being odd, powerful, or almost  magical in nature, but the properties can only be discovered through use or careful experimentation. They attract the power hungry and are often fought after. They can be found in ancient derelicts, black-site research facilities, megacorp laboratories, alien vaults, etc.
+Cutting-edge, experimental, or unexplainable devices are one of a kind wonders to behold. They are immediately recognisable as being odd, powerful, or almost  magical in nature, but the properties can only be discovered through use or careful experimentation. They attract the power hungry and are often fought after. You won't find them in any storefront, but they can be found in ancient derelicts, black-site research facilities, megacorp laboratories, alien vaults, etc.
 
 ### Recharge
-They often have limited use, requiring the PCs to fulfill a recharge condition in order to use again. 
+Weird tech often has limited use, requiring the you to fulfill a recharge condition in order to use again. 
