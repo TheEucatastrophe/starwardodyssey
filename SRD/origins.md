@@ -180,8 +180,8 @@ Your people are deeply connected to something ethereal and intangible, making th
 | 1d6 | What form does your people’s power manifest? | 
 |------|------|
 | 1 | **Precognition**.  Gain a Stress to reroll Buffs or Debuffs. | 
-| 2 | **Mind Voice**. Gain a Stress to give someone a one word command. If they fail a RES save they must obey the command for 1 turn. | 
-| 3 | **Psionism**. Gain a Stress to push or pull a creature or object you can see. | 
+| 2 | **Mind Voice**. Gain a Stress to give someone a one word command. If they fail an opposed RES roll they must obey the command for 1 turn. | 
+| 3 | **Telekinetic Force**. Gain a Stress to push or pull a creature or object you can see. | 
 | 4 | **Psychometry**. Gain a Stress while touching an object to see an important moment from it’s past. | 
 | 5 | **Astral Projection**. Gain a Stress to send your consciousness to any location within your system for 10 minutes. | 
 | 6 | **Energy Manipulation**. Gain a Stress to remove a Hit from yourself or someone you touch. | 
@@ -523,8 +523,8 @@ While not a wholy discredited field of study, psionology has been deemed a large
 | 1 | **Shimmer**. Gain a Buff while defending against attacks until the end of the encounter. | 
 | 2 | **Mind Link**. Communicate telepathically with a creature you touch for 1 hour. | 
 | 3 | **Energy Siphon**. Recharge a power source to full. | 
-| 4 | **TO BE ADDED**. TO BE ADDED. | 
-| 5 | **TO BE ADDED**. TO BE ADDED. | 
+| 4 | **Full Sight**. See 360 degrees around you for 10 minutes. | 
+| 5 | **Redirect**. . | 
 | 6 | **TO BE ADDED**. TO BE ADDED. | 
 
 ---
