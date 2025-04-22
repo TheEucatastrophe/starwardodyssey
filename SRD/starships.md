@@ -6,7 +6,7 @@ has_children: true
 nav_order: 3
 ---
 
-# Starships
+# Your Starship
 
 Your starship is your home and your ticket to explore the vast expanse. They aren’t difficult to operate, as most folk in the galaxy know the basics. 
 Attached to your PC's origin is a starting starship. Once everyone has created their characters, you must decide as a group which starship out of your origins you want to keep. That will be your crew's starship.
