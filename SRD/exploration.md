@@ -7,9 +7,7 @@ nav_order: 8
 
 # Exploration
 
-The bulk of what the crew will be doing is exploring sites of intrigue, mystery, or danger. A site is a distinct space that is broken up into interconnected rooms or areas, which the crew will be moving between. 
-
-## Exploration Procedure
+The bulk of what the crew will be doing is exploring sites of intrigue, mystery, or danger. A site is any space that is broken up into connecting rooms or areas. 
 
 1. **Information**. The Ref describes the crew’s locale, as well as any obvious dangers. The players should ask questions about the location.
 2. **Actions**. The players declare what they want their characters to do and the referee resolves each character’s actions simultaneously. 
@@ -17,11 +15,11 @@ The bulk of what the crew will be doing is exploring sites of intrigue, mystery,
 
 ## Exploration Events
 
-Each time the crew does one of the triggers below, add 1d6 to a pool of dice and roll them. Compare the lowest result to the exploration events table.
+Each time an event is triggered, add 1d6 to a pool of dice and roll them. Compare the lowest result to the exploration events table.
 
-The Ref must telegraph any and all danger and risk to the PCs. They must inform the players when they are about to perform an action that will trigger an event roll.
+The Ref must telegraph any and all danger and risk to the PCs and inform them when they are about to perform an action that will trigger an event roll.
 
-**Event Triggers:**
+**General Event Triggers:**
 - **Linger** for too long in the same place.
 - Move **carelessly** through an area.
 - Create a **disturbance**.
