@@ -7,15 +7,13 @@ nav_order: 9
 
 # World Travel
 
-Occasionally the crew may need to make a journey across an area of a planet or moon without their starship. Regions will be marked with a number of points of interest such as landmarks, settlements, or outposts. These points will be connected by paths indicating the duration of a journey in hours or cycles.
+Occasionally the crew may need to journey across a region of a world without their starship. Regions will be marked with a number of points of interest such as landmarks, settlements, or sites. These points will be connected by paths indicating the travel duration, in hours or cycles, between those points.
 
 ## Travel Procedure
 1. **Information**. The referee describes the crew’s current location, weather, terrain, and branching paths.  
 2. **Travel**. The crew chooses a point to travel towards and the referee describes the journey.  
 3. **Event**. The referee rolls for the travel event, describing what occurs along the journey. The crew makes actions to resolve the event..
 4. **Arrival**. After the event is resolved, the crew reaches their destination, unless they choose to alter their route.
-
-While overland travel is an important aspect of many adventures, it should not be the focus.  Keep it short and simple, punctuated by key moments of crew action.
 
 ##Travel Events
 Roll a 1d6 for each hour or cycle of a journey. Compare the lowest result on the travel events table below. 
