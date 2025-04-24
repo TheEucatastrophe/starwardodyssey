@@ -55,13 +55,13 @@ Fully automatic weapons can suppress a target that is in cover. If the suppresse
 
 If your attack roll is a **20** on the d20, the attack is a flourish. Flourishes allow your character to perform an extra non-damaging action as part of their normal attack. This action must affect the original target of the attack and can be anything with a similar impact as disarming, pushing, stunning, blinding, breaking gear, tripping, restraining, or anything else the Ref deems reasonable.
 
-If you roll a **1** on the d20 during an attack, your character fumbles their attack and their weapon becomes worn. A worn weapon has its damage reduced to 1 until it is repaired. A worn weapon can be repaired by using a Supply, which takes roughly 10.  minutes. Rolling a fumble with an already worn weapon causes it to break.
+If you roll a **1** on your d20 during an attack, your character fumbles their attack and their weapon becomes worn. A worn weapon has its damage reduced to 1 until it is repaired. A worn weapon can be repaired by using a Supply, which takes roughly 10 minutes. Rolling a fumble with an already worn weapon causes it to break.
 
 ## Hits, Armour, & Shields
 
-If a character takes damage while wearing armour, the damage first reduces their Armour Points (AP). If no Armour Points remain, they take the remaining damage as Hits. Each Hit takes up an inventory slot. 2 AP can be restored by using Supply, which takes 1 turn. Some attacks or effects may deal Hits directly, ignoring a character’s armour.
+If a character takes damage while protected by an energy shield, the damage is first reduced by their Shield Points (SP), but is never reduced below 1. If a character is wearing armour, the remaining damage then reduces their Armour Points (AP). If no Armour Points remain, they take the remaining damage as Hits. Each Hit takes up an inventory slot. 2 AP can be restored by using Supply, which takes roughly 10 minutes. Some attacks or effects may deal Hits directly, ignoring a character’s armour.
 
-If a character takes damage while wearing an energy shield, or similar protective barrier, the damage is first reduced by their Shield Points (SP), but is never reduced below 1. Some attacks or effects may ignore or deplete Shield Points. Shields require power and recharge 1 SP each round of an encounter. 
+Some attacks or effects may ignore or deplete Shield Points. Shields require power and recharge full at the end of an encounter. During an encounter, 1 SP can be restore by marking 1 use of your power source.
 
 ## Health Dice, Defeat, & Death
 
