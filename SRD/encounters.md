@@ -7,11 +7,11 @@ nav_order: 6
 
 # Encounters
 
-While out travelling or exploring, your crew may encounter rivals, hostiles, or events that obstruct or pose a risk. When this happens, the game is played over a number of rounds until the encounter is resolved. Every round has three phases: 
+While out travelling or exploring, your crew may encounter creatures, characters, or events that obstruct or pose a risk. When this happens, the game is played over a number of rounds until the encounter is resolved. Every round has three phases: 
 
-1. **Fast RCs Act**. Characters or creatures which have greater than human speed or agility take turns making actions.
+1. **Fast RCs Act**. Anything with greater than human speed or agility take turns making actions.
 2. **PCs Act**. Each of the PCs take turns making actions.
-3. **Slow RCs Act**. Characters or creatures which have speed or agility comparable or slower than a human take turns making actions.
+3. **Slow RCs Act**. Anything that has speed or agility comparable or slower than a human take turns making actions.
 
 On a character’s turn they can make an action that can be reasonably achievable in roughly 10 seconds, such as attacking, using a device, sprinting for cover, or anything else deemed reasonable by the referee.
 
@@ -59,17 +59,17 @@ If you roll a **1** on your d20 during an attack, your character fumbles their a
 
 ## Hits, Armour, & Shields
 
-If a character takes damage while protected by an energy shield, the damage is first reduced by their Shield Points (SP), but is never reduced below 1. If a character is wearing armour, the remaining damage then reduces their Armour Points (AP). If no Armour Points remain, they take the remaining damage as Hits. Each Hit takes up an inventory slot. 
+If your character takes damage while protected by an energy shield, the damage is first reduced by their Shield Points (SP), but is never reduced below 1. If they are wearing armour, the remaining damage then reduces their Armour Points (AP). If no Armour Points remain, they take the remaining damage as Hits. Each Hit takes up an inventory slot. 
 
-2 AP can be restored by using Supply, which takes roughly 10 minutes. Some attacks or effects may deal Hits directly, ignoring a character’s armour.
+A Supply can be used to restore 2 AP, which takes roughly 10 minutes. Some attacks or effects may deal Hits directly, ignoring a character’s armour.
 
-Some attacks or effects may ignore or deplete Shield Points. Shields require power and recharge full at the end of an encounter. During an encounter, 1 SP can be restore by marking 1 use of your power source.
+Some attacks or effects may ignore or deplete Shield Points. 1 SP can be restored by marking 1 use of your power source.
 
 ## Health Dice, Defeat, & Death
 
-Each point of HD is a d6 that is rolled whenever the character is Hit. Hits may be gained as a result of a dangerous action or from combat. If the result of the HD roll is less than or equal to the Hits a character has accumulated, their luck runs out and they are defeated. If all the dice show the same value, they are killed instantly.
+Whenever your character takes hits roll a number of d6s equal to their HD. If the result of the roll is less than or equal to the Hits they have accumulated, their luck runs out and they are defeated. If all the dice show the same value, they are killed.
 
-A defeated character is completely helpless, unable to succeed saves or make any meaningful actions, until they are stabilised with aid. If a defeated character takes any further Hits, they are dead.
+A defeated character is completely helpless, unable to resist or make any meaningful actions, until they are stabilised with appropriate aid. If a defeated character takes any further Hits, or is left without aid for an hour, they die.
 
 Healing
 Hits can be removed with appropriate medical attention, such as from a health professional. Stress can only be removed with stress relieving activities. 
