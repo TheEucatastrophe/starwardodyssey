@@ -10,10 +10,10 @@ nav_order: 9
 Occasionally the crew may need to journey across a region of a world without their starship. Regions will be marked with a number of points of interest such as landmarks, settlements, or sites. These points will be connected by paths indicating the travel duration, in hours or cycles, between those points.
 
 ## Travel Procedure
-1. **Information**. The referee describes the crew’s current location, weather, terrain, and branching paths.  
-2. **Travel**. The crew chooses a point to travel towards and the referee describes the journey.  
-3. **Event**. The referee rolls for the travel event, describing what occurs along the journey. The crew makes actions to resolve the event..
-4. **Arrival**. After the event is resolved, the crew reaches their destination, unless they choose to alter their route.
+1. **Inform**. The referee describes the crew’s current location, weather, terrain, and branching paths.  
+2. **Act**. The crew chooses a point to travel towards and the referee describes the journey.  
+3. **React**. The referee rolls for the travel event, describing what occurs along the journey. The crew makes actions to resolve the event.
+4. **Arrive**. After the event is resolved, the crew reaches their destination, unless they choose to alter their route.
 
 ##Travel Events
 Roll a 1d6 for each hour or cycle of a journey. Compare the lowest result on the travel events table below. 
@@ -23,7 +23,7 @@ Roll a 1d6 for each hour or cycle of a journey. Compare the lowest result on the
 | 1 | **Encounter**. Roll on the region’s encounter table. |
 | 2 | **Sighting**. Roll on the region’s encounter table. The crew finds evidence of that encounter nearby. |
 | 3 | **Attrition**. Every character loses 1 Supply for equipment maintenance and food consumption. Failure to do so adds a Stress. |
-| 4 | **Drain**. Mark 1d3 usages on all active power sources. |
+| 4 | **Drain**. Mark a usage on all active power sources. |
 | 5-6 | **All Clear**. Nothing of note occurs. |
 
 # Space Travel
