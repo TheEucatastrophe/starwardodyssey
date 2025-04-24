@@ -7,7 +7,7 @@ nav_order: 8
 
 # Exploration
 
-The bulk of what the crew will be doing is exploring sites of intrigue, mystery, or danger. A site is any space that is broken up into connecting rooms or areas. 
+The bulk of what the crew will be doing is exploring sites of intrigue, mystery, or danger. A site is any location that is broken up into connecting rooms or areas. The PCs will be moving from room to room, thoroughly exploring the site, dealing with whatever encounters they may face, picking up loot, and completing objectives.
 
 1. **Information**. The Ref describes the crew’s locale, as well as any obvious dangers. The players should ask questions about the location.
 2. **Actions**. The players declare what they want their characters to do and the referee resolves each character’s actions simultaneously. 
