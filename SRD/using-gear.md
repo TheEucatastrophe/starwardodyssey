@@ -37,4 +37,4 @@ Anything expensive, uncommon, or complex, such as; weapons, armour, ammo, electr
 
 ## Trade
 
-Goods and services are acquire with local currencies or hyperfuel cells. Cells are capsules of hyperfuel which are used for interstellar travel and major transactions. 3 cells take up 1 inventory slot. Minor currencies and transactions are not tracked. 
+Goods and services are acquire with local currencies or jacks. Jacks are small containers of hyperfuel which are used for interstellar travel and major transactions. 3 jacks take up 1 inventory slot. Minor currencies and transactions are not tracked. 
