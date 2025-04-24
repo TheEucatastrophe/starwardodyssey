@@ -71,5 +71,5 @@ Whenever your character takes hits roll a number of d6s equal to their HD. If th
 
 A defeated character is completely helpless, unable to resist or make any meaningful actions, until they are stabilised with appropriate aid. If a defeated character takes any further Hits, or is left without aid for an hour, they die.
 
-Healing
+### Healing
 Hits can be removed with appropriate medical attention, such as from a health professional. Stress can only be removed with stress relieving activities. 
