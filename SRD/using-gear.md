@@ -9,37 +9,31 @@ nav_order: 4
 # Using Gear
 
 ## Inventory Slots
-Gear and items are placed in your character’s inventory slots. Most items take 1 inventory slot to carry. Bulky or heavy items may take 2 or more slots. Small or light items take up no slots. Characters have 6 ready slots and 6 packed slots.
+Items are placed in your character’s inventory slots. Most items take up 1 slot, but heavy/bulky items take more and light/small items take none. You have 12 inventory slots.
 
 ### Ready Slots
-Items in ready slots are easily accessible and can be quickly accessed or wielded. Anything that must be worn or held to be useful must be placed in these slots.
+6 slots are ready slots, which are easily accessible and can be quickly accessed or wielded. Anything that must be worn or held to be useful must be placed in these slots.
 
 ### Packed Slots
-Items in packed slots are stowed away and take time to retrieve, especially when under pressure. 
+6 slots are packed slots. Items in packed slots take time to retrieve, especially when under pressure. 
 
 ## Usage
 
-Some items can be used multiple times before they are depleted. Mark the item each time it is used, or when indicated. Once all uses are marked, remove the item from your inventory.
+Some items can be used a limited number of times. Mark the item each time it is used. Once all uses are marked, the item is depleted or unusable.
 
 ## Power
 
-Electronic gear requires Power to function. As long as a character has a power source in their inventory, their items will be powered. Certain situations, such as travelling or exploring may cause you to mark one or more uses. Some power-hungry items may need their own power source to function. 
+Electronic gear requires power to function. As long as you have a usable power source in your inventory, your items will be powered.
 
 ## Supply
 
-Supply is an abstract item representing the basic gear your PC can bring with them, and takes up 1 slot.
-At any time during the game, you may convert a Supply your character is carrying into any simple, commonly available item. The Ref determines which items can be acquired using Supply and which should be bought or acquired separately.
-A Supply can also be used to repair armour and weapons. 
+*Supply* is a 1 slot catch-all item representing basic gear, tools, and materials. At any time during the game, you may convert a *Supply* your character is carrying into a simple, commonly available item. The Ref determines which items can be acquired using Supply. Supply can also be used to repair armour and weapons.
 
 ### Supply Examples
-Anything cheap, common, and simple, such as; 3 days of rations, telescopic pole, thermal bedroll, glow markers, prybar, bandages, steel cable, canteen, etc.
+Anything cheap, common, and simple, such as; rations, telescopic pole, thermal bedroll, glow markers, prybar, bandages, steel cable, canteen, hammer, basic clothes, etc.
 
 ### Non-supply Examples
 Anything expensive, uncommon, or complex, such as; weapons, armour, ammo, electronics, auto-tent, battery pack, vehicles, fancy clothing, etc.
-
-## Cargo
-
-Anything too big or heavy for people to carry, such as containers full of raw materials, is designated as a cargo item. Just like inventory slots, cargo items take up cargo slots in a starship. Each module has a number of cargo slots equal to its HD. Roughly 10 inventory slots makes 1 cargo slot.
 
 ## Trade
 
