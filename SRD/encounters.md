@@ -53,11 +53,9 @@ Fully automatic weapons can suppress a target that is in cover. If the suppresse
 
 ## Flourishes & Fumbles
 
-If your attack roll is a **20** on the d20, the attack is a flourish. Flourishes allow your character to perform an extra action as part of their normal attack. This action must affect the original target of the attack and can be anything with a similar impact as disarming, pushing, stunning, blinding, breaking gear, tripping, restraining, or anything else the Ref deems plausible.
+If your attack roll is a **20** on the d20, the attack is a flourish. Flourishes allow your character to perform an extra non-damaging action as part of their normal attack. This action must affect the original target of the attack and can be anything with a similar impact as disarming, pushing, stunning, blinding, breaking gear, tripping, restraining, or anything else the Ref deems reasonable.
 
-If you roll a **1** on the d20 during an attack, your PC fumbles their attack and they weapon becomes worn. A worn weapon has its damage reduced to 1 until it is repaired. Rolling a fumble with an already worn weapon causes it to break.
-
-A worn weapon can be repaired by using a Supply, which takes 1 turn.
+If you roll a **1** on the d20 during an attack, your character fumbles their attack and their weapon becomes worn. A worn weapon has its damage reduced to 1 until it is repaired. A worn weapon can be repaired by using a Supply, which takes roughly 10.  minutes. Rolling a fumble with an already worn weapon causes it to break.
 
 ## Hits, Armour, & Shields
 
