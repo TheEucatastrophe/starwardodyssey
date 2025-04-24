@@ -7,7 +7,7 @@ nav_order: 5
 
 # Actions
 
-After the Ref has detailed the current situation, each player will have a chance to tell the Ref what their character is doing. On your turn, your character can do anything reasonably achievable with the time, resources, and skills they have. If there is no risk, uncertainty, or threat, your PC will perform the action as desired.
+After the Ref has described the current situation, each player will have a chance to tell the Ref what their character is doing. On your turn, your character can do anything reasonably achievable with the time, resources, and skills they have. If there is no risk, uncertainty, or threat, your PC will perform the action as desired.
 
 ## Resist Rolls
 
