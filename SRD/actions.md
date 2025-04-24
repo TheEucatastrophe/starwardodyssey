@@ -22,20 +22,12 @@ When your character’s action is counteracted or resisted by another character,
 
 ## Buffs & Debuffs 
 
-When a PC has an advantage on an action, they gain a Buff. When they suffer a setback or disadvantage, they gain a Debuff. Buffs and Debuffs cancel each other out. When making a resist roll, roll a d6 for each Buff or Debuff. The highest Buff result adds to your roll. The highest Debuff result subtracts from your roll.
+If a PC has an advantage on an action, they gain a Buff. If they have a disadvantage, they gain Debuff. Buffs and Debuffs cancel each other out. When making a resist roll, roll a d6 for each Buff or Debuff. The highest Buff result adds to your roll. The highest Debuff result subtracts from your roll.
 
 ## Stress
 
-Some actions and situations will cause a PC to receive Stress. Each instance of Stress takes up an inventory slot. If there are no empty slots available, the PC’s HD is reduced to 0.
+Some actions and situations will cause a PC to receive Stress. Each instance of Stress takes up an inventory slot. If there are no empty slots available, you must drop an item to make space.
 
 ### Pushing a Character
 
-Before making a resist roll, PCs can gain a Stress to receive a Buff on the roll. They may choose to push their character multiple times on a single roll.
-
-## Scale of Actions
-
-While playing the game, you will be switching back and forth between different timescales, depending on what you are doing. This changes the scale of your actions.
-
-- **Encounters** play out in 10 second intervals, which is enough time for a character to move and perform an action such as activating a device, retrieving a packed item, or firing a weapon.
-- **Exploration** plays out in 10 minute intervals, which is enough time for you to search a room, bypass a lock, or do any other significant activity while exploring a site.
-- **Travel** plays out in a matter of hours or cycles (24 hours), which measures the time it takes to travel across a large area on foot, fly to the nearest planet, or jump to another star system.
+Before making a resist roll, your character can gain a Stress to receive a Buff. You may choose to push your character multiple times on a single roll.
