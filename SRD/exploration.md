@@ -16,9 +16,7 @@ Upon entering a new room, use the following procedure:
 
 ## Exploration Events
 
-Each time an event is triggered, add 1d6 to a pool of dice and roll them. Compare the lowest result to the exploration events table.
-
-The Ref must telegraph any and all danger and risk to the PCs and inform them when they are about to perform an action that will trigger an event roll.
+Each time an event is triggered, add 1d6 to a pool of dice and roll them. Compare the lowest result to the exploration events table. The Ref should inform the PCs when they are about to perform an action that will trigger an event roll. 
 
 **General Event Triggers:**
 - **Linger** for too long in the same place.
@@ -26,13 +24,13 @@ The Ref must telegraph any and all danger and risk to the PCs and inform them wh
 - Enters a **new section** of the site.
 - Create a **disturbance**.
 
-Some locations may have more specific actions or situations which will trigger event rolls, such as triggering an alarm.
+Some locations may have other triggers specific to them.
 
 | 1d6 | Exploration Events |
 |------|------|
-| 1 | **Encounter**. Reset the event pool and roll on the location’s encounter table. |
-| 2 | **Sign**. Roll on the location’s encounter table. The crew finds evidence of that encounter nearby. |
-| 3 | **Shift**. Something about the location changes. Advance the location's shift track. |
+| 1 | **Encounter**. Reset the event pool and roll on the site’s encounter table. |
+| 2 | **Sign**. Roll on the site’s encounter table. The crew finds evidence of that encounter nearby. |
+| 3 | **Shift**. Something about the location changes. Advance the site's shift track. |
 | 4 | **Drain**. Mark a usage on all active power sources. |
 | 5-6 | **All Clear**. Nothing of note occurs. Remove a die from the event pool. |
 
