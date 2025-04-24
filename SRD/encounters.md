@@ -59,7 +59,9 @@ If you roll a **1** on your d20 during an attack, your character fumbles their a
 
 ## Hits, Armour, & Shields
 
-If a character takes damage while protected by an energy shield, the damage is first reduced by their Shield Points (SP), but is never reduced below 1. If a character is wearing armour, the remaining damage then reduces their Armour Points (AP). If no Armour Points remain, they take the remaining damage as Hits. Each Hit takes up an inventory slot. 2 AP can be restored by using Supply, which takes roughly 10 minutes. Some attacks or effects may deal Hits directly, ignoring a character’s armour.
+If a character takes damage while protected by an energy shield, the damage is first reduced by their Shield Points (SP), but is never reduced below 1. If a character is wearing armour, the remaining damage then reduces their Armour Points (AP). If no Armour Points remain, they take the remaining damage as Hits. Each Hit takes up an inventory slot. 
+
+2 AP can be restored by using Supply, which takes roughly 10 minutes. Some attacks or effects may deal Hits directly, ignoring a character’s armour.
 
 Some attacks or effects may ignore or deplete Shield Points. Shields require power and recharge full at the end of an encounter. During an encounter, 1 SP can be restore by marking 1 use of your power source.
 
