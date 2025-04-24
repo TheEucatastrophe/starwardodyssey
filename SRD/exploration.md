@@ -10,9 +10,9 @@ nav_order: 8
 The bulk of what the crew will be doing is exploring sites of intrigue, mystery, or danger. A site is any location that is broken up into connecting rooms or areas. 
 
 Upon entering a new room, use the following procedure:
-1. **Inform**. The Ref describes the obvious details of the space. The players should ask questions about the location.
+1. **Inform**. The Ref describes the obvious details and dangers of the space. Players should ask questions about the location.
 2. **Act**. The players declare what they want their characters to do and the referee resolves each character’s actions simultaneously. 
-3. **React**. If appropriate, the referee should roll on the exploration events table. Once the event is resolved, repeat the procedure.
+3. **React**. If appropriate, the referee will roll on the exploration events table and the player get a chance to react to the result.
 
 ## Exploration Events
 
