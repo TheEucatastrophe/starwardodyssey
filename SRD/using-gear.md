@@ -37,23 +37,4 @@ Anything expensive, uncommon, or complex, such as; weapons, armour, ammo, electr
 
 ## Trade
 
-The Cage is home to many cultures, nations, factions, species, and communities who all have their own way to buy and sell things. If you want to trade, you need to use the local systems.
-
-### Hyperfuel Cells
-Within interstellar communities, hyperfuel is always in high demand. It is the extra-dimensional fluid used to enable interstellar travel. 3 hyperfuel cells (¤) can be stored in 1 inventory slot. ¤1  is used to jump 1 lightyear away and is roughly equivalent to 10 standard gold slabs or 100 credits. 
-
-Cost/value estimates are as follows:
-1. **Negligible**. > ¤1
-2. **Cheap**. +- ¤3
-3. **Affordable**. +- ¤15
-4. **Expensive**. +- ¤100
-5. **Exorbitant**. +- ¤1k
-
-Hyperfuel can be found flowing from spatial anomalies, leaking from ancient derelicts, or stored in alien megastructures.
-
-## Weird Tech
-
-Cutting-edge, experimental, or unexplainable devices are one of a kind wonders to behold. They are immediately recognisable as being odd, powerful, or almost  magical in nature, but the properties can only be discovered through use or careful experimentation. They attract the power hungry and are often fought after. You won't find them in any storefront, but they can be found in ancient derelicts, black-site research facilities, megacorp laboratories, alien vaults, etc.
-
-### Recharge
-Weird tech often has limited use, requiring the you to fulfill a recharge condition in order to use again. 
+Goods and services are acquire with local currencies or hyperfuel cells. Cells are capsules of hyperfuel which are used for interstellar travel and major transactions. 3 cells take up 1 inventory slot. Minor currencies and transactions are not tracked. 
