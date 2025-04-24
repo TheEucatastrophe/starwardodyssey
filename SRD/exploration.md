@@ -23,6 +23,7 @@ The Ref must telegraph any and all danger and risk to the PCs and inform them wh
 **General Event Triggers:**
 - **Linger** for too long in the same place.
 - Move **carelessly** through an area.
+- Enters a **new section** of the site.
 - Create a **disturbance**.
 
 Some locations may have more specific actions or situations which will trigger event rolls, such as triggering an alarm.
