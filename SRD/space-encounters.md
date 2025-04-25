@@ -49,9 +49,7 @@ Each time a module is hit, roll its Hull Dice. If the result is less than or equ
 If the result is greater than the Hits, the module experiences an emergency. 
 
 ### Emergencies
-
-The amount rolled over the number of Hits determines the type of emergency. *For example; if a module has 3 Hits and the HD roll is 6, it takes the 3rd emergency result (Burning).*
-Emergencies are removed after appropriate action by the crew is made. 
+The amount rolled over the module’s Hits determines the type of emergency.  Emergencies are removed after appropriate action by the crew is made.
 
 |||
 |------|------| 
@@ -67,4 +65,4 @@ Emergencies are removed after appropriate action by the crew is made.
 
 ## Repairs
 
-Spending 1 cycle per 2HD docked in a safe starport clears all emergencies, repairs all Wrecked modules, and removes all Hits. Repairing the ship outside of a spaceport requires time and Supply. 10 Supply can be used to remove 2 Hits or repair a Wrecked module. This process takes 1 cycle.
+Spending 3 cycles in a safe spaceport clears all emergencies, repairs all Wrecked modules, and removes all Hits. 10 Supply can be used to remove 2 Hits or repair a Wrecked module outside of a spaceport. This process takes 1 cycle.
