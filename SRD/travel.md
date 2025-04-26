@@ -15,7 +15,7 @@ Occasionally the crew may need to journey across a region of a world without the
 3. **React**. The referee rolls for the travel event, describing what occurs along the journey. The crew makes actions to resolve the event.
 4. **Arrive**. After the event is resolved, the crew reaches their destination, unless they choose to alter their route.
 
-##Travel Events
+## Travel Events
 Roll a 1d6 for each hour or cycle of a journey. Compare the lowest result on the travel events table below. 
 
 | 1d6 | Travel Events |
