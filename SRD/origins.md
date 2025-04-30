@@ -642,7 +642,7 @@ XXX
 | 5 | **Symbiosis**. XXX. | 
 | 6 | **XXX**. XXX. | 
 
-### 3 Browser
+### 3 Forager
 XXX 
 
 **You Get:**
