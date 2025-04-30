@@ -136,21 +136,21 @@ You're on the cutting edge of being where you shouldn't. A skill that is often c
 ---
 
 ## 6 Domicile Printer
-You have studied alien languages and dialects the galaxy over. If only other people could experience the beauty within. Unfortunately, you can't even begin to make the complex sounds required for most of them.
+xxx
 
 **You Get:**
 - **Apparel**.
 - **Device/Weapon/Armour**.
-- **Xenobox**. Plays sounds from alien speech that humans cannot replicate.
+- **Unique**.
 
-| 1d6 | What is your favourite alien word? | 
+| 1d6 | Question? | 
 |------|------|
-| 1 | **Psjjjjjjjjjjjjj**. TO BE ADDED. | 
-| 2 | **Ynt**. TO BE ADDED. | 
-| 3 | **Propacaoet**. TO BE ADDED. | 
-| 4 | **Lhoomblh**. TO BE ADDED. | 
-| 5 | **Qu^-Qu^——Q-up**. TO BE ADDED. | 
-| 6 | **Yoh**. TO BE ADDED. | 
+| 1 | **xxx**. TO BE ADDED. | 
+| 2 | **xxx**. TO BE ADDED. | 
+| 3 | **xxx**. TO BE ADDED. | 
+| 4 | **xxx**. TO BE ADDED. | 
+| 5 | **xxx**. TO BE ADDED. | 
+| 6 | **xxx**. TO BE ADDED. | 
 
 ---
 
