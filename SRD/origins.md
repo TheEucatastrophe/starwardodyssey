@@ -14,7 +14,7 @@ nav_order: 2
   <tr> <td>3</td> <td>Accretion Racer</td> <td>28</td> <td>Cybernetic Beneficiary</td> <td>53</td> <td>Hivemind</td> <td>78</td> <td>Hologame Designer</td> </tr>
   <tr> <td>4</td> <td>Orbital Drop Saboteur</td> <td>29</td> <td>Liquidator</td> <td>54</td> <td>Humanist Missionary</td> <td>79</td> <td>Derelict Delver</td> </tr>
   <tr> <td>5</td> <td>Intrusion Specialist</td> <td>30</td> <td>Belt Poacher</td> <td>55</td> <td>Astro Exile</td> <td>80</td> <td>Under Dweller</td> </tr>
-  <tr> <td>6</td> <td>Domicile Printer</td> <td>31</td> <td>Wrecker</td> <td>56</td> <td>Reverse Innovator</td> <td>81</td> <td>Tech Chaser</td> </tr>
+  <tr> <td>6</td> <td>Domicile Manufacturer</td> <td>31</td> <td>Wrecker</td> <td>56</td> <td>Reverse Innovator</td> <td>81</td> <td>Tech Chaser</td> </tr>
   <tr> <td>7</td> <td>Convergent Species</td> <td>32</td> <td>Defector</td> <td>57</td> <td>Crypt Creeper</td> <td>82</td> <td>Hard Light Entity</td> </tr>
   <tr> <td>8</td> <td>Cult Fabricator</td> <td>33</td> <td>Auxiliarist</td> <td>58</td> <td>Bygone</td> <td>83</td> <td>Big Xeno Hunter</td> </tr>
   <tr> <td>9</td> <td>Zero-G Mixologist</td> <td>34</td> <td>Dockhand</td> <td>59</td> <td>Sponsored Adventurer</td> <td>84</td> <td>Entombed One</td> </tr>
@@ -135,8 +135,8 @@ You're on the cutting edge of being where you shouldn't. A skill that is often c
 
 ---
 
-## 6 Domicile Printer
-xxx
+## 6 Domicile Manufacturer
+Gone are the days of the early settlers dropping down metal prefabs. We, like our ancient ancestors, prefer to use the very dirt and stones we walk on the build our homes.
 
 **You Get:**
 - **Apparel**.
